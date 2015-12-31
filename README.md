@@ -34,6 +34,8 @@ TODO short description
 
 ## References
 
+- [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video&t=790)
+
 ## License
 
 ![CCBY](CCBY.png)
