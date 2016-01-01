@@ -1,6 +1,6 @@
 ## Background
 
-More individuals, organizations and companies are starting to realize the potential of open source. An important question is obviously how projects can be funded to enable individuals to subsist and work on open source full time. This document aims to be an open guide to open funding of open source projects.
+More individuals, organizations and companies are starting to realize the potential of open source. An important question is obviously how projects can be funded to enable individuals to subsist and work on open source full time. This document aims to be an open guide to grant funding of open source projects.
 
 ## A list of funding opportunities
 
@@ -30,7 +30,7 @@ http://edgeryders.eu/en/opencare/welcome-to-opencare
 
 TODO short description
 
-## TODO A list of rejected projects (and why)
+## A list of rejected projects
 
 ## References
 
