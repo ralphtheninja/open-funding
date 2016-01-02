@@ -34,7 +34,7 @@ TODO short description
 
 https://ghost.org/about/
 
-TODO short description
+Ghost is an open source blogging platform. The project is run and organized by The Ghost Foundation, which is a non-profit organization. Ghost is completely free to use if you host it yourself. You can pay for it if you need help with hosting your blog. This is what funds further development and The Ghost Foundation calls this *Sustainable Open Source*.
 
 ## A list of rejected projects
 
