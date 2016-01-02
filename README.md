@@ -30,6 +30,12 @@ http://edgeryders.eu/en/opencare/welcome-to-opencare
 
 TODO short description
 
+### GHOST
+
+https://ghost.org/about/
+
+TODO short description
+
 ## A list of rejected projects
 
 ## Also see
