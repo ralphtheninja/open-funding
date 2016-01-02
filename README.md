@@ -4,6 +4,12 @@ More individuals, organizations and companies are starting to realize the potent
 
 ## A list of funding opportunities
 
+### Horizon 2020
+
+http://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020
+
+Horizon 2020 is the biggest EU Research and Innovation programme ever with nearly €80 billion of funding available over between 2014 and 2020. You need a consortium to apply. See Holger Krekels talk at 32c3 (link below) for a more detailed description.
+
 ### InnovationsFonden
 
 http://innovationsfonden.dk/da/faq-innobooster
