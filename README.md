@@ -14,7 +14,7 @@ TODO short description
 
 https://www.internetfonden.se/om/
 
-TODO short description
+InternetFonden is a Swedish fund run by *Internetstiftelsen i Sverige* or IIS, which administer the Swedish `.se` TLD. Parts of the earnings from selling .se domains goes to various projects that benefit the development of internet in Sweden and one of them is InternetFonden. Since 2004 the fund has financed [323 projects](https://www.internetfonden.se/projekt/) for a total of 65M SEK (7.7M USD/7.1M EUR/5.2M GBP). Applicants can be companies, organizations or private people as long as they have a Swedish organization number or social security number.
 
 ## A list of funded projects
 
