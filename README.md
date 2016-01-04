@@ -22,6 +22,19 @@ https://www.internetfonden.se/om/
 
 InternetFonden is a Swedish fund run by *Internetstiftelsen i Sverige* or IIS, which administer the Swedish `.se` TLD. Parts of the earnings from selling .se domains goes to various projects that benefit the development of internet in Sweden and one of them is InternetFonden. Since 2004 the fund has financed [323 projects](https://www.internetfonden.se/projekt/) for a total of 65M SEK (7.7M USD/7.1M EUR/5.2M GBP). Applicants can be companies, organizations or private people as long as they have a Swedish organization number or social security number.
 
+### Mozilla Open Source Support (MOSS)
+
+https://wiki.mozilla.org/MOSS
+
+Mozilla Open Source Support (MOSS) is a grant program specifically focused on supporting the Open Source and Free Software movement, with an initial allocation of USD $1 million.
+
+### Core Infrastructure Initiative (CII)
+
+https://www.coreinfrastructure.org/
+
+The Core Infrastructure Initiative, or CII, is a multi-million dollar project to fund and support critical elements of the global information infrastructure. It is organized by The Linux Foundation and supported by companies like Amazon Web Services, Google and IBM. CII was formed as a response to the Heartbleed security crisis; however, the Initiative’s efforts will not be restricted to crypto-related issues in the long term.
+
+
 ## A list of funded projects
 
 ### DAT
