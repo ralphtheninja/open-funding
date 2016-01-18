@@ -14,7 +14,7 @@ Horizon 2020 is the biggest EU Research and Innovation programme ever with nearl
 
 http://innovationsfonden.dk/da/faq-innobooster
 
-TODO short description
+`InnovationsFonden` or `Innovation Fund Denmark` invests in both large and small projects and they don't require any stake in the project nor repayment. They have three different programs targeting the whole range from large scale research projects to smaller enterprises and entrepreneurs down to talented individuals within the research space. Funds can be anything between 50k to 5M DKK depending on the size of the project.
 
 ### InternetFonden
 
