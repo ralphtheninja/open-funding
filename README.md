@@ -41,7 +41,9 @@ The Core Infrastructure Initiative, or CII, is a multi-million dollar project to
 
 http://dat-data.com/
 
-TODO short description
+From the `DAT` homepage:
+
+> The high level goal of the dat project is to build a streaming interface between every database and file storage backend in the world. By building tools to build and share data pipelines we aim to bring to data a style of collaboration similar to what git brings to source code.
 
 ### OPENCARE
 
