@@ -45,6 +45,12 @@ From the `SIDN` homepage:
 Similarly to `InnovationsFonden`, `SIDN` also funds projects on different levels. Smaller projects - `Pioneer projects` - can receive a maximum of 10k EUR and larger projects - `Potentials projects` - up to 75k EUR.
 
 
+### The Awesome Foundation
+
+http://www.awesomefoundation.org/en/about_us
+
+Apply for grants and get funded $1000 at a time.
+
 ## A list of funded projects
 
 ### DAT
