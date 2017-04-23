@@ -73,8 +73,6 @@ https://ghost.org/about/
 
 Ghost is an open source blogging platform. The project is run and organized by The Ghost Foundation, which is a non-profit organization. Ghost is completely free to use if you host it yourself. You can pay for it if you need help with hosting your blog. This is what funds further development and The Ghost Foundation calls this *Sustainable Open Source*.
 
-## A list of rejected projects
-
 ## Also see
 
 - [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video&t=790)
