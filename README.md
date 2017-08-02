@@ -53,9 +53,9 @@ http://www.awesomefoundation.org/en/about_us
 
 Apply for grants and get funded $1000 at a time.
 
-## Noteable Projects
+## Notable Projects
 
-List of noteable projects that have received grants.
+List of notable projects that have received grants.
 
 ### DAT
 
