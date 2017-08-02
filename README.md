@@ -1,4 +1,4 @@
-## Background
+# Background
 
 More individuals, organizations and companies are starting to realize the potential of open source. An important question is obviously how projects can be funded to enable individuals to subsist and work on open source full time. This document aims to be an open guide to grant funding of open source projects.
 
@@ -53,7 +53,9 @@ http://www.awesomefoundation.org/en/about_us
 
 Apply for grants and get funded $1000 at a time.
 
-## A list of funded projects
+## Noteable Projects
+
+List of noteable projects that have received grants.
 
 ### DAT
 
