@@ -26,7 +26,7 @@ InternetFonden is a Swedish fund run by *Internetstiftelsen i Sverige* or IIS, w
 
 ### Mozilla Open Source Support (MOSS)
 
-https://wiki.mozilla.org/MOSS
+https://www.mozilla.org/en-US/moss/, https://www.mozilla.org/en-US/grants/
 
 Mozilla Open Source Support (MOSS) is a grant program specifically focused on supporting the Open Source and Free Software movement, with an initial allocation of USD $1 million.
 
