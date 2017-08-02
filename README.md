@@ -2,7 +2,9 @@
 
 More individuals, organizations and companies are starting to realize the potential of open source. An important question is obviously how projects can be funded to enable individuals to subsist and work on open source full time. This document aims to be an open guide to grant funding of open source projects.
 
-## A list of funding opportunities
+## Grants
+
+A list of funding opportunities that follow the grants model. This type of funding is usually carried out in batches, i.e. the fund in question release a certain amount of money each year and it's spread out over multiple projects. Grant funding often allows you to plan and execute projects over a longer period of time.
 
 ### Horizon 2020
 
