@@ -64,7 +64,8 @@ List of notable projects that have received grants.
 
 ### DAT
 
-https://datproject.org/
+Website: https://datproject.org/
+Github: https://github.com/datproject/
 
 From the `DAT` homepage:
 
@@ -83,6 +84,13 @@ OPENCARE is a project trying to figure out ways of combining modern science and 
 https://ghost.org/about/
 
 Ghost is an open source blogging platform. The project is run and organized by The Ghost Foundation, which is a non-profit organization. Ghost is completely free to use if you host it yourself. You can pay for it if you need help with hosting your blog. This is what funds further development and The Ghost Foundation calls this *Sustainable Open Source*.
+
+### Read the Docs
+
+Website: https://readthedocs.org/
+Github: https://github.com/rtfd/readthedocs.org
+
+Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
 ## Also see
 
