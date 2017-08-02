@@ -55,7 +55,7 @@ Apply for grants and get funded $1000 at a time.
 
 ### DAT
 
-http://dat-data.com/
+https://datproject.org/
 
 From the `DAT` homepage:
 
