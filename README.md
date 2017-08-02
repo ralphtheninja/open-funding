@@ -46,12 +46,17 @@ From the `SIDN` homepage:
 
 Similarly to `InnovationsFonden`, `SIDN` also funds projects on different levels. Smaller projects - `Pioneer projects` - can receive a maximum of 10k EUR and larger projects - `Potentials projects` - up to 75k EUR.
 
-
 ### The Awesome Foundation
 
 http://www.awesomefoundation.org/en/about_us
 
 Apply for grants and get funded $1000 at a time.
+
+### Knight Foundation
+
+https://www.knightfoundation.org/about
+
+> Knight Foundation is a national foundation with strong local roots. We invest in journalism, in the arts, and in the success of cities where brothers John S. and James L. Knight once published newspapers. Our goal is to foster informed and engaged communities, which we believe are essential for a healthy democracy.
 
 ## Notable Projects
 
@@ -63,7 +68,9 @@ https://datproject.org/
 
 From the `DAT` homepage:
 
-> The high level goal of the dat project is to build a streaming interface between every database and file storage backend in the world. By building tools to build and share data pipelines we aim to bring to data a style of collaboration similar to what git brings to source code.
+> Dat is a grant-funded, open-source, decentralized data sharing tool for efficiently versioning and syncing changes to data.
+
+Funded by [`Knight Foundation`](https://www.knightfoundation.org/grants/201346305/).
 
 ### OPENCARE
 
