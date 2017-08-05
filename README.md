@@ -73,6 +73,7 @@ Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 * [Funding OSS](https://github.com/jayfk/fundingoss.com)
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
 * [Awesome Open Company](https://github.com/opencompany/awesome-open-company)
+* [Getting Paid for Open Source Work](https://opensource.guide/getting-paid/)
 
 ## License
 
