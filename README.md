@@ -54,9 +54,9 @@ From the `DAT` homepage:
 
 Funded by [`Knight Foundation`](https://www.knightfoundation.org/grants/201346305/).
 
-### [`OPENCARE`](https://edgeryders.eu/t/introducing-opencare/33)
+### [`OpenCare`](https://edgeryders.eu/c/opencare)
 
-OPENCARE is a project trying to figure out ways of combining modern science and technology with communities. It got funded 1.6M EUR by Horizon 2020. You can read their proposal [here](http://edgeryders.eu/sites/default/files/OpenCare%20%E2%80%93%20final.pdf).
+`OpenCare` is a project trying to figure out ways of combining modern science and technology with communities. It got funded 1.6M EUR by Horizon 2020.
 
 ### [`GHOST`](https://ghost.org/about/)
 
