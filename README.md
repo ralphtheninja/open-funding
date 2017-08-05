@@ -58,7 +58,7 @@ Funded by [`Knight Foundation`](https://www.knightfoundation.org/grants/20134630
 
 `OpenCare` is a project trying to figure out ways of combining modern science and technology with communities. It got funded 1.6M EUR by Horizon 2020.
 
-### [`GHOST`](https://ghost.org/about/)
+### [`Ghost`](https://ghost.org/about/)
 
 Ghost is an open source blogging platform. The project is run and organized by The Ghost Foundation, which is a non-profit organization. Ghost is completely free to use if you host it yourself. You can pay for it if you need help with hosting your blog. This is what funds further development and The Ghost Foundation calls this *Sustainable Open Source*.
 
