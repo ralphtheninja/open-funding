@@ -6,15 +6,15 @@ More individuals, organizations and companies are starting to realize the potent
 
 A list of funding opportunities that follow the grants model. This type of funding is usually carried out in batches, i.e. the fund in question release a certain amount of money each year and it's spread out over multiple projects. Grant funding often allows you to plan and execute projects over a longer period of time.
 
-### [`Horizon 2020`](http://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020)
+### [`Horizon 2020`](http://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020) :eu:
 
 Horizon 2020 is the biggest EU Research and Innovation programme ever with nearly €80 billion of funding available over between 2014 and 2020. You need a consortium to apply. See Holger Krekels talk at 32c3 (link below) for a more detailed description.
 
-### [`InnovationsFonden`](http://innovationsfonden.dk/da/faq-innobooster)
+### [`InnovationsFonden`](http://innovationsfonden.dk/da/faq-innobooster) :denmark:
 
 `InnovationsFonden` or `Innovation Fund Denmark` invests in both large and small projects and they don't require any stake in the project nor repayment. They have three different programs targeting the whole range from large scale research projects to smaller enterprises and entrepreneurs down to talented individuals within the research space. Funds can be anything between 50k to 5M DKK depending on the size of the project.
 
-### [`InternetFonden`](https://www.internetfonden.se/om/)
+### [`InternetFonden`](https://www.internetfonden.se/om/) :sweden:
 
 InternetFonden is a Swedish fund run by *Internetstiftelsen i Sverige* or IIS, which administer the Swedish `.se` TLD. Parts of the earnings from selling .se domains goes to various projects that benefit the development of internet in Sweden and one of them is InternetFonden. Since 2004 the fund has financed [323 projects](https://www.internetfonden.se/projekt/) for a total of 65M SEK (7.7M USD/7.1M EUR/5.2M GBP). Applicants can be companies, organizations or private people as long as they have a Swedish organization number or social security number.
 
