@@ -84,6 +84,15 @@ Ghost is an open source blogging platform. The project is run and organized by T
 
 Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
+## Crowd Funding
+
+The concept has been around for a while and can at times be the spark that makes a project take off.
+
+* [`Patreon`](https://www.patreon.com/)
+* [`open collective`](https://opencollective.com/)
+* [`Gratipay`](https://gratipay.com/about/)
+* [`Liberapay`](https://en.liberapay.com/)
+
 ## Also see
 
 * [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video&t=790)
