@@ -88,6 +88,10 @@ Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
 The concept has been around for a while and can at times be the spark that makes a project take off.
 
+There are different models, the traditional crowd funded project asks for funds given some budget and project proposition. If the project reach the donation goal you can receive extra benefits apart from the actual product.
+
+Other models are more focused on the community, where members of the community pitch in a certain amount of money per time unit, e.g. once a month.
+
 * [`Patreon`](https://www.patreon.com/)
 * [`open collective`](https://opencollective.com/)
 * [`Gratipay`](https://gratipay.com/about/)
