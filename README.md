@@ -28,7 +28,7 @@ The Core Infrastructure Initiative, or CII, is a multi-million dollar project to
 
 ### [`SIDN Fund`](https://www.sidnfonds.nl/excerpt/)
 
-From the `SIDN` homepage:
+From their webpage:
 
 > SIDN Fund stands for ‘a strong internet for all’. We provide financial support to ideas and projects that aim to make the internet stronger or that use the internet in innovative ways. By doing so, SIDN Fund wants to help increase the social impact of the internet in the Netherlands.
 
@@ -40,7 +40,19 @@ Apply for grants and get funded $1000 at a time.
 
 ### [`Knight Foundation`](https://www.knightfoundation.org/about)
 
+From their webpage:
+
 > Knight Foundation is a national foundation with strong local roots. We invest in journalism, in the arts, and in the success of cities where brothers John S. and James L. Knight once published newspapers. Our goal is to foster informed and engaged communities, which we believe are essential for a healthy democracy.
+
+### [`Sloan Foundation`](https://sloan.org/programs/digital-technology)
+
+From their webpage:
+
+> The Sloan Research Fellowships seek to stimulate fundamental research by early-career scientists and scholars of outstanding promise.
+
+and:
+
+> These two-year fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field. The 2018 Sloan Research Fellows will receive fellowships in the amount of $65,000
 
 ## Notable Projects
 
