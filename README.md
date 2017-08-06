@@ -101,6 +101,7 @@ Other models are more focused on the community, where members of the community p
 
 * [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video&t=790)
 * [Paying the Piper](https://github.com/pybee/paying-the-piper)
+* [Tech Cultivation](https://techcultivation.org/)
 * [Funding OSS](https://github.com/jayfk/fundingoss.com)
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
 * [Awesome Open Company](https://github.com/opencompany/awesome-open-company)
