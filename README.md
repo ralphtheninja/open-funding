@@ -6,6 +6,14 @@ More individuals, organizations and companies are starting to realize the potent
 
 A list of funding opportunities that follow the grants model. This type of funding is usually carried out in batches, i.e. the fund in question release a certain amount of money each year and it's spread out over multiple projects. Grant funding often allows you to plan and execute projects over a longer period of time.
 
+### :sparkles: [`RIPE NCC Community Projects Fund`](https://www.ripe.net/support/cpf)
+
+From their webpage:
+
+> The RIPE NCC will provide EUR 250,000 per year to support projects of value to the operation and resilience of the Internet, with a focus on tools and services benefitting the technical community in our _service region_.
+
+The service region for `RIPE NCC` is made up of over 75 countries, which is one of five Regional Internet Registries (RIR). See https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region for more information.
+
 ### [`Horizon 2020`](http://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020) :eu:
 
 Horizon 2020 is the biggest EU Research and Innovation programme ever with nearly €80 billion of funding available over between 2014 and 2020. You need a consortium to apply. See Holger Krekels talk at 32c3 (link below) for a more detailed description.
