@@ -6,7 +6,15 @@ More individuals, organizations and companies are starting to realize the potent
 
 A list of funding opportunities that follow the grants model. This type of funding is usually carried out in batches, i.e. the fund in question release a certain amount of money each year and it's spread out over multiple projects. Grant funding often allows you to plan and execute projects over a longer period of time.
 
-### :sparkles: [`RIPE NCC Community Projects Fund`](https://www.ripe.net/support/cpf)
+### :sparkles: [`Open Technology Fund`](https://www.opentech.fund)
+
+From their webpage:
+
+> The Open Technology Fund utilizes available funds to support Internet freedom projects that empower world citizens to have access to modern communication channels that are free of restrictions, and allow them to communicate without fear of repressive censorship or surveillance.
+
+`OTF` funds projects through three different funds; `Internet Freedom Fund`, `Core Infrastructure Fund` and `Rapid Response Fund`. They also fund people by offering fellowships.
+
+### [`RIPE NCC Community Projects Fund`](https://www.ripe.net/support/cpf)
 
 From their webpage:
 
@@ -71,6 +79,12 @@ and:
 ## Notable Projects
 
 List of notable projects that have received grants.
+
+### :sparkles: [`equalit.ie`](https://equalit.ie/)
+
+Read about the launch of their [multiparty chat encryption](https://equalit.ie/introducing-n1sec-a-protocol-for-distributed-multiparty-chat-encryption/).
+
+Funded by [`OTF`](https://www.opentech.fund/).
 
 ### [`DAT`](https://datproject.org/)
 
