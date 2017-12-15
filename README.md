@@ -1,7 +1,18 @@
-# Background
+# open-funding
+
+  * <a href="#intro">Introduction</a>
+  * <a href="#grants">Grants</a>
+  * <a href="#projects">Notable Projects</a>
+  * <a href="#crowdfunding">Crowdfunding</a>
+  * <a href="#links">Links</a>
+  * <a href="#license">License</a>
+
+<a name="intro"></a>
+## Introduction
 
 More individuals, organizations and companies are starting to realize the potential of open source. An important question is obviously how projects can be funded to enable individuals to subsist and work on open source full time. This document aims to be an open guide to funding of open source projects.
 
+<a name="grants"></a>
 ## Grants
 
 A list of funding opportunities that follow the grants model. This type of funding is usually carried out in batches, i.e. the fund in question release a certain amount of money each year and it's spread out over multiple projects. Grant funding often allows you to plan and execute projects over a longer period of time.
@@ -76,6 +87,7 @@ and:
 
 > These two-year fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field. The 2018 Sloan Research Fellows will receive fellowships in the amount of $65,000
 
+<a name="projects"></a>
 ## Notable Projects
 
 List of notable projects that have received grants.
@@ -106,6 +118,7 @@ Ghost is an open source blogging platform. The project is run and organized by T
 
 Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
+<a name="crowdfunding"></a>
 ## Crowdfunding
 
 The concept has been around for a while and can at times be the spark that makes a project take off.
@@ -119,7 +132,8 @@ Other models are more focused on the community, where members of the community p
 * [`Gratipay`](https://gratipay.com/about/)
 * [`Liberapay`](https://en.liberapay.com/)
 
-## Also see
+<a name="links"></a>
+## Links
 
 * [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video&t=790)
 * [Paying the Piper](https://github.com/pybee/paying-the-piper)
@@ -130,6 +144,7 @@ Other models are more focused on the community, where members of the community p
 * [Awesome Open Company](https://github.com/opencompany/awesome-open-company)
 * [Getting Paid for Open Source Work](https://opensource.guide/getting-paid/)
 
+<a name="license"></a>
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />All content submitted to this project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
