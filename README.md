@@ -3,6 +3,7 @@
   * <a href="#intro">Introduction</a>
   * <a href="#grants">Grants</a>
   * <a href="#projects">Notable Projects</a>
+  * <a href="#other_orgs">Other Organizations</a>
   * <a href="#crowdfunding">Crowdfunding</a>
   * <a href="#links">Links</a>
   * <a href="#license">License</a>
@@ -17,7 +18,7 @@ More individuals, organizations and companies are starting to realize the potent
 
 A list of funding opportunities that follow the grants model. This type of funding is usually carried out in batches, i.e. the fund in question release a certain amount of money each year and it's spread out over multiple projects. Grant funding often allows you to plan and execute projects over a longer period of time.
 
-### :sparkles: [`Open Technology Fund`](https://www.opentech.fund)
+### [`Open Technology Fund`](https://www.opentech.fund)
 
 From their webpage:
 
@@ -92,7 +93,7 @@ and:
 
 List of notable projects that have received grants.
 
-### :sparkles: [`equalit.ie`](https://equalit.ie/)
+### [`equalit.ie`](https://equalit.ie/)
 
 Read about the launch of their [multiparty chat encryption](https://equalit.ie/introducing-n1sec-a-protocol-for-distributed-multiparty-chat-encryption/).
 
@@ -117,6 +118,29 @@ Ghost is an open source blogging platform. The project is run and organized by T
 ### [`Read the Docs`](https://readthedocs.org/)
 
 Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
+
+<a name="other_orgs"></a>
+## Other Organisations
+
+This section lists organizations that aren't necessarily offering grant funding, but are still very important for creating a sound and healthy environment for open source projects.
+
+### :sparkles: [`Software Freedom Concervancy`](https://sfconservancy.org/)
+
+From the `Software Freedom Concervancy` homepage:
+
+> Software Freedom Conservancy, Inc. is a 501(c)(3) not-for-profit organization incorporated in New York. Software Freedom Conservancy helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects.
+
+Conservancy offers a range of important services. From donations to assistance with fundraising, legal advice, contract negotiation to logistical support for conferences. Read more about their services [here](https://sfconservancy.org/projects/services/).
+
+Some notable projects under their umbrella are:
+
+* [`Boost`](http://www.boost.org/)
+* [`Git`](https://git-scm.com/)
+* [`Homebrew`](https://brew.sh/)
+* [`Mercurial`](https://www.mercurial-scm.org/)
+* [`PyPy`](http://pypy.org/)
+
+Check out all their current [46 member projects](https://sfconservancy.org/projects/current/).
 
 <a name="crowdfunding"></a>
 ## Crowdfunding
