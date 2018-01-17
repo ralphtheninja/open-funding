@@ -152,7 +152,7 @@ Other models are more focused on the community, where members of the community p
 
 * [`Patreon`](https://www.patreon.com/)
 * [`open collective`](https://opencollective.com/)
-* [`Gratipay`](https://gratipay.com/about/)
+* [`Gratipay`](https://gratipay.com/)
 * [`Liberapay`](https://en.liberapay.com/)
 
 <a name="links"></a>
