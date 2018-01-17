@@ -134,7 +134,6 @@ Conservancy offers a range of important services. From donations to assistance w
 
 Some notable projects under their umbrella are:
 
-* [`Boost`](https://www.boost.org/)
 * [`Git`](https://git-scm.com/)
 * [`Homebrew`](https://brew.sh/)
 * [`Mercurial`](https://www.mercurial-scm.org/)
