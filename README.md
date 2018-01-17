@@ -34,11 +34,11 @@ From their webpage:
 
 The service region for `RIPE NCC` is made up of over 75 countries, which is one of five Regional Internet Registries (RIR). See https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region for more information.
 
-### [`Horizon 2020`](http://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020) :eu:
+### [`Horizon 2020`](https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020) :eu:
 
 Horizon 2020 is the biggest EU Research and Innovation programme ever with nearly €80 billion of funding available over between 2014 and 2020. You need a consortium to apply. See Holger Krekels talk at 32c3 (link below) for a more detailed description.
 
-### [`InnovationsFonden`](http://innovationsfonden.dk/da/faq-innobooster) :denmark:
+### [`InnovationsFonden`](https://innovationsfonden.dk/da/faq-innobooster) :denmark:
 
 `InnovationsFonden` or `Innovation Fund Denmark` invests in both large and small projects and they don't require any stake in the project nor repayment. They have three different programs targeting the whole range from large scale research projects to smaller enterprises and entrepreneurs down to talented individuals within the research space. Funds can be anything between 50k to 5M DKK depending on the size of the project.
 
@@ -68,7 +68,7 @@ From their webpage:
 
 Similarly to `InnovationsFonden`, `SIDN` also funds projects on different levels. Smaller projects - `Pioneer projects` - can receive a maximum of 10k EUR and larger projects - `Potentials projects` - up to 75k EUR.
 
-### [`The Awesome Foundation`](http://www.awesomefoundation.org/en/about_us)
+### [`The Awesome Foundation`](https://www.awesomefoundation.org/en/about_us)
 
 Apply for grants and get funded $1000 at a time.
 
@@ -134,11 +134,11 @@ Conservancy offers a range of important services. From donations to assistance w
 
 Some notable projects under their umbrella are:
 
-* [`Boost`](http://www.boost.org/)
+* [`Boost`](https://www.boost.org/)
 * [`Git`](https://git-scm.com/)
 * [`Homebrew`](https://brew.sh/)
 * [`Mercurial`](https://www.mercurial-scm.org/)
-* [`PyPy`](http://pypy.org/)
+* [`PyPy`](https://pypy.org/)
 
 Check out all their current [46 member projects](https://sfconservancy.org/projects/current/).
 
@@ -172,4 +172,4 @@ Other models are more focused on the community, where members of the community p
 <a name="license"></a>
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />All content submitted to this project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />All content submitted to this project is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
