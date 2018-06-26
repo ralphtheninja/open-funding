@@ -124,9 +124,9 @@ Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
 This section lists organizations that aren't necessarily offering grant funding, but are still very important for creating a sound and healthy environment for open source projects.
 
-### :sparkles: [`Software Freedom Concervancy`](https://sfconservancy.org/)
+### :sparkles: [`Software Freedom Conservancy`](https://sfconservancy.org/)
 
-From the `Software Freedom Concervancy` homepage:
+From the `Software Freedom Conservancy` homepage:
 
 > Software Freedom Conservancy, Inc. is a 501(c)(3) not-for-profit organization incorporated in New York. Software Freedom Conservancy helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects.
 
