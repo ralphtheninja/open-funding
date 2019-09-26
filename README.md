@@ -95,7 +95,7 @@ List of notable projects that have received grants.
 
 ### [`DeltaChat`](https://delta.chat/)
 
-Decentralized email-based instant messaging with end-to-end encryption. There are mobile applications for Android and iOS and also a desktop version. All implementations use an underlying core, which is being rewritten in rust.
+Decentralized email-based instant messaging with end-to-end encryption based on [`Autocrypt`](https://autocrypt.org/faq.html). There are mobile applications for Android and iOS and also a desktop version. All implementations use an underlying core, which is being rewritten in rust.
 
 Funded by [`OTF`](https://www.opentech.fund/).
 
