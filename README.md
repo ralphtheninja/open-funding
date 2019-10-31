@@ -88,6 +88,22 @@ and:
 
 > These two-year fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field. The 2018 Sloan Research Fellows will receive fellowships in the amount of $65,000
 
+### [`NLNet Foundation`](https://nlnet.nl/)
+
+From their webpage:
+
+>  The foundation "Stichting NLnet" stimulates network research and development in the domain of Internet technology. The articles of association for the NLnet foundation state: "to promote the exchange of electronic information and all that is related or beneficial to that purpose".
+
+> NLnet does not directly benefit from the undertaken projects, and all developments are published as Open Source.
+
+Current submission(s):
+
+* [`Privacy & Trust Enhacing Technologies`](https://nlnet.nl/PET/)
+
+From OTF mailing list:
+
+> NLNet is seeking proposals requesting between €5,000 and €50,000 for projects for Privacy and Trust projects “aimed at providing people with new instruments that allow them more agency - and assist us with fulfilling the human need of keeping some private and confidential context and information private and confidential.” This effort is part of the EU’s Next Generation Initiative (NGI), which seeks to “re-imagine and re-engineer the internet for the third millennium and beyond to shape a value-centric, human and inclusive society for all.”
+
 <a name="projects"></a>
 ## Notable Projects
 
