@@ -196,6 +196,7 @@ Other models are more focused on the community, where members of the community p
 
 * [`Patreon`](https://www.patreon.com/)
 * [`open collective`](https://opencollective.com/)
+* [`Bountysource`](https://www.bountysource.com/)
 * [`Gratipay`](https://gratipay.com/)
 * [`Liberapay`](https://en.liberapay.com/)
 
