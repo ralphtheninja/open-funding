@@ -218,6 +218,7 @@ Other models are more focused on the community, where members of the community p
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
 * [Awesome Open Company](https://github.com/opencompany/awesome-open-company)
 * [Getting Paid for Open Source Work](https://opensource.guide/getting-paid/)
+* [A handy guide to financial support for open source.](https://github.com/nayafia/lemonade-stand/)
 
 <a name="license"></a>
 ## License
