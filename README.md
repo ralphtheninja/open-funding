@@ -163,6 +163,10 @@ Ghost is an open source blogging platform. The project is run and organized by T
 
 Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
+### [`StreetComplete`](https://github.com/westnordost/StreetComplete/)
+
+Work of [one of contributors](https://github.com/westnordost/StreetComplete/commits?author=matkoniecz) was sponsored by [NLNet Foundation](https://github.com/ralphtheninja/open-funding#nlnet-foundation).
+
 <a name="other_orgs"></a>
 ## Other Organisations
 
