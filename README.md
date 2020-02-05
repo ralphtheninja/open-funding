@@ -202,7 +202,6 @@ Other models are more focused on the community, where members of the community p
 * [`open collective`](https://opencollective.com/)
 * [`Bountysource`](https://www.bountysource.com/)
 * [`CodeFund`](https://codefund.io/)
-* [`Gratipay`](https://gratipay.com/)
 * [`Liberapay`](https://en.liberapay.com/)
 
 <a name="links"></a>
