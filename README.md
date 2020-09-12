@@ -206,6 +206,7 @@ Other models are more focused on the community, where members of the community p
 * [`Bountysource`](https://www.bountysource.com/)
 * [`CodeFund`](https://codefund.io/)
 * [`Liberapay`](https://en.liberapay.com/)
+* [`LibreSelery`](https://github.com/protontypes/libreselery)
 
 <a name="links"></a>
 ## Links
