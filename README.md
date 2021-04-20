@@ -123,7 +123,9 @@ From their webpage:
 
 Current submission(s):
 
-* [`Privacy & Trust Enhacing Technologies`](https://nlnet.nl/PET/)
+* [`Next Generation Search and Discovery`](https://nlnet.nl/discovery/)
+* [`NGI Assure - building blocks for a complete, strong chain of assurances`](https://nlnet.nl/assure/)
+
 
 From OTF mailing list:
 
