@@ -85,9 +85,11 @@ From their webpage:
 
 The Core Infrastructure Initiative, or CII, is a multi-million dollar project to fund and support critical elements of the global information infrastructure. It is organized by The Linux Foundation and supported by companies like Amazon Web Services, Google and IBM. CII was formed as a response to the Heartbleed security crisis; however, the Initiative’s efforts will not be restricted to crypto-related issues in the long term.
 
-### [`SIDN Fund`](https://www.sidnfonds.nl/excerpt/)
+### [`SIDN Fund`](https://www.sidnfonds.nl/excerpt/) :netherlands:
 
 From their webpage:
+
+> SIDN Fund does not support internationally oriented projects. To qualify for support, a project should have impact on Dutch society.
 
 > SIDN Fund stands for ‘a strong internet for all’. We provide financial support to ideas and projects that aim to make the internet stronger or that use the internet in innovative ways. By doing so, SIDN Fund wants to help increase the social impact of the internet in the Netherlands.
 
