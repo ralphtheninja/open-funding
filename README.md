@@ -71,10 +71,6 @@ InternetFonden is a Swedish fund run by *Internetstiftelsen i Sverige* or IIS, w
 ### [`Netidee`](https://netidee.at/) :austria:
 netidee, run by the Private Internet Fund Austria, is meant to fund projects related to the open source internet. In 2020, the maximum amount of funding was 50k EUR for an individual project. An Austria-resident individual or organization has to request the grant. Applications can optionally be sent in English and parts of the project can be outsourced to entities abroad if this is detailed in the initial request.
 
-### [`Mozilla Open Source Support (MOSS)`](https://www.mozilla.org/en-US/moss/)
-
-Mozilla Open Source Support (MOSS) is a grant program specifically focused on supporting the Open Source and Free Software movement, with an initial allocation of USD $1 million.
-
 ### [`The Python Software Foundation`](https://www.python.org/psf/grants/)
 
 From their webpage:
