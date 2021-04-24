@@ -202,11 +202,12 @@ There are different models, the traditional crowdfunded project asks for funds g
 Other models are more focused on the community, where members of the community pitch in a certain amount of money per time unit, e.g. once a month.
 
 * [`Patreon`](https://www.patreon.com/)
-* [`open collective`](https://opencollective.com/)
+* [`OpenCollective`](https://opencollective.com/)
 * [`Bountysource`](https://www.bountysource.com/)
 * [`CodeFund`](https://codefund.io/)
 * [`Liberapay`](https://en.liberapay.com/)
 * [`LibreSelery`](https://github.com/protontypes/libreselery)
+* [`GitHub Sponsors`](https://github.com/sponsors)
 
 <a name="links"></a>
 ## Links
