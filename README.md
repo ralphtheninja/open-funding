@@ -170,7 +170,7 @@ Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
 Work of [one of contributors](https://github.com/westnordost/StreetComplete/commits?author=matkoniecz) was sponsored by [NLNet Foundation](https://github.com/ralphtheninja/open-funding#nlnet-foundation), work by the [main author](https://github.com/streetcomplete/StreetComplete/commits?author=westnordost) was funded by [OpenStreetMap foundation](https://blog.openstreetmap.org/2020/07/01/osmf-microgrants-program-congratulations-to-selected-projects/) and [Prototype Fund](https://github.com/streetcomplete/StreetComplete#sponsors).
 
-### [`Prototype Fund`] 🇩🇪
+### [`Prototype Fund`](https://prototypefund.de/en) 🇩🇪
 
 From their site: 
 
