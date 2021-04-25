@@ -170,6 +170,13 @@ Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
 Work of [one of contributors](https://github.com/westnordost/StreetComplete/commits?author=matkoniecz) was sponsored by [NLNet Foundation](https://github.com/ralphtheninja/open-funding#nlnet-foundation), work by the [main author](https://github.com/streetcomplete/StreetComplete/commits?author=westnordost) was funded by [OpenStreetMap foundation](https://blog.openstreetmap.org/2020/07/01/osmf-microgrants-program-congratulations-to-selected-projects/) and [Prototype Fund](https://github.com/streetcomplete/StreetComplete#sponsors).
 
+### [`Prototype Fund`] 🇩🇪
+
+From their site: 
+
+> The Prototype Fund supports ideas in civic tech, data literacy, data security and software infrastructure. We want to provide software developers, hackers, and creatives with the opportunity to code and develop innovative public interest technologies.
+> Self-employed developers and small teams who live in Germany can apply for funding.
+
 <a name="other_orgs"></a>
 ## Other Organisations
 
