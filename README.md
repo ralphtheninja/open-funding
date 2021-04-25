@@ -101,6 +101,13 @@ From their webpage:
 
 > Knight Foundation is a national foundation with strong local roots. We invest in journalism, in the arts, and in the success of cities where brothers John S. and James L. Knight once published newspapers. Our goal is to foster informed and engaged communities, which we believe are essential for a healthy democracy.
 
+### [`Prototype Fund`](https://prototypefund.de/en) 🇩🇪
+
+From their site: 
+
+> The Prototype Fund supports ideas in civic tech, data literacy, data security and software infrastructure. We want to provide software developers, hackers, and creatives with the opportunity to code and develop innovative public interest technologies.
+> Self-employed developers and small teams who live in Germany can apply for funding.
+
 ### [`Sloan Foundation`](https://sloan.org/programs/digital-technology)
 
 From their webpage:
@@ -169,13 +176,6 @@ Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 ### [`StreetComplete`](https://github.com/westnordost/StreetComplete/)
 
 Work of [one of contributors](https://github.com/westnordost/StreetComplete/commits?author=matkoniecz) was sponsored by [NLNet Foundation](https://github.com/ralphtheninja/open-funding#nlnet-foundation), work by the [main author](https://github.com/streetcomplete/StreetComplete/commits?author=westnordost) was funded by [OpenStreetMap foundation](https://blog.openstreetmap.org/2020/07/01/osmf-microgrants-program-congratulations-to-selected-projects/) and [Prototype Fund](https://github.com/streetcomplete/StreetComplete#sponsors).
-
-### [`Prototype Fund`](https://prototypefund.de/en) 🇩🇪
-
-From their site: 
-
-> The Prototype Fund supports ideas in civic tech, data literacy, data security and software infrastructure. We want to provide software developers, hackers, and creatives with the opportunity to code and develop innovative public interest technologies.
-> Self-employed developers and small teams who live in Germany can apply for funding.
 
 <a name="other_orgs"></a>
 ## Other Organisations
