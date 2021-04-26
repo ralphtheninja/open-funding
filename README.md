@@ -101,6 +101,13 @@ From their webpage:
 
 > Knight Foundation is a national foundation with strong local roots. We invest in journalism, in the arts, and in the success of cities where brothers John S. and James L. Knight once published newspapers. Our goal is to foster informed and engaged communities, which we believe are essential for a healthy democracy.
 
+### [`Prototype Fund`](https://prototypefund.de/en) 🇩🇪
+
+From their site: 
+
+> The Prototype Fund supports ideas in civic tech, data literacy, data security and software infrastructure. We want to provide software developers, hackers, and creatives with the opportunity to code and develop innovative public interest technologies.
+> Self-employed developers and small teams who live in Germany can apply for funding.
+
 ### [`Sloan Foundation`](https://sloan.org/programs/digital-technology)
 
 From their webpage:
