@@ -56,10 +56,6 @@ From their webpage:
 
 The service region for `RIPE NCC` is made up of over 75 countries, which is one of five Regional Internet Registries (RIR). See https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region for more information.
 
-### [`Horizon 2020`](https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020) :eu:
-
-Horizon 2020 is the biggest EU Research and Innovation programme ever with nearly €80 billion of funding available over between 2014 and 2020. You need a consortium to apply. See Holger Krekels talk at 32c3 (link below) for a more detailed description.
-
 ### [`InnovationsFonden`](https://innovationsfonden.dk/da/faq-innobooster) :denmark:
 
 `InnovationsFonden` or `Innovation Fund Denmark` invests in both large and small projects and they don't require any stake in the project nor repayment. They have three different programs targeting the whole range from large scale research projects to smaller enterprises and entrepreneurs down to talented individuals within the research space. Funds can be anything between 50k to 5M DKK depending on the size of the project.
@@ -220,7 +216,6 @@ Other models are more focused on the community, where members of the community p
 ## Links
 
 * [Alternative Sources of Support - List compiled by OTF](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support)
-* [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video&t=790)
 * [Raking in the dough on Free and Open Source Software](https://varnish-cache.org/docs/trunk/phk/dough.html)
 * [Paying the Piper](https://github.com/pybee/paying-the-piper)
 * [Tech Cultivation](https://techcultivation.org/)
