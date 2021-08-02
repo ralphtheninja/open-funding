@@ -56,10 +56,6 @@ From their webpage:
 
 The service region for `RIPE NCC` is made up of over 75 countries, which is one of five Regional Internet Registries (RIR). See https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region for more information.
 
-### [`Horizon 2020`](https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020) :eu:
-
-Horizon 2020 is the biggest EU Research and Innovation programme ever with nearly €80 billion of funding available over between 2014 and 2020. You need a consortium to apply. See Holger Krekels talk at 32c3 (link below) for a more detailed description.
-
 ### [`InnovationsFonden`](https://innovationsfonden.dk/da/faq-innobooster) :denmark:
 
 `InnovationsFonden` or `Innovation Fund Denmark` invests in both large and small projects and they don't require any stake in the project nor repayment. They have three different programs targeting the whole range from large scale research projects to smaller enterprises and entrepreneurs down to talented individuals within the research space. Funds can be anything between 50k to 5M DKK depending on the size of the project.
