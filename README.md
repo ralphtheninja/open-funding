@@ -73,10 +73,6 @@ From their webpage:
 
 > The Python Software Foundation welcomes grant proposals for projects related to the development of Python, Python-related technology, educational programs and resources.
 
-### [`Core Infrastructure Initiative (CII)`](https://www.coreinfrastructure.org/)
-
-The Core Infrastructure Initiative, or CII, is a multi-million dollar project to fund and support critical elements of the global information infrastructure. It is organized by The Linux Foundation and supported by companies like Amazon Web Services, Google and IBM. CII was formed as a response to the Heartbleed security crisis; however, the Initiative’s efforts will not be restricted to crypto-related issues in the long term.
-
 ### [`SIDN Fund`](https://www.sidnfonds.nl/excerpt/) :netherlands:
 
 From their webpage:
