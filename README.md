@@ -216,7 +216,8 @@ Other models are more focused on the community, where members of the community p
 ## Links
 
 * [Alternative Sources of Support - List compiled by OTF](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support)
-* [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video&t=790)* [Raking in the dough on Free and Open Source Software](https://varnish-cache.org/docs/trunk/phk/dough.html)
+* [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video&t=790)
+* [Raking in the dough on Free and Open Source Software](https://varnish-cache.org/docs/trunk/phk/dough.html)
 * [Paying the Piper](https://github.com/pybee/paying-the-piper)
 * [Tech Cultivation](https://techcultivation.org/)
 * [Alternative Funding Sources - Renewable Freedom Foundation](https://renewablefreedom.org/grants/alternative-funding-sources/)
