@@ -102,7 +102,7 @@ From their site:
 
 ### [`Sloan Foundation`](https://sloan.org/programs/digital-technology)
 
-From their webpage:
+From their [webpage](https://sloan.org/fellowships):
 
 > The Sloan Research Fellowships seek to stimulate fundamental research by early-career scientists and scholars of outstanding promise.
 
