@@ -110,6 +110,10 @@ and:
 
 > These two-year fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field. The 2018 Sloan Research Fellows will receive fellowships in the amount of $65,000
 
+There is also a [grant program](https://sloan.org/grants/apply), but [individuals are excluded](https://sloan.org/grants/apply#tab-what-we-do-not-fund)
+
+> does not make grants to individuals except through its Books program
+
 ### [`NLNet Foundation`](https://nlnet.nl/)
 
 From their webpage:
