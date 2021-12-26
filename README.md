@@ -13,7 +13,7 @@
   - [`RIPE NCC Community Projects Fund`](#ripe-ncc-community-projects-fund)
   - [`Vinnova` :sweden:](#vinnova-sweden)
   - [`InnovationsFonden` :denmark:](#innovationsfonden-denmark)
-  - [`InternetFonden` :sweden:](#internetfonden-sweden)
+  - [`The Swedish Internet Foundation` :sweden:](#the-swedish-internet-foundation-sweden)
   - [`Netidee` :austria:](#netidee-austria)
   - [`The Python Software Foundation`](#the-python-software-foundation)
   - [`SIDN Fund` :netherlands:](#sidn-fund-netherlands)
@@ -23,6 +23,7 @@
   - [`Sloan Foundation`](#sloan-foundation)
   - [`NLNet Foundation`](#nlnet-foundation)
 - [Notable Projects](#notable-projects)
+  - [`Peermaps`](#peermaps)
   - [`DeltaChat`](#deltachat)
   - [`equalit.ie`](#equalitie)
   - [`DAT`](#dat)
@@ -161,6 +162,10 @@ From OTF mailing list:
 ## Notable Projects
 
 List of notable projects that have received grants.
+
+### [`Peermaps`](https://peermaps.org/)
+
+Decentralized maps with an emphasis on building a modular map stack. Received a 100.000 USD donation from Samsung NEXT in January 2019 and a 49.000 EUR grant from NLNet in December 2021.
 
 ### [`DeltaChat`](https://delta.chat/)
 
