@@ -248,7 +248,6 @@ Other models are more focused on the community, where members of the community p
 - [Paying the Piper](https://github.com/pybee/paying-the-piper)
 - [Tech Cultivation](https://techcultivation.org/)
 - [Alternative Funding Sources - Renewable Freedom Foundation](https://renewablefreedom.org/grants/alternative-funding-sources/)
-- [Funding OSS](https://github.com/jayfk/fundingoss.com)
 - [Awesome Indie](https://github.com/mezod/awesome-indie)
 - [Awesome Open Company](https://github.com/opencompany/awesome-open-company)
 - [Getting Paid for Open Source Work](https://opensource.guide/getting-paid/)
