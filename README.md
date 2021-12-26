@@ -56,7 +56,7 @@ From their webpage:
 
 The service region for `RIPE NCC` is made up of over 75 countries, which is one of five Regional Internet Registries (RIR). See https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region for more information.
 
-### [`InnovationsFonden`](https://innovationsfonden.dk/da/faq-innobooster) :denmark:
+### [`InnovationsFonden`](https://innovationsfonden.dk/en) :denmark:
 
 `InnovationsFonden` or `Innovation Fund Denmark` invests in both large and small projects and they don't require any stake in the project nor repayment. They have three different programs targeting the whole range from large scale research projects to smaller enterprises and entrepreneurs down to talented individuals within the research space. Funds can be anything between 50k to 5M DKK depending on the size of the project.
 
