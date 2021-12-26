@@ -1,19 +1,47 @@
 # open-funding
 
-  * <a href="#intro">Introduction</a>
-  * <a href="#grants">Grants</a>
-  * <a href="#projects">Notable Projects</a>
-  * <a href="#other_orgs">Other Organizations</a>
-  * <a href="#crowdfunding">Crowdfunding</a>
-  * <a href="#links">Links</a>
-  * <a href="#license">License</a>
+## Table of Contents
 
-<a name="intro"></a>
+<details><summary>Click to expand</summary>
+
+- [Introduction](#introduction)
+- [Grants](#grants)
+  - [`Open Technology Fund - OTF`](#open-technology-fund---otf)
+    - [`OTF - Internet Freedom Fund`](#otf---internet-freedom-fund)
+    - [`OTF - Rapid Response Fund`](#otf---rapid-response-fund)
+    - [`OTF - Labs`](#otf---labs)
+  - [`RIPE NCC Community Projects Fund`](#ripe-ncc-community-projects-fund)
+  - [`Vinnova` :sweden:](#vinnova-sweden)
+  - [`InnovationsFonden` :denmark:](#innovationsfonden-denmark)
+  - [`InternetFonden` :sweden:](#internetfonden-sweden)
+  - [`Netidee` :austria:](#netidee-austria)
+  - [`The Python Software Foundation`](#the-python-software-foundation)
+  - [`SIDN Fund` :netherlands:](#sidn-fund-netherlands)
+  - [`The Awesome Foundation`](#the-awesome-foundation)
+  - [`Knight Foundation`](#knight-foundation)
+  - [`Prototype Fund` 🇩🇪](#prototype-fund-)
+  - [`Sloan Foundation`](#sloan-foundation)
+  - [`NLNet Foundation`](#nlnet-foundation)
+- [Notable Projects](#notable-projects)
+  - [`DeltaChat`](#deltachat)
+  - [`equalit.ie`](#equalitie)
+  - [`DAT`](#dat)
+  - [`OpenCare`](#opencare)
+  - [`Ghost`](#ghost)
+  - [`Read the Docs`](#read-the-docs)
+  - [`StreetComplete`](#streetcomplete)
+- [Other Organisations](#other-organisations)
+  - [:sparkles: `Software Freedom Conservancy`](#sparkles-software-freedom-conservancy)
+- [Crowdfunding](#crowdfunding)
+- [Links](#links)
+- [License](#license)
+
+</details>
+
 ## Introduction
 
 More individuals, organizations and companies are starting to realize the potential of open source. An important question is obviously how projects can be funded to enable individuals to subsist and work on open source full time. This document aims to be an open guide to funding of open source projects.
 
-<a name="grants"></a>
 ## Grants
 
 A list of funding opportunities that follow the grants model. This type of funding is usually carried out in batches, i.e. the fund in question release a certain amount of money each year and it's spread out over multiple projects. Grant funding often allows you to plan and execute projects over a longer period of time.
@@ -46,7 +74,7 @@ From their webpage:
 
 > The RIPE NCC will provide EUR 250,000 per year to support projects of value to the operation and resilience of the Internet, with a focus on tools and services benefitting the technical community in our _service region_.
 
-The service region for `RIPE NCC` is made up of over 75 countries, which is one of five Regional Internet Registries (RIR). See https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region for more information.
+The service region for `RIPE NCC` is made up of over 75 countries, which is one of five Regional Internet Registries (RIR). See <https://www.ripe.net/about-us/what-we-do/ripe-ncc-service-region> for more information.
 
 ### [`Vinnova`](https://vinnova.se/en) :sweden:
 
@@ -58,9 +86,10 @@ The service region for `RIPE NCC` is made up of over 75 countries, which is one 
 
 ### [`InternetFonden`](https://www.internetfonden.se/om/) :sweden:
 
-InternetFonden is a Swedish fund run by *Internetstiftelsen i Sverige* or IIS, which administer the Swedish `.se` TLD. Parts of the earnings from selling .se domains goes to various projects that benefit the development of internet in Sweden and one of them is InternetFonden. Since 2004 the fund has financed [323 projects](https://www.internetfonden.se/projekt/) for a total of 65M SEK (7.7M USD/7.1M EUR/5.2M GBP). Applicants can be companies, organizations or private people as long as they have a Swedish organization number or social security number.
+InternetFonden is a Swedish fund run by _Internetstiftelsen i Sverige_ or IIS, which administer the Swedish `.se` TLD. Parts of the earnings from selling .se domains goes to various projects that benefit the development of internet in Sweden and one of them is InternetFonden. Since 2004 the fund has financed [323 projects](https://www.internetfonden.se/projekt/) for a total of 65M SEK (7.7M USD/7.1M EUR/5.2M GBP). Applicants can be companies, organizations or private people as long as they have a Swedish organization number or social security number.
 
 ### [`Netidee`](https://netidee.at/) :austria:
+
 netidee, run by the Private Internet Fund Austria, is meant to fund projects related to the open source internet. In 2020, the maximum amount of funding was 50k EUR for an individual project. An Austria-resident individual or organization has to request the grant. Applications can optionally be sent in English and parts of the project can be outsourced to entities abroad if this is detailed in the initial request.
 
 ### [`The Python Software Foundation`](https://www.python.org/psf/grants/)
@@ -91,7 +120,7 @@ From their webpage:
 
 ### [`Prototype Fund`](https://prototypefund.de/en) 🇩🇪
 
-From their site: 
+From their site:
 
 > The Prototype Fund supports ideas in civic tech, data literacy, data security and software infrastructure. We want to provide software developers, hackers, and creatives with the opportunity to code and develop innovative public interest technologies.
 > Self-employed developers and small teams who live in Germany can apply for funding.
@@ -114,21 +143,21 @@ There is also a [grant program](https://sloan.org/grants/apply), but [individual
 
 From their webpage:
 
->  The foundation "Stichting NLnet" stimulates network research and development in the domain of Internet technology. The articles of association for the NLnet foundation state: "to promote the exchange of electronic information and all that is related or beneficial to that purpose".
+> The foundation "Stichting NLnet" stimulates network research and development in the domain of Internet technology. The articles of association for the NLnet foundation state: "to promote the exchange of electronic information and all that is related or beneficial to that purpose".
 
 > NLnet does not directly benefit from the undertaken projects, and all developments are published as Open Source.
 
 Current submission(s):
 
-* [`Next Generation Search and Discovery`](https://nlnet.nl/discovery/)
-* [`NGI Assure - building blocks for a complete, strong chain of assurances`](https://nlnet.nl/assure/)
-
+- [`Next Generation Search and Discovery`](https://nlnet.nl/discovery/)
+- [`NGI Assure - building blocks for a complete, strong chain of assurances`](https://nlnet.nl/assure/)
 
 From OTF mailing list:
 
 > NLNet is seeking proposals requesting between €5,000 and €50,000 for projects for Privacy and Trust projects “aimed at providing people with new instruments that allow them more agency - and assist us with fulfilling the human need of keeping some private and confidential context and information private and confidential.” This effort is part of the EU’s Next Generation Initiative (NGI), which seeks to “re-imagine and re-engineer the internet for the third millennium and beyond to shape a value-centric, human and inclusive society for all.”
 
 <a name="projects"></a>
+
 ## Notable Projects
 
 List of notable projects that have received grants.
@@ -159,7 +188,7 @@ Funded by [`Knight Foundation`](https://www.knightfoundation.org/grants/20134630
 
 ### [`Ghost`](https://ghost.org/about/)
 
-Ghost is an open source blogging platform. The project is run and organized by The Ghost Foundation, which is a non-profit organization. Ghost is completely free to use if you host it yourself. You can pay for it if you need help with hosting your blog. This is what funds further development and The Ghost Foundation calls this *Sustainable Open Source*.
+Ghost is an open source blogging platform. The project is run and organized by The Ghost Foundation, which is a non-profit organization. Ghost is completely free to use if you host it yourself. You can pay for it if you need help with hosting your blog. This is what funds further development and The Ghost Foundation calls this _Sustainable Open Source_.
 
 ### [`Read the Docs`](https://readthedocs.org/)
 
@@ -169,7 +198,6 @@ Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
 Work of [one of contributors](https://github.com/westnordost/StreetComplete/commits?author=matkoniecz) was sponsored by [NLNet Foundation](https://github.com/ralphtheninja/open-funding#nlnet-foundation), work by the [main author](https://github.com/streetcomplete/StreetComplete/commits?author=westnordost) was funded by [OpenStreetMap foundation](https://blog.openstreetmap.org/2020/07/01/osmf-microgrants-program-congratulations-to-selected-projects/) and [Prototype Fund](https://github.com/streetcomplete/StreetComplete#sponsors).
 
-<a name="other_orgs"></a>
 ## Other Organisations
 
 This section lists organizations that aren't necessarily offering grant funding, but are still very important for creating a sound and healthy environment for open source projects.
@@ -184,14 +212,13 @@ Conservancy offers a range of important services. From donations to assistance w
 
 Some notable projects under their umbrella are:
 
-* [`Git`](https://git-scm.com/)
-* [`Homebrew`](https://brew.sh/)
-* [`Mercurial`](https://www.mercurial-scm.org/)
-* [`PyPy`](https://pypy.org/)
+- [`Git`](https://git-scm.com/)
+- [`Homebrew`](https://brew.sh/)
+- [`Mercurial`](https://www.mercurial-scm.org/)
+- [`PyPy`](https://pypy.org/)
 
 Check out all their current [46 member projects](https://sfconservancy.org/projects/current/).
 
-<a name="crowdfunding"></a>
 ## Crowdfunding
 
 The concept has been around for a while and can at times be the spark that makes a project take off.
@@ -200,30 +227,28 @@ There are different models, the traditional crowdfunded project asks for funds g
 
 Other models are more focused on the community, where members of the community pitch in a certain amount of money per time unit, e.g. once a month.
 
-* [`Patreon`](https://www.patreon.com/)
-* [`OpenCollective`](https://opencollective.com/)
-* [`Bountysource`](https://www.bountysource.com/)
-* [`CodeFund`](https://codefund.io/)
-* [`Liberapay`](https://en.liberapay.com/)
-* [`LibreSelery`](https://github.com/protontypes/libreselery)
-* [`GitHub Sponsors`](https://github.com/sponsors)
+- [`Patreon`](https://www.patreon.com/)
+- [`OpenCollective`](https://opencollective.com/)
+- [`Bountysource`](https://www.bountysource.com/)
+- [`CodeFund`](https://codefund.io/)
+- [`Liberapay`](https://en.liberapay.com/)
+- [`LibreSelery`](https://github.com/protontypes/libreselery)
+- [`GitHub Sponsors`](https://github.com/sponsors)
 
-<a name="links"></a>
 ## Links
 
-* [Alternative Sources of Support - List compiled by OTF](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support)
-* [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video&t=790)
-* [Raking in the dough on Free and Open Source Software](https://varnish-cache.org/docs/trunk/phk/dough.html)
-* [Paying the Piper](https://github.com/pybee/paying-the-piper)
-* [Tech Cultivation](https://techcultivation.org/)
-* [Alternative Funding Sources - Renewable Freedom Foundation](https://renewablefreedom.org/grants/alternative-funding-sources/)
-* [Funding OSS](https://github.com/jayfk/fundingoss.com)
-* [Awesome Indie](https://github.com/mezod/awesome-indie)
-* [Awesome Open Company](https://github.com/opencompany/awesome-open-company)
-* [Getting Paid for Open Source Work](https://opensource.guide/getting-paid/)
-* [A handy guide to financial support for open source.](https://github.com/nayafia/lemonade-stand/)
+- [Alternative Sources of Support - List compiled by OTF](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support)
+- [Holger Krekel at 32c3 - Hacking EU funding for a decentralizing FOSS project](https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project#video\&t=790)
+- [Raking in the dough on Free and Open Source Software](https://varnish-cache.org/docs/trunk/phk/dough.html)
+- [Paying the Piper](https://github.com/pybee/paying-the-piper)
+- [Tech Cultivation](https://techcultivation.org/)
+- [Alternative Funding Sources - Renewable Freedom Foundation](https://renewablefreedom.org/grants/alternative-funding-sources/)
+- [Funding OSS](https://github.com/jayfk/fundingoss.com)
+- [Awesome Indie](https://github.com/mezod/awesome-indie)
+- [Awesome Open Company](https://github.com/opencompany/awesome-open-company)
+- [Getting Paid for Open Source Work](https://opensource.guide/getting-paid/)
+- [A handy guide to financial support for open source.](https://github.com/nayafia/lemonade-stand/)
 
-<a name="license"></a>
 ## License
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />All content submitted to this project is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
