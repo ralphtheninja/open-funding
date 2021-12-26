@@ -30,14 +30,6 @@ From their webpage:
 
 The Internet Freedom Fund is OTF's primary way to support projects and people working on open and accessible technology-centric projects that promote human rights, Internet freedom, open societies, and help advance inclusive and safe access to global communications networks. Successful applicants are awarded monetary support up to $900,000 and no less than $10,000, with preference given to projects and people who are new to the Internet freedom community, directly serving those living within repressive environments, and are requesting less than $300,000 for a duration of 12 months or less.
 
-#### [`OTF - Core Infrastructure Fund`](https://www.opentech.fund/funds/core-infrastructure-fund/)
-
-The Core Infrastructure Fund supports the development, improvement, and increased adoption of foundational 'building block' technologies that are relied upon by digital security and circumvention projects. This may include efforts focused on sustaining or improving PGP, SSL, SSH, Tor, OTR, pluggable transports, code libraries, or other technologies, infrastructures, and standards that make up the core building blocks of everyday Internet freedom technologies and which are used by people throughout the world to increase their access, privacy, and security online.
-
-#### [`OTF - Community Prototype Fund`](https://www.opentech.fund/funds/community-prototype-fund/)
-
-The Community Prototype Fund (CPF) is OTF’s newest fund, focused on supporting the rapid development of innovative Internet freedom technology prototypes that serve the immediate needs of the human rights and Internet freedom communities. The CPF works from an idea pool populated with ideas sourced from the Internet freedom community. Activists, journalists, and human rights defenders with urgent technology needs can submit their ideas to this pool. Technologists (applicants) can then view eligible ideas and apply to build them. Alternatively, if you have an idea and want to build it yourself, you can also apply to do that. Focusing on short-term seed funding to jumpstart good ideas, the CPF offers up to $6,000 USD for a maximum duration of 12 weeks. Applications will be reviewed by the OTF community, consisting of current and former fellows and projects, the Advisory Council, and OTF staff.
-
 #### [`OTF - Rapid Response Fund`](https://www.opentech.fund/funds/rapid-response-fund/)
 
 The Rapid Response Fund is part of a broader OTF initiative which aims to facilitate the development of a strong digital emergency response community that can work together to resolve threats in a timely and comprehensive manner. OTF offers both direct financial support as well as technical services from trusted service partners to resolve digital emergencies experienced by high-risk Internet users and organizations, such as bloggers, activists, journalists. and human rights defenders.
