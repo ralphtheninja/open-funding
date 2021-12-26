@@ -84,9 +84,9 @@ The service region for `RIPE NCC` is made up of over 75 countries, which is one 
 
 `InnovationsFonden` or `Innovation Fund Denmark` invests in both large and small projects and they don't require any stake in the project nor repayment. They have three different programs targeting the whole range from large scale research projects to smaller enterprises and entrepreneurs down to talented individuals within the research space. Funds can be anything between 50k to 5M DKK depending on the size of the project.
 
-### [`InternetFonden`](https://www.internetfonden.se/om/) :sweden:
+### [`The Swedish Internet Foundation`](https://internetstiftelsen.se/en/) :sweden:
 
-InternetFonden is a Swedish fund run by _Internetstiftelsen i Sverige_ or IIS, which administer the Swedish `.se` TLD. Parts of the earnings from selling .se domains goes to various projects that benefit the development of internet in Sweden and one of them is InternetFonden. Since 2004 the fund has financed [323 projects](https://www.internetfonden.se/projekt/) for a total of 65M SEK (7.7M USD/7.1M EUR/5.2M GBP). Applicants can be companies, organizations or private people as long as they have a Swedish organization number or social security number.
+`The Swedish Internet Foundation` (`Internetstiftelsen`) is a Swedish fund run by _Internetstiftelsen i Sverige_ or IIS, which administer the Swedish `.se` TLD. Parts of the earnings from selling .se domains goes to various projects that benefit the development of internet in Sweden and one of them is InternetFonden. Since 2004 the fund has financed [323 projects](https://www.internetfonden.se/projekt/) for a total of 65M SEK (7.7M USD/7.1M EUR/5.2M GBP). Applicants can be companies, organizations or private people as long as they have a Swedish organization number or social security number.
 
 ### [`Netidee`](https://netidee.at/) :austria:
 
