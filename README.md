@@ -224,6 +224,10 @@ Some notable projects under their umbrella are:
 
 Check out all their current [46 member projects](https://sfconservancy.org/projects/current/).
 
+## Sovereign Tech Fund
+
+The [Sovereign Tech Fund](https://www.sovereigntechfund.de/) is a funding program from the Federal Ministry for Economic Affairs and Climate Action aimed at providing financial support to open-source software. The initial funds were allocated by the Bundestag in May 2022. Since that time they have invested over 15 Million Euros in open source projects which are important to the German government. 
+
 ## Crowdfunding
 
 The concept has been around for a while and can at times be the spark that makes a project take off.
