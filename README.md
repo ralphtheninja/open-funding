@@ -22,6 +22,7 @@
   - [`Prototype Fund` 🇩🇪](#prototype-fund-)
   - [`Sloan Foundation`](#sloan-foundation)
   - [`NLNet Foundation`](#nlnet-foundation)
+  - [`DIIF`](#diif)
 - [Notable Projects](#notable-projects)
   - [`Peermaps`](#peermaps)
   - [`DeltaChat`](#deltachat)
@@ -156,6 +157,18 @@ Current submission(s):
 From OTF mailing list:
 
 > NLNet is seeking proposals requesting between €5,000 and €50,000 for projects for Privacy and Trust projects “aimed at providing people with new instruments that allow them more agency - and assist us with fulfilling the human need of keeping some private and confidential context and information private and confidential.” This effort is part of the EU’s Next Generation Initiative (NGI), which seeks to “re-imagine and re-engineer the internet for the third millennium and beyond to shape a value-centric, human and inclusive society for all.”
+
+### [`DIIF`](https://fordfoundation.forms.fm/2024-digital-infrastructure-insights-fund-rfp/forms/9861)
+
+From their website:
+
+> Our 2024 RFP invites new proposals and research implementations to study the production, maintenance, governance and use of open digital infrastructure, looking at, but not limited to, the aspects listed in our Funding Scope.
+
+Current submissions:
+
+- [The Ford Foundation RFP](https://fordfoundation.forms.fm/2024-digital-infrastructure-insights-fund-rfp/forms/9861)
+
+Due date: June 2nd. There may be more coming, however!
 
 <a name="projects"></a>
 
