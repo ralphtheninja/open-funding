@@ -220,7 +220,9 @@ Work of [one of contributors](https://github.com/westnordost/StreetComplete/comm
 
 ### 2024 September 13 - Open Tech Fund Impact and Engagement Lab RFP
 
-OTF is soliciting proposals from service providers, organizations, and individuals interested in providing services to our Impact & Engagement Lab.
+From the site:
+
+> OTF is soliciting proposals from service providers, organizations, and individuals interested in providing services to our Impact & Engagement Lab.
 
 For more, go [here](https://www.opentech.fund/news/request-for-proposals-impact-engagement-lab/).
 
