@@ -28,7 +28,7 @@ A list of funding opportunities that follow the grants model. This type of fundi
 ---
 
 ## A
-### [Awesome Foundation](https://www.awesomefoundation.org/en/) {watch}
+### [Awesome Foundation](https://www.awesomefoundation.org/en/)
 #### About
 Have a crazy brilliant idea that needs funding? We award 1,000 USD grants every month. It couldn't be simpler! Your idea is yours alone. We don't want a stake in it. We just want to help you make it happen!
 #### Eligibility Criteria
@@ -40,8 +40,9 @@ Every chapter interprets "awesome" for itself. As such, awesome projects include
 N/A
 
 ---
+
 ## B
-### [Bloomberg @ Open collective](https://opencollective.com/bloomberg-foss-fund) {watch}
+### [Bloomberg @ Open collective](https://opencollective.com/bloomberg-foss-fund)
 #### About
 Bloomberg’s program for directly backing Free and Open Source Software (FOSS) projects
 
@@ -73,6 +74,9 @@ company's inaugural FOSS Contributor Fund grants:
 https://opencollective.com/bloomberg-foss-fund
 #### Deadline
 N/A
+
+---
+
 ## C
 ### [ChanZuckerberg](https://chanzuckerberg.com/eoss/)
 #### About
@@ -85,8 +89,7 @@ https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/
 #### Deadline
 cycle 5 closed in nov 2022
 
----
-### [Code for Science and Society (CS&S) - a community fund for open data science](https://www.codeforsociety.org/) {watch}
+### [Code for Science and Society (CS&S) - a community fund for open data science](https://www.codeforsociety.org/)
 #### About
 Tackling the complex scientific challenges of the 21st century requires global, collaborative research networks with robust data science capacity. Data science community events are a key tool to build skills and networks.
 
@@ -103,8 +106,6 @@ By investing directly in communities who seek to run inclusive events, the Event
 * https://www.codeforsociety.org/eventfund/closed-call-for-applications
 #### Deadline
 Closed, plans to re-open mid 2023
-
----
 
 ### [Comcast Innovation Fund](https://innovationfund.comcast.com/)
 #### About
@@ -143,7 +144,6 @@ https://comcastinnovationfund.smartsimple.com/s_Login.jsp
 #### Deadline
 ???
 
----
 ### [Cosmos grant.fish](https://medium.com/stakefish/launching-grant-fish-validator-81634d882c40)
 #### About
 grant.fish is a new validator operated by stake.fish that has launched with the Cosmos Hub 3 upgrade. grant.fish will live on a separate validator node and will have the same quality of security that stake.fish uses. grant.fish will use staking rewards as grants to newer projects. stake.fish will bond 1,000 ATOMs to start grant.fish.
@@ -154,7 +154,6 @@ onchain ?
 #### Deadline
 N/A
 
----
 ### [Cosmos hub grant program](https://forum.cosmos.network/search?q=grant)
 #### About
 With a properly funded community pool, we believe it is the right time to initiate the creation of a grant program to serve community contributors and builders around the Hub.
@@ -167,8 +166,9 @@ onchain ?
 N/A
 
 ---
+
 ## D
-### [DIIF - Digital Infrastructure Grants @ Open collective](https://opencollective.com/di-grants)  {watch}
+### [DIIF - Digital Infrastructure Grants @ Open collective](https://opencollective.com/di-grants) 
 #### About
 Everything in our modern society, from hospitals and banks to universities and social media platforms, runs on software. Nearly all of this software is built on “digital infrastructure,” a foundation of free and public code that is designed to solve common challenges. The benefits of digital infrastructure are numerous: it can reduce the cost of setting up new businesses, support data-driven discovery across research disciplines, enable complex technologies such as smartphones to talk to each other, and allow everyone to have access to important innovations like encryption that would otherwise be too expensive. Sharing code to address common challenges is in principle cheaper, easier and more efficient.
 While the collective action problems that characterize infrastructure funding are well-explored, the industrial organization of digital infrastructure is less well-understood. In 2016, the Ford Foundation funded a report by Nadia Eghbal titled “Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure” that described how that the development and maintenance of digital infrastructure often falls to communities of volunteers who take it upon themselves to maintain this infrastructure in their own free time and for little or no money. Unsurprisingly, this leads to significant risks to the open internet and the ability to develop new, innovative research and businesses within it.
@@ -191,26 +191,14 @@ To continue to advance this agenda, this RFP invited proposals to further study 
 #### Deadline
 N/A
 
-
 ---
 
-
-#### About
-???
-#### Eligibility Criteria
-???
-#### Application
-???
-#### Deadline
-Due date: June 2nd. There may be more coming, however!
-
-
-
----
 ## E
+
 ---
+
 ## F
-### [Filecoin open grants](https://github.com/filecoin-project/devgrants/tree/master/open-grants)  {watch}
+### [Filecoin open grants](https://github.com/filecoin-project/devgrants/tree/master/open-grants) 
 #### About
 Do you have an idea for pushing the Filecoin ecosystem forward? Open grants are intended to support novel ideas that advance the Filecoin ecosystem, bring significant new usage, or directly advance the Filecoin mission statement. Open Grants are generally awarded in the amounts of 10,000+ USD , across several milestones. If this is your first, we strongly recommend scoping your project to under 50,000 USD
 https://github.com/protocol/research#private-retrieval
@@ -228,8 +216,9 @@ https://github.com/filecoin-project/devgrants/tree/master/open-grants#-how-to-ap
 N/A
 
 ---
+
 ## G
-### [Gitcoin](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20) {watch}
+### [Gitcoin](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20)
 https://bounties.gitcoin.co/grants/
 #### About
 The Gitcoin Grants Program is a quarterly initiative run by Gitcoin DAO that empowers everyday believers in web3 to drive funding toward what they believe matters, with the impact of individual donations being magnified by the use of the Quadratic Funding (QF) distribution mechanism. QF was introduced in a paper published in 2018 by Vitalik Buterin, Zoe Hitzig, and Glen Weyl.
@@ -258,8 +247,7 @@ https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/project
 #### Deadline
 April 25th to May 9th
 
----
-### [Google open source cms fund @ Open collective](https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com)  {watch}
+### [Google open source cms fund @ Open collective](https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com) 
 #### About
 Support FOSS Sustainability. Google seeks to improve the web for developers and users by supporting open source CMSes.
 #### Eligibility Criteria
@@ -271,7 +259,6 @@ https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.c
 #### Deadline
 N/A
 
----
 ### [Global Innovation Fund](https://www.globalinnovation.fund/apply/about/what-we-fund/)
 #### About
 At GIF, we believe that innovation, by which we mean any solution that has potential to address an important development problem more effectively than existing approaches, can come from anyone, anywhere.
@@ -301,11 +288,12 @@ https://www.globalinnovation.fund/apply/starting-your-application/
 N/A
 
 ---
+
 ## H
 
 ---
-## I
 
+## I
 ### [`InnovationsFonden`](https://innovationsfonden.dk/en) :denmark:
 #### About
 `InnovationsFonden` or `Innovation Fund Denmark` invests in both large and small projects and they don't require any stake in the project nor repayment. They have three different programs targeting the whole range from large scale research projects to smaller enterprises and entrepreneurs down to talented individuals within the research space. Funds can be anything between 50k to 5M DKK depending on the size of the project.
@@ -315,8 +303,6 @@ N/A
 ???
 #### Deadline
 ???
-
----
 
 ### [Internet freedom support fund @ Open collective](https://opencollective.com/internet-freedom-support-fund)
 #### About
@@ -339,10 +325,10 @@ N/A
 
 ---
 
-
+## J
 
 ---
-## J
+
 ## K
 ### [kusama](https://kusama.polkassembly.io)
 #### About
@@ -370,8 +356,10 @@ https://www.dotreasury.com/ksm/proposals
 #### Deadline
 N/A
 
+---
+
 ## L
-### [Libre Endowment Fund](https://www.fdl-lef.org/process/) !!  {watch}
+### [Libre Endowment Fund](https://www.fdl-lef.org/process/) !! 
 #### About
 Organisations and institutions wishing to ensure support, maintenance and continuous development of mission critical free software can use FDL and AWL to offset some of the associated cost while also being able to influence the long-term roadmaps of utilised software solutions.
 
@@ -399,13 +387,13 @@ The software must be easily accessible to the general public, meaning it is inst
 The software must be easy to contribute to, meaning it's source code can be remotely edited and contributed to through the web.
 The project must be of general interest (software, documentation, education) which cannot be financed through existing R&D grants in Europe.
 
-
 #### Application
 https://www.fdl-lef.org/process/
 #### Deadline
 ???
 
 ---
+
 ## M
 ### [Mathew Good Foundation](https://www.matthewgoodfoundation.org/grantsforgood/)
 #### About
@@ -421,8 +409,7 @@ https://www.matthewgoodfoundation.org/grantsforgood/
 #### Deadline
 N/A
 
----
-### [Metamask grants](https://metamaskgrants.org/)  {watch}
+### [Metamask grants](https://metamaskgrants.org/) 
 #### About
 is an employee-led DAO with the mission of funding the development of high-value projects in the MetaMask ecosystem through a grants program. We seek to support developers across the community to be able to nimbly build on top of the MetaMask ecosystem, while empowering employees to embrace Web3 mechanisms and contribute as “One ConsenSys”.
 #### Eligibility Criteria
@@ -432,8 +419,7 @@ Any project that adds value to the MetaMask ecosystem is eligible. We are keepin
 #### Deadline
 N/A
 
----
-### [Mozilla Data Futures Lab](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/2023-prototype-fund/) !! {watch}
+### [Mozilla Data Futures Lab](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/2023-prototype-fund/) !!
 #### About
 The Data Futures Lab is an experimental space for instigating new approaches to data stewardship challenges. It provides funding, scaffolding for collaboration, convening around emerging ideas, and a place to workshop approaches to data stewardship which give greater control and agency to people.
 Applications will be accepted for a period of four weeks and be reviewed by an evaluation committee. Among the list of top candidates, the Mozilla Foundation will choose and allocate awards of up to 100,000 USD each out of a total pool of 400,000 USD. Applicants can expect to hear back within eight weeks of submitting an application; please email datafutureslab@mozillafoundation.org with any questions.
@@ -441,15 +427,13 @@ https://foundation.mozilla.org/en/what-we-fund/
 #### Eligibility Criteria
 These awards are open to all applicants regardless of geographic location or institutional affiliation, except where legally prohibited. However, Mozilla is especially interested in receiving applications from members of the global majority or Global South; Black, Indigenous, and other People of Color; women, transgender and/or gender diverse applicants; migrant and diasporic communities; and/or persons coming from climate displaced/impacted communities, etc. We strongly encourage all such applicants to apply.
 #### Application
-
+???
 #### Deadline
 Applications for the 2023 grants closed on November 11, 2022 at 23:59 (UTC-5).
 
----
-
-## [MOSS Grants](https://wiki.mozilla.org/MOSS)
+### [MOSS Grants](https://wiki.mozilla.org/MOSS)
 * [MOSS Mozilla Secure Open Source](https://wiki.mozilla.org/MOSS/Secure_Open_Source)
-* [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners) {watch}
+* [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
 * [MOSS Foundation Technolgy](https://wiki.mozilla.org/MOSS/Foundational_Technology)
 #### About
 The open source and free software ecosystem needs to be secure; thank you for your desire to help make that even more of a reality by suggesting a project for an SOS audit. Note that this form allows you to make a *suggestion*, not an *application* - please do not expect to hear back from us. Unlike other tracks of MOSS, Mozilla will take the initiative to approach organizations it wishes to make offers to, perhaps guided by a suggestion, perhaps not.
@@ -466,8 +450,10 @@ https://docs.google.com/forms/d/e/1FAIpQLScLwANEOvLBE6gnFVoiamqHOYzzkaChpdQJ7f0P
 #### Deadline
 N/A
 
+---
+
 ## N
-### [NGI -NLNet Foundation](https://www.ngi.eu/opencalls/) {watch}
+### [NGI -NLNet Foundation](https://www.ngi.eu/opencalls/)
 #### About
 NLNET Zero Entrust
 
@@ -496,8 +482,9 @@ Apr 1 2023
 Aug 1 2023
 
 ---
+
 ## O
-### [Open Defense Fund](https://github.com/OpenDefenseFund/monorepo/tree/main/how-to-apply-for-funding-or-speak) !!  {watch}
+### [Open Defense Fund](https://github.com/OpenDefenseFund/monorepo/tree/main/how-to-apply-for-funding-or-speak) !! 
 #### About
 Owned by none, ODF is a consortium of organizations participating in an open forum dedicated to protecting the future of the web. No member speaks for or represents the foundation or any other member in the think tank, all views come from a diverse range of ethnic and cultural heritages.
 ODF's mission is to facilitate healthy discourse between differing cultures by freely promoting corroborative facts with fair algorithms.
@@ -512,8 +499,7 @@ https://github.com/balzack/monorepo/blob/main/how-to-apply-for-funding-or-speak/
 #### Deadline
 N/A
 
----
-### [Open Humans](https://www.openhumans.org/grants/)  {watch}
+### [Open Humans](https://www.openhumans.org/grants/) 
 #### About
 Do you have a project that might help grow the Open Humans ecosystem?
 
@@ -539,7 +525,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdpunOhJosk-u4jr-5BtI9YQaR8zBPFTwX9Q5CL
 #### Deadline
 N/A
 
----
 ### [Open Society Foundation](https://www.opensocietyfoundations.org/grants)
 #### About
 Building long-term relationships of trust with the entities we support, and understanding their health, effectiveness, strengths, and the challenges they face, is an integral part of the Open Society Foundations’ organization-centered approach to grant making. The vast majority of our grants are awarded to organizations that we approach directly. The kind of grants any Open Society program makes depend on its strategy and its vision of how to use its budget most effectively.
@@ -550,8 +535,7 @@ https://www.opensocietyfoundations.org/grants/open-society-fellowship?eligibilit
 #### Deadline
 N/A
 
----
-### [OpenTechnology Fund](https://www.opentech.fund/) {watch}
+### [OpenTechnology Fund](https://www.opentech.fund/)
 #### About
 The Open Technology Fund supports projects and people that develop open and accessible technologies promoting human rights and open societies, and help advance inclusive and safe access to global communications networks.
 - Internet Freedom Fund
@@ -615,7 +599,6 @@ For more specific, one-off support needs and services, check out OTF's Labs: Loc
 They also fund people by offering fellowships.
 
 
----
 ### [OS collective](https://www.oscollective.org/)
 #### About
 Stay focused on your project — let us take care of all the accounting, taxes, invoices, and admin. You decide where the money gets spent, then we make it happen. Plus, your budget will be fully transparent to your community.
@@ -632,8 +615,9 @@ https://opencollective.com/opensource
 N/A
 
 ---
+
 ## P
-### [Plaintextgroup](https://github.com/PlaintextGroup/oss-virtual-incubator/) !! {watch}
+### [Plaintextgroup](https://github.com/PlaintextGroup/oss-virtual-incubator/) !!
 #### About
 We are seeking to support the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem. Submit your idea or view other ideas here.
 Discussion forum https://github.com/PlaintextGroup/oss-virtual-incubator/discussions
@@ -648,8 +632,7 @@ https://github.com/PlaintextGroup/oss-virtual-incubator/#2-submit-a-proposal
 #### Deadline
 N/A
 
----
-### [Polkadot treasury fund](https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w/edit) {watch}
+### [Polkadot treasury fund](https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w/edit)
 #### About
 The Polkadot Treasury is a pot of funds collected through transaction fees, slashing, and staking inefficiencies that can be spent by submitting a spending proposal that, if approved, will enter a waiting period before distribution.
 
@@ -677,8 +660,7 @@ https://www.dotreasury.com/dot/proposals
 #### Deadline
 N/A
 
----
-### [Protocol Labs research](https://github.com/protocol/research#private-retrieval) !! {watch}
+### [Protocol Labs research](https://github.com/protocol/research#private-retrieval) !!
 #### About
 We are looking for research and development of interactive private communication mechanisms.
 Commensurate with scope, up to USD 150k per award for research grants and USD 300k per award for implementation grants.
@@ -697,8 +679,7 @@ We encourage you to reach out to research-grants@protocol.ai or visit #private-r
 #### Deadline
 ???
 
----
-### [Protocol Labs Sponsorships](https://research.protocol.ai/outreach/sponsorship/) !! {watch}
+### [Protocol Labs Sponsorships](https://research.protocol.ai/outreach/sponsorship/) !!
 #### About
 Sponsorships
 To request sponsorship for research-oriented events, we ask that you fill out our sponsorship request form. Please provide as much information as possible (sponsorship tiers, free non-speaker tickets, branding, a table or other space for swag, inclusion in newsletters, etc.) to minimize the need for back-and-forth communication and help streamline our review process.
@@ -710,9 +691,7 @@ https://protocollabs.smapply.io/prog/event_sponsorship/
 #### Deadline
 N/A
 
-
----
-### [Prototype fund](https://prototypefund.de/en/) 🇩🇪 {watch}
+### [Prototype fund](https://prototypefund.de/en/) 🇩🇪
 #### About
 The Prototype Fund supports software developers, designers and other creatives in transforming their ideas from a concept to a software prototype. Whether it’s about society, education, environment or tech sovereignty – together we explore and test new ways for technical and social innovations.
 
@@ -735,9 +714,7 @@ You are resident in Germany, self-employed** or freelance and pay your taxes her
 #### Deadline
 The next application phase starts on August 1st, 2023.
 
----
-
-### [`The Python Software Foundation`](https://www.python.org/psf/grants/)
+### [`Python Software Foundation`](https://www.python.org/psf/grants/)
 #### About
 From their webpage:
 
@@ -750,9 +727,13 @@ From their webpage:
 ???
 
 ---
+
 ## Q
+
+---
+
 ## R
-### [RIPE NCC Community Projects Fund](https://www.ripe.net/support/cpf) {watch}
+### [RIPE NCC Community Projects Fund](https://www.ripe.net/support/cpf)
 #### About
 The RIPE NCC has supported a range of projects and innovative ideas over its 25-year history, and we are now formalising these efforts through the RIPE NCC Community Projects Fund. We know there's no shortage of brilliant minds in the Internet technical community working on groundbreaking projects, but securing funding to support these projects can be challenging.
 
@@ -768,8 +749,7 @@ https://www.ripe.net/support/cpf/call-for-applications
 #### Deadline
 May 31 2023
 
----
-### [Roddenberry Catalyst](https://roddenberryfoundation.org/our-work/catalyst-fund/) !! {watch}
+### [Roddenberry Catalyst](https://roddenberryfoundation.org/our-work/catalyst-fund/) !!
 #### About
 The Catalyst Fund makes grants between 2,500–15,000 USD to anyone, anywhere in the world who has an early-stage idea or project that addresses pressing global challenges.
 #### Eligibility Criteria
@@ -787,8 +767,9 @@ https://apply.roddenberryfoundation.org/app/main/register/096B3E8FC7C03D844F7922
 There are no deadlines. Applications are accepted year-round.
 
 ---
+
 ## S
-### [Samsung Next](https://www.samsungnext.com/) {watch}
+### [Samsung Next](https://www.samsungnext.com/)
 #### About
 We focus broadly on these technology areas, but invest opportunistically in founders pursuing the imagined and impossible: artificial intelligence, blockchain, fintech, healthtech, infrastructure, mediatech
 
@@ -803,8 +784,7 @@ https://samsungnext.typeform.com/to/FFh0nIgy?typeform-source=www.samsungnext.com
 #### Deadline
 ???
 
----
-### [Siegel Family Endowment](https://www.siegelendowment.org/grantees/) {watch}
+### [Siegel Family Endowment](https://www.siegelendowment.org/grantees/)
 #### About
 We know that philanthropy doesn’t hold all the answers to addressing tough societal challenges. However, we believe that philanthropy is uniquely positioned to ask big questions of our society, and to bring together the right stakeholders to answer those questions. Our inquiry-driven approach to grantmaking is an iterative process of asking questions, systematically interrogating them, and applying our learnings to subsequents rounds of questioning.
 
@@ -818,8 +798,7 @@ no application, but an inquiry driven approach
 #### Deadline
 ???
 
----
-### [SIDN Fonds](https://www.sidnfonds.nl/over-het-fonds) !! :netherlands: {watch}
+### [SIDN Fonds](https://www.sidnfonds.nl/over-het-fonds) !! :netherlands:
 #### About
 As an independent fund and Algemeen Nut Beogende Instelling ( ANBI ), we support projects that contribute to a strong internet for everyone. We were founded in 2014 at the initiative of SIDN (Stichting Internet Domeinregistratie Nederland) and since the first call in 2015 we have supported more than 300 projects.
 https://www.sidnfonds.nl/aanvragen/pioniers
@@ -841,7 +820,6 @@ https://fundpro.se/calls/2399
 #### Deadline
 Closes: 2023-12-31 23:59
 
----
 ### [Shuttleworth Foundation](https://shuttleworthfoundation.org/)
 https://www.shuttleworthfoundation.org/fellows/
 #### About
@@ -857,7 +835,6 @@ https://shuttleworthfoundation.org/apply/#more
 #### Deadline
 Last one was March 2022
 
----
 ### [Sloan Foundation](https://sloan.org/programs/digital-technology/better-software-for-science)
 #### About
 We fund research and education in science, technology, engineering, mathematics and economics
@@ -924,8 +901,7 @@ The names, affiliations, and titles of other key members of the project, if any.
 N/A
 
 
----
-### [Sovereignity tech fund](https://sovereigntechfund.de/en/)  {watch}
+### [Sovereignity tech fund](https://sovereigntechfund.de/en/) 
 #### About
 The Sovereign Tech Fund supports the development, improvement and maintenance of open digital infrastructure. Our goal is to sustainably strengthen the open source ecosystem. We focus on security, resilience, technological diversity, and the people behind the code.
 #### Eligibility Criteria
@@ -938,7 +914,6 @@ https://sovereigntechfund.de/en/applications/
 #### Deadline
 N/A
 
----
 ### [Spotify Grants](https://engineering.atspotify.com/2022/04/announcing-the-spotify-foss-fund/) 
 #### About
 Spotify is starting a Free and Open Source Software Fund (FOSS Fund) to pay maintainers of independent projects. This new initiative is about giving back to open source developers and is one of the ways we are investing in a more sustainable open source ecosystem for all of us. The fund will start at 100K EUR, with Spotify’s engineers nominating what projects should receive funds and our fund committee making the final selections.
@@ -949,8 +924,6 @@ Anyone
 #### Deadline
 ???
 
-
----
 ### [Substrate Builder's Program](https://substrate.io/ecosystem/substrate-builders-program/)
 #### About
 The Substrate Builders Program directly supports you by connecting you with Parity’s extensive resources, taking your Substrate project to the next level. The program is divided into three tracks: chain, infrastructure and application track
@@ -961,10 +934,7 @@ https://share.hsforms.com/1mcuE-iW8TpynU-hGG7CAyQ4iqge
 #### Deadline: 
 N/A
 
-
----
-
-### [`The Swedish Internet Foundation`](https://internetstiftelsen.se/en/) :sweden:
+### [`Swedish Internet Foundation`](https://internetstiftelsen.se/en/) :sweden:
 #### About
 `The Swedish Internet Foundation` (`Internetstiftelsen`) is a Swedish fund run by _Internetstiftelsen i Sverige_ or IIS, which administer the Swedish `.se` TLD. Parts of the earnings from selling .se domains goes to various projects that benefit the development of internet in Sweden and one of them is InternetFonden. Since 2004 the fund has financed [323 projects](https://www.internetfonden.se/projekt/) for a total of 65M SEK (7.7M USD/7.1M EUR/5.2M GBP). Applicants can be companies, organizations or private people as long as they have a Swedish organization number or social security number.
 #### Eligibility Criteria
@@ -974,10 +944,8 @@ N/A
 #### Deadline
 ???
 
-
-
-
 ---
+
 ## T
 ### [top10vpn research grant](https://www.top10vpn.com/research-grant/)
 #### About
@@ -996,9 +964,11 @@ To apply, please email samuel@privacy.co a one page concept note outlining your 
 Open
 
 ---
+
 ## U
 
 ---
+
 ## V
 
 ### [`Vinnova`](https://vinnova.se/en) :sweden:
@@ -1012,6 +982,7 @@ Open
 ???
 
 ---
+
 ## W
 ### [web3 foundation grants](https://web3.foundation/)
 #### About
@@ -1043,9 +1014,18 @@ https://github.com/w3f/Grants-Program/#mailbox_with_mail-suggest-a-project
 N/A
 
 ---
+
 ## X
+
+---
+
 ## Y
+
+---
+
 ## Z
+
+---
 
 
 --------------------------------------------------------------------------------
@@ -1815,10 +1795,6 @@ April 1
 July 1
 October 1 + Scholarship Applications Due
 
----
----
-
-
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 # GRANTS - LISTINGS
@@ -1835,11 +1811,7 @@ October 1 + Scholarship Applications Due
 * https://www.dev.ngo/grants/
 * https://grantnav.threesixtygiving.org/search
 
-
-
 --------------------------------------------------------------------------------
-
-
 
 <a name="projects"></a>
 
