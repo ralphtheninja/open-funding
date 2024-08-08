@@ -173,6 +173,15 @@ Current submissions:
 
 Due date: June 2nd. There may be more coming, however!
 
+
+### [`Maintainer Fellowships`](https://www.sovereigntechfund.de/programs/fellowship)
+
+The Sovereign Tech Fund is piloting a fellowship program to pay open source maintainers, aiming to address structural issues and support open digital infrastructure in the public interest.
+
+Submissions open in Q4 2024:
+
+- https://www.sovereigntechfund.de/programs/fellowship
+
 <a name="projects"></a>
 
 ## Notable Projects
