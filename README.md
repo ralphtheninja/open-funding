@@ -32,8 +32,11 @@
   - [`Ghost`](#ghost)
   - [`Read the Docs`](#read-the-docs)
   - [`StreetComplete`](#streetcomplete)
+- [Time-bounded Opportunities](#time-bounded-opportunities)
+  - [2024 September 13 - Open Tech Fund Impact and Engagement Lab RFP](#2024-september-13---open-tech-fund-impact-and-engagement-lab-rfp)
 - [Other Organisations](#other-organisations)
   - [:sparkles: `Software Freedom Conservancy`](#sparkles-software-freedom-conservancy)
+- [Sovereign Tech Fund](#sovereign-tech-fund)
 - [Crowdfunding](#crowdfunding)
 - [Links](#links)
 - [License](#license)
@@ -249,7 +252,7 @@ Check out all their current [46 member projects](https://sfconservancy.org/proje
 
 ## Sovereign Tech Fund
 
-The [Sovereign Tech Fund](https://www.sovereigntechfund.de/) is a funding program from the Federal Ministry for Economic Affairs and Climate Action aimed at providing financial support to open-source software. The initial funds were allocated by the Bundestag in May 2022. Since that time they have invested over 15 Million Euros in open source projects which are important to the German government. 
+The [Sovereign Tech Fund](https://www.sovereigntechfund.de/) is a funding program from the Federal Ministry for Economic Affairs and Climate Action aimed at providing financial support to open-source software. The initial funds were allocated by the Bundestag in May 2022. Since that time they have invested over 15 Million Euros in open source projects which are important to the German government.
 
 ## Crowdfunding
 
