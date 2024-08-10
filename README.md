@@ -375,9 +375,6 @@ An open application window does not mean, however, that all development projects
 - Will generate new knowledge on what works.
 - Have a clear role for GIF.
 
-* maybe for wizardamigos or datashell (TODO: remove)
-...
-
 #### Application
 
 https://www.globalinnovation.fund/apply/starting-your-application/
@@ -1120,8 +1117,6 @@ Closes: 2023-12-31 23:59
 
 ### [Shuttleworth Foundation](https://shuttleworthfoundation.org/)
 
-https://www.shuttleworthfoundation.org/fellows/ (TODO: remove)
-
 #### About
 
 The free and open source software (FOSS) movement has not only created widely used software but million dollar businesses, using collaborative development approaches and open licences. Although the model is well established for software, it is not the case for education, philanthropy, hardware or social development. The default imposed on knowledge resources by copyright law is automatic lock down, with ideas generated and owned by 'experts'. This default makes little sense if your agenda is social change.
@@ -1148,38 +1143,41 @@ Last one was March 2022
 
 We fund research and education in science, technology, engineering, mathematics and economics
 
-TODO: the numbered sections below look odd, maybe add h5 sections instead?
+##### 1. Better Software for Science
 
-1. Better Software for Science
-Open source in research
+###### Open source in research
+
 Open source is much more than a licensing strategy, it is a set of community practices that enable the distributed production and maintenance of software that are not widely adopted in the research enterprise. The Better Software for Science program seeks opportunities to better understand and align best practices in open source with academic research, with a particular eye toward the health and maintenance of digital infrastructural dependencies upon which computational research relies.
 
-Software Publication and Archiving
+###### Software Publication and Archiving
+
 Software is not well-integrated into the scholarly communication system; scientific software is often not cited or well-archived, and can require substantial work to reuse. The Better Software for Science program seeks opportunities to elevate software as a first-order research product as well as efforts that aim to improve the linkages between software and other research outputs such as articles, preprints or data.
 
-Career paths and incentives
+###### Career paths and incentives
+
 The work of building and maintaining research software is often undervalued and marginalized in the research enterprise. The Better Software for Science program seeks opportunities to foreground and institutionalize the individuals and communities who are essential to the utility and durability of software in science, with particular attention to the roles of research software engineer, data scientist, and software curator.
 
-2. Exploratory grant making in technology
-Open Hardware
+##### 2. Exploratory grant making in technology
+
+###### Open Hardware
+
 Open and cheap hardware has the potential to revolutionize the creation and deployment of sensors and other scientific instruments, expanding access and lowering barriers to innovation in data-driven research methods. Grants in this focus area seek to explore the potential for Foundation support to have an impact on the development of best practices, data standards, and emerging new practitioner communities in open hardware.
 
+###### Trust in Algorithmic Knowledge
 
-Trust in Algorithmic Knowledge
 The complexity and opacity of AI-driven research methods has raised new questions about the degree to which their results can or should be trusted. Issues examined in this focus area include identifying and mitigating algorithmic bias, the role of training and benchmarking datasets in AI development, how Machine Learning techniques enhance or degrade rigor and reproducibility, and the ways that algorithmic recommendation systems influence trust in knowledge.  Grants focus on exploring these issues with an eye toward understanding the potential for Foundation impact.
 
+###### Virtual Collaboration
 
-Virtual Collaboration
 Health, safety, and travel restrictions imposed in response to the global coronavirus pandemic made co-located scientific activities impossible. From conferences to classrooms to lab work, research communities responded by using new approaches and technology platforms to continue the practice of science. Grants in this focus area explore these innovations, their effects on research outcomes, and their post-pandemic durability, and encourage continued experimentation by research communities in how scientific practice might be effectively mediated by digital platforms and immersive technologies.
 
-3. Data & computational research
+##### 3. Data & computational research
+
 Grants in this program sought to partner with research communities to develop tools, standards, practices, and institutions that enable the efficient management and sharing of data and code at every point in the scientific pipeline—from acquisition through analysis to archiving.
 
-TODO: bullet points
-
-https://sloan.org/
-https://sloan.org/grants/apply
-https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/
+* https://sloan.org/
+* https://sloan.org/grants/apply
+* https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/
 
 #### Eligibility Criteria
 
@@ -1472,9 +1470,8 @@ March 17th, 2023
 
 #### About
 
-TODO the - sections below look odd, maybe add h5 instead?
+##### Sustainability
 
-- Sustainability
 Information technology systems and infrastructures represent, by some estimates, approximately 4% of the net contribution towards greenhouse gas emissions. While actions can be undertaken to reduce both the energy required for power and cooling, as well as reducing the embedded emissions, ICT infrastructures offer the potential to help reduce the resource consumption and emissions from other sources of activity. In other words, we may see ICT sector emission increasing while other sectors decrease. 'No decarbonization without digitalization'.
 
 As Sustainability rises on the global agenda, Cisco is interested in how information and communication technologies can be improved in efficiency and how ICT can enable a more sustainable future for the world.
@@ -1491,7 +1488,8 @@ Security considerations for distributed infrastructures and systems such as ener
 Business models and information systems for sustainability and circularity
 Human factors in design of improved product sustainability
 
-- Web 3
+##### Web 3
+
 Web 3.0 has disrupted the technological ecosystem and geoeconomics worldwide. A parallel digital economy was born out of bitcoin, and then continues to grow with the help of Ethereum and other cryptocurrency (aka virtual-currency) platforms. They have given rise to the concept of de-centralized finance (DeFI) technology. De-centralized computing is enabled by blockchain and is being implemented as de-centralized apps (dApps). While the industry is building the Web3.0 technology and building on top of the continuously evolving Web3.0 platforms, there are several research challenges that need to be addressed. Cisco is interested in helping the industry solve the foundational and applied technical problems and in advancing the technology of Web 3.0.
 
 The goal of this RFP is to solicit proposals that aim to conduct research and address research challenges in the technologies and applications in the area of Web 3.0, Blockchain, cryptocurrencies aka virtual-currencies. Specific areas of research include but are not limited to the following:
@@ -1844,28 +1842,6 @@ Applications are currently closed for the Summer 202
 
 ---
 
-### [Software Freedom Conservancy](https://sfconservancy.org/projects/apply/)
-
-TODO: duplicate
-
-#### About
-
-Part of Conservancy's activity is through its member projects. These projects become formally part of Conservancy and have a close relationship with our activity. Most of our projects are purely software projects, but we also occasionally accept initiatives designed to advance software freedom, such as Outreachy.
-
-#### Eligibility Criteria
-
-Conservancy seeks projects that dedicate themselves to the advancement of software freedom and focus their projects on the rights of users to copy, share, modify and improve their software. Being a FOSS project under an OSI-approved and DFSG-free license is mandatory, but not the only criteria.
-
-#### Application
-
-* ...
-
-#### Deadline
-
-???
-
----
-
 ### [Numfocus](https://numfocus.org/)
 
 #### About
@@ -2088,12 +2064,7 @@ Our average grants range from 5,000 USD to 250,000 USD, with some extraordinary 
 
 #### About
 
-TODO: capitals!!11oneone
-
-WE INVEST UP TO
-2 MILLION USD IN
-SEED FUNDING.
-AND TAKE ZERO EQUITY.
+We invest up to 2 million usd in seed funding and take zero equity.
 
 #### Eligibility Criteria
 
@@ -2544,12 +2515,10 @@ https://grants.ardc.net/
 
 #### Deadline
 
-TODO: bullet list
-
-February 1
-April 1
-July 1
-October 1 + Scholarship Applications Due
+* February 1
+* April 1
+* July 1
+* October 1 + Scholarship Applications Due
 
 TODO: what to do with this list of links? why aren't they in the same format as the rest of the entries?
 
