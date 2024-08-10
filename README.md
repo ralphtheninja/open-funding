@@ -1801,7 +1801,8 @@ N/A
 
 #### Application
 
-Submissions open in Q4 2024: <https://www.sovereigntechfund.de/programs/fellowship>
+- Submissions open in Q4 2024: <https://www.sovereigntechfund.de/programs/fellowship>
+- Read more: <https://www.sovereigntechfund.de/news/introducing-the-fellowship-for-maintainers>
 
 #### Deadline
 
