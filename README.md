@@ -25,11 +25,9 @@ More individuals, organizations and companies are starting to realize the potent
 
 A list of funding opportunities that follow the grants model. This type of funding is usually carried out in batches, i.e. the fund in question release a certain amount of money each year and it's spread out over multiple projects. Grant funding often allows you to plan and execute projects over a longer period of time.
 
----
-
 ## A
 
-### [Awesome Foundation](https://www.awesomefoundation.org/en/)
+### [`Awesome Foundation`](https://www.awesomefoundation.org/en/)
 
 #### About
 
@@ -48,11 +46,9 @@ Every chapter interprets "awesome" for itself. As such, awesome projects include
 
 N/A
 
----
-
 ## B
 
-### [Bloomberg @ Open collective](https://opencollective.com/bloomberg-foss-fund)
+### [`Bloomberg @ Open collective`](https://opencollective.com/bloomberg-foss-fund)
 
 #### About
 
@@ -93,11 +89,9 @@ https://opencollective.com/bloomberg-foss-fund
 
 N/A
 
----
-
 ## C
 
-### [ChanZuckerberg](https://chanzuckerberg.com/eoss/)
+### [`ChanZuckerberg`](https://chanzuckerberg.com/eoss/)
 
 #### About
 
@@ -116,7 +110,9 @@ https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/
 
 cycle 5 closed in nov 2022
 
-### [Code for Science and Society (CS&S) - a community fund for open data science](https://www.codeforsociety.org/)
+---
+
+### [`Code for Science and Society (CS&S)`](https://www.codeforsociety.org/)
 
 #### About
 
@@ -142,7 +138,9 @@ By investing directly in communities who seek to run inclusive events, the Event
 
 Closed, plans to re-open mid 2023
 
-### [Comcast Innovation Fund](https://innovationfund.comcast.com/)
+---
+
+### [`Comcast Innovation Fund`](https://innovationfund.comcast.com/)
 
 #### About
 
@@ -187,7 +185,9 @@ https://comcastinnovationfund.smartsimple.com/s_Login.jsp
 
 ???
 
-### [Cosmos grant.fish](https://medium.com/stakefish/launching-grant-fish-validator-81634d882c40)
+---
+
+### [`Cosmos grant.fish`](https://medium.com/stakefish/launching-grant-fish-validator-81634d882c40)
 
 #### About
 
@@ -205,7 +205,9 @@ onchain ?
 
 N/A
 
-### [Cosmos hub grant program](https://forum.cosmos.network/search?q=grant)
+---
+
+### [`Cosmos hub grant program`](https://forum.cosmos.network/search?q=grant)
 
 #### About
 
@@ -224,11 +226,9 @@ onchain ?
 
 N/A
 
----
-
 ## D
 
-### [DIIF - Digital Infrastructure Grants @ Open collective](https://opencollective.com/di-grants)
+### [`DIIF - Digital Infrastructure Grants @ Open collective`](https://opencollective.com/di-grants)
 
 #### About
 
@@ -257,15 +257,11 @@ To continue to advance this agenda, this RFP invited proposals to further study 
 
 N/A
 
----
-
 ## E
-
----
 
 ## F
 
-### [Filecoin open grants](https://github.com/filecoin-project/devgrants/tree/master/open-grants)
+### [`Filecoin open grants`](https://github.com/filecoin-project/devgrants/tree/master/open-grants)
 
 #### About
 
@@ -290,13 +286,9 @@ https://github.com/filecoin-project/devgrants/tree/master/open-grants#-how-to-ap
 
 N/A
 
----
-
 ## G
 
-### [Gitcoin](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20)
-
-https://bounties.gitcoin.co/grants/
+### [`Gitcoin`](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20)
 
 #### About
 
@@ -331,7 +323,9 @@ https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/project
 
 April 25th to May 9th
 
-### [Google open source cms fund @ Open collective](https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com)
+---
+
+### [`Google open source cms fund @ Open collective`](https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com)
 
 #### About
 
@@ -351,7 +345,9 @@ https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.c
 
 N/A
 
-### [Global Innovation Fund](https://www.globalinnovation.fund/apply/about/what-we-fund/)
+---
+
+### [`Global Innovation Fund`](https://www.globalinnovation.fund/apply/about/what-we-fund/)
 
 #### About
 
@@ -383,11 +379,7 @@ https://www.globalinnovation.fund/apply/starting-your-application/
 
 N/A
 
----
-
 ## H
-
----
 
 ## I
 
@@ -409,7 +401,9 @@ N/A
 
 ???
 
-### [Internet freedom support fund @ Open collective](https://opencollective.com/internet-freedom-support-fund)
+---
+
+### [`Internet freedom support fund @ Open collective`](https://opencollective.com/internet-freedom-support-fund)
 
 #### About
 
@@ -436,15 +430,11 @@ The Internet Freedom Support Fund will provide relief to projects essential to g
 
 N/A
 
----
-
 ## J
-
----
 
 ## K
 
-### [kusama](https://kusama.polkassembly.io)
+### [`Kusama`](https://kusama.polkassembly.io)
 
 #### About
 
@@ -478,11 +468,9 @@ https://www.dotreasury.com/ksm/proposals
 
 N/A
 
----
-
 ## L
 
-### [Libre Endowment Fund](https://www.fdl-lef.org/process/) !!
+### [`Libre Endowment Fund`](https://www.fdl-lef.org/process/)
 
 #### About
 
@@ -522,11 +510,9 @@ https://www.fdl-lef.org/process/
 
 ???
 
----
-
 ## M
 
-### [Mathew Good Foundation](https://www.matthewgoodfoundation.org/grantsforgood/)
+### [`Mathew Good Foundation`](https://www.matthewgoodfoundation.org/grantsforgood/)
 
 #### About
 
@@ -548,7 +534,9 @@ https://www.matthewgoodfoundation.org/grantsforgood/
 
 N/A
 
-### [Metamask grants](https://metamaskgrants.org/)
+---
+
+### [`Metamask grants`](https://metamaskgrants.org/)
 
 #### About
 
@@ -566,7 +554,9 @@ Any project that adds value to the MetaMask ecosystem is eligible. We are keepin
 
 N/A
 
-### [Mozilla Data Futures Lab](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/2023-prototype-fund/) !!
+---
+
+### [`Mozilla Data Futures Lab`](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/2023-prototype-fund/)
 
 #### About
 
@@ -586,7 +576,9 @@ These awards are open to all applicants regardless of geographic location or ins
 
 Applications for the 2023 grants closed on November 11, 2022 at 23:59 (UTC-5).
 
-### [MOSS Grants](https://wiki.mozilla.org/MOSS)
+---
+
+### [`MOSS Grants`](https://wiki.mozilla.org/MOSS)
 
 * [MOSS Mozilla Secure Open Source](https://wiki.mozilla.org/MOSS/Secure_Open_Source)
 * [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
@@ -614,11 +606,9 @@ https://docs.google.com/forms/d/e/1FAIpQLScLwANEOvLBE6gnFVoiamqHOYzzkaChpdQJ7f0P
 
 N/A
 
----
-
 ## N
 
-### [NGI -NLNet Foundation](https://www.ngi.eu/opencalls/)
+### [`NGI -NLNet Foundation`](https://www.ngi.eu/opencalls/)
 
 #### About
 
@@ -653,11 +643,9 @@ https://nlnet.nl/propose/
 Apr 1 2023
 Aug 1 2023
 
----
-
 ## O
 
-### [Open Defense Fund](https://github.com/OpenDefenseFund/monorepo/tree/main/how-to-apply-for-funding-or-speak) !!
+### [`Open Defense Fund`](https://github.com/OpenDefenseFund/monorepo/tree/main/how-to-apply-for-funding-or-speak)
 
 #### About
 
@@ -680,7 +668,9 @@ https://github.com/balzack/monorepo/blob/main/how-to-apply-for-funding-or-speak/
 
 N/A
 
-### [Open Humans](https://www.openhumans.org/grants/)
+---
+
+### [`Open Humans`](https://www.openhumans.org/grants/)
 
 #### About
 
@@ -714,7 +704,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSdpunOhJosk-u4jr-5BtI9YQaR8zBPFTwX9Q5CL
 
 N/A
 
-### [Open Society Foundation](https://www.opensocietyfoundations.org/grants)
+---
+
+### [`Open Society Foundation`](https://www.opensocietyfoundations.org/grants)
 
 #### About
 
@@ -732,7 +724,9 @@ https://www.opensocietyfoundations.org/grants/open-society-fellowship?eligibilit
 
 N/A
 
-### [OpenTechnology Fund](https://www.opentech.fund/)
+---
+
+### [`Open Technology Fund`](https://www.opentech.fund/)
 
 #### About
 
@@ -800,7 +794,9 @@ For more specific, one-off support needs and services, check out OTF's Labs: Loc
 
 They also fund people by offering fellowships.
 
-### [OS collective](https://www.oscollective.org/)
+---
+
+### [`Open Source Collective (OSC)`](https://www.oscollective.org/)
 
 #### About
 
@@ -823,11 +819,9 @@ https://opencollective.com/opensource
 
 N/A
 
----
-
 ## P
 
-### [Plaintextgroup](https://github.com/PlaintextGroup/oss-virtual-incubator/) !!
+### [`PlaintextGroup`](https://github.com/PlaintextGroup/oss-virtual-incubator/)
 
 #### About
 
@@ -850,7 +844,9 @@ https://github.com/PlaintextGroup/oss-virtual-incubator/#2-submit-a-proposal
 
 N/A
 
-### [Polkadot treasury fund](https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w/edit)
+---
+
+### [`Polkadot Treasury Fund`](https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w/edit)
 
 #### About
 
@@ -886,7 +882,9 @@ https://www.dotreasury.com/dot/proposals
 
 N/A
 
-### [Protocol Labs research](https://github.com/protocol/research#private-retrieval) !!
+---
+
+### [`Protocol Labs Research`](https://github.com/protocol/research#private-retrieval)
 
 #### About
 
@@ -913,7 +911,9 @@ We encourage you to reach out to research-grants@protocol.ai or visit #private-r
 
 ???
 
-### [Protocol Labs Sponsorships](https://research.protocol.ai/outreach/sponsorship/) !!
+---
+
+### [`Protocol Labs Sponsorships`](https://research.protocol.ai/outreach/sponsorship/)
 
 #### About
 
@@ -933,7 +933,9 @@ https://protocollabs.smapply.io/prog/event_sponsorship/
 
 N/A
 
-### [Prototype fund](https://prototypefund.de/en/) 🇩🇪
+---
+
+### [`Prototype Fund`](https://prototypefund.de/en/) 🇩🇪
 
 #### About
 
@@ -963,9 +965,12 @@ You are resident in Germany, self-employed** or freelance and pay your taxes her
 
 The next application phase starts on August 1st, 2023.
 
+---
+
 ### [`Python Software Foundation`](https://www.python.org/psf/grants/)
 
 #### About
+
 From their webpage:
 
 > The Python Software Foundation welcomes grant proposals for projects related to the development of Python, Python-related technology, educational programs and resources.
@@ -982,15 +987,12 @@ From their webpage:
 
 ???
 
----
 
 ## Q
 
----
-
 ## R
 
-### [RIPE NCC Community Projects Fund](https://www.ripe.net/support/cpf)
+### [`RIPE NCC Community Projects Fund`](https://www.ripe.net/support/cpf)
 
 #### About
 
@@ -1013,7 +1015,9 @@ https://www.ripe.net/support/cpf/call-for-applications
 
 May 31 2023
 
-### [Roddenberry Catalyst](https://roddenberryfoundation.org/our-work/catalyst-fund/) !!
+---
+
+### [`Roddenberry Catalyst`](https://roddenberryfoundation.org/our-work/catalyst-fund/)
 
 #### About
 
@@ -1037,11 +1041,9 @@ https://apply.roddenberryfoundation.org/app/main/register/096B3E8FC7C03D844F7922
 
 There are no deadlines. Applications are accepted year-round.
 
----
-
 ## S
 
-### [Samsung Next](https://www.samsungnext.com/)
+### [`Samsung Next`](https://www.samsungnext.com/)
 
 #### About
 
@@ -1064,7 +1066,9 @@ https://samsungnext.typeform.com/to/FFh0nIgy?typeform-source=www.samsungnext.com
 
 ???
 
-### [Siegel Family Endowment](https://www.siegelendowment.org/grantees/)
+---
+
+### [`Siegel Family Endowment`](https://www.siegelendowment.org/grantees/)
 
 #### About
 
@@ -1086,7 +1090,9 @@ no application, but an inquiry driven approach
 
 ???
 
-### [SIDN Fonds](https://www.sidnfonds.nl/over-het-fonds) !! :netherlands:
+---
+
+### [`SIDN Fonds`](https://www.sidnfonds.nl/over-het-fonds) :netherlands:
 
 #### About
 
@@ -1115,7 +1121,9 @@ https://fundpro.se/calls/2399
 
 Closes: 2023-12-31 23:59
 
-### [Shuttleworth Foundation](https://shuttleworthfoundation.org/)
+---
+
+### [`Shuttleworth Foundation`](https://shuttleworthfoundation.org/)
 
 #### About
 
@@ -1137,7 +1145,9 @@ https://shuttleworthfoundation.org/apply/#more
 
 Last one was March 2022
 
-### [Sloan Foundation](https://sloan.org/programs/digital-technology/better-software-for-science)
+---
+
+### [`Sloan Foundation`](https://sloan.org/programs/digital-technology/better-software-for-science)
 
 #### About
 
@@ -1214,7 +1224,9 @@ The names, affiliations, and titles of other key members of the project, if any.
 
 N/A
 
-### [Sovereignity tech fund](https://sovereigntechfund.de/en/)
+---
+
+### [`Sovereignity Tech Fund`](https://sovereigntechfund.de/en/)
 
 #### About
 
@@ -1235,7 +1247,9 @@ https://sovereigntechfund.de/en/applications/
 
 N/A
 
-### [Spotify Grants](https://engineering.atspotify.com/2022/04/announcing-the-spotify-foss-fund/)
+---
+
+### [`Spotify Grants`](https://engineering.atspotify.com/2022/04/announcing-the-spotify-foss-fund/)
 
 #### About
 
@@ -1253,7 +1267,9 @@ Anyone
 
 ???
 
-### [Substrate Builder's Program](https://substrate.io/ecosystem/substrate-builders-program/)
+---
+
+### [`Substrate Builder's Program`](https://substrate.io/ecosystem/substrate-builders-program/)
 
 #### About
 
@@ -1270,6 +1286,8 @@ https://share.hsforms.com/1mcuE-iW8TpynU-hGG7CAyQ4iqge
 #### Deadline
 
 N/A
+
+---
 
 ### [`Swedish Internet Foundation`](https://internetstiftelsen.se/en/) :sweden:
 
@@ -1289,11 +1307,9 @@ N/A
 
 ???
 
----
-
 ## T
 
-### [top10vpn research grant](https://www.top10vpn.com/research-grant/)
+### [`Top10vpn Research Grant`](https://www.top10vpn.com/research-grant/)
 
 #### About
 
@@ -1315,11 +1331,7 @@ To apply, please email samuel@privacy.co a one page concept note outlining your 
 
 Open
 
----
-
 ## U
-
----
 
 ## V
 
@@ -1345,7 +1357,7 @@ Open
 
 ## W
 
-### [web3 foundation grants](https://web3.foundation/)
+### [`Web3 Foundation Grants`](https://web3.foundation/)
 
 #### About
 
@@ -1383,42 +1395,15 @@ https://github.com/w3f/Grants-Program/#mailbox_with_mail-suggest-a-project
 
 N/A
 
----
-
 ## X
-
----
 
 ## Y
 
----
-
 ## Z
 
----
+## Currently Not Applicable
 
-
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-
-# NOT APPLICABLE (at the moment)
-
---------------------------------------------------------------------------------
-
-### [EsmeeFairbaim Funding Plus](https://esmeefairbairn.org.uk/our-support/funding-plus/)
+### [`EsmeeFairbaim Funding Plus`](https://esmeefairbairn.org.uk/our-support/funding-plus/)
 
 #### About
 
@@ -1445,7 +1430,7 @@ https://esmeefairbairn.typeform.com/to/xeB89baB?typeform-source=esmeefairbairn.o
 
 ---
 
-### [Calyx Institute Microgrants](https://calyxinstitute.org/projects/microgrants-and-small-project-support)
+### [`Calyx Institute Microgrants`](https://calyxinstitute.org/projects/microgrants-and-small-project-support)
 
 #### About
 
@@ -1466,7 +1451,7 @@ March 17th, 2023
 
 ---
 
-### [Cisco Research Grants](https://research.cisco.com/open-rfps)
+### [`Cisco Research Grants`](https://research.cisco.com/open-rfps)
 
 #### About
 
@@ -1519,7 +1504,7 @@ University researchers only
 
 ---
 
-### [DigitalDefenders Fund](https://www.digitaldefenders.org/funding/)
+### [`DigitalDefenders Fund`](https://www.digitaldefenders.org/funding/)
 
 #### About
 
@@ -1539,7 +1524,7 @@ The Digital Defenders Partnership provides financial support to to build digital
 
 ---
 
-### [mediademocracyfund](https://mediademocracyfund.org/#what-we-do)
+### [`Media Democracy Fund`](https://mediademocracyfund.org/#what-we-do)
 
 #### About
 
@@ -1559,7 +1544,7 @@ Can't find any open calls
 
 ---
 
-### [FPH](https://www.fph.ch/rubrique6_en.html)
+### [`FPH`](https://www.fph.ch/rubrique6_en.html)
 
 #### About
 
@@ -1589,7 +1574,7 @@ Most of the budget is earmarked for a period of three years. During this period,
 
 ---
 
-### [Outreachy](https://www.outreachy.org/)
+### [`Outreachy`](https://www.outreachy.org/)
 
 #### About
 
@@ -1609,7 +1594,7 @@ Outreachy provides internships in open source and open science. Outreachy provid
 
 ---
 
-### [Facebook Research Grants](https://research.facebook.com/research-awards/#all-the-latest--research-awards---status--open---)
+### [`Facebook Research Grants`](https://research.facebook.com/research-awards/#all-the-latest--research-awards---status--open---)
 
 #### About
 
@@ -1629,7 +1614,7 @@ Outreachy provides internships in open source and open science. Outreachy provid
 
 ---
 
-### [Sage Concept Grants](https://ocean.sagepub.com/concept-grants/)
+### [`Sage Concept Grants`](https://ocean.sagepub.com/concept-grants/)
 
 #### About
 
@@ -1649,7 +1634,7 @@ SAGE’s Concept Grant program provides funding for innovative software solution
 
 ---
 
-### [Google for AI](https://google.qualtrics.com/jfe/form/SV_di0qQuYNuDnUiJE)
+### [`Google for AI`](https://google.qualtrics.com/jfe/form/SV_di0qQuYNuDnUiJE)
 
 #### About
 
@@ -1669,7 +1654,7 @@ SAGE’s Concept Grant program provides funding for innovative software solution
 
 ---
 
-### [Netidee](https://www.netidee.at/einreichen)
+### [`Netidee`](https://www.netidee.at/einreichen)
 
 #### About
 
@@ -1691,7 +1676,7 @@ They don't have the english version, so it might be only for the Austrians, alth
 
 ---
 
-### [Internet Society Foundation](https://www.isocfoundation.org/funding-areas/)
+### [`Internet Society Foundation`](https://www.isocfoundation.org/funding-areas/)
 
 #### About
 
@@ -1714,7 +1699,7 @@ Nothing open atm
 
 ---
 
-### [Grant for the Web](https://www.grantfortheweb.org/grantees)
+### [`Grant for the Web`](https://www.grantfortheweb.org/grantees)
 
 #### About
 
@@ -1737,7 +1722,7 @@ Our last open call ended in September 2021.
 
 ---
 
-### [Indela Latin America](https://indela.fund/en/home-2/)
+### [`Indela Latin America`](https://indela.fund/en/home-2/)
 
 #### About
 
@@ -1757,7 +1742,7 @@ Indela funds and supports organizations that work to advance digital rights in L
 
 ---
 
-### [Isif Asia](https://isif.asia/about-isif-asia/)
+### [`Isif Asia`](https://isif.asia/about-isif-asia/)
 
 #### About
 
@@ -1784,7 +1769,7 @@ Build the capacities needed by organizations and their project teams, to scale-u
 
 ---
 
-### [Fire Africa](https://fireafrica.org/home)
+### [`Fire Africa`](https://fireafrica.org/home)
 
 #### About
 
@@ -1804,7 +1789,7 @@ Projects from African-based public or private sector organizations, universities
 
 ---
 
-### [Lacnic Frida](https://programafrida.net/en)
+### [`Lacnic Frida`](https://programafrida.net/en)
 
 #### About
 
@@ -1822,7 +1807,9 @@ FRIDA is an initiative of LACNIC, the Internet Address Registry for Latin Americ
 
 ???
 
-### [aspen tech policy hub](https://www.aspentechpolicyhub.org/fellowship/)
+---
+
+### [`Aspen Tech Policy Hub`](https://www.aspentechpolicyhub.org/fellowship/)
 
 #### About
 
@@ -1842,7 +1829,7 @@ Applications are currently closed for the Summer 202
 
 ---
 
-### [Numfocus](https://numfocus.org/)
+### [`Numfocus`](https://numfocus.org/)
 
 #### About
 
@@ -1862,7 +1849,7 @@ Any NumFOCUS Fiscally Sponsored or Affiliated project is eligible to submit 1 pr
 
 ---
 
-### [Beta Nsf Gov](https://beta.nsf.gov/funding/opportunities/cns-computer-systems-research-csr)
+### [`Beta Nsf Gov`](https://beta.nsf.gov/funding/opportunities/cns-computer-systems-research-csr)
 
 #### About
 
@@ -1882,7 +1869,7 @@ US only?
 
 ---
 
-### [Google Summer of Code](https://summerofcode.withgoogle.com/)
+### [`Google Summer of Code`](https://summerofcode.withgoogle.com/)
 
 #### About
 
@@ -1905,7 +1892,7 @@ Apr 4 2023
 
 ---
 
-### [Google Grants](https://www.google.com/grants/)
+### [`Google Grants`](https://www.google.com/grants/)
 
 #### About
 
@@ -1925,7 +1912,7 @@ N/A
 
 ---
 
-### [Microsoft FOSS Fund](https://opensource.microsoft.com/ecosystem/)
+### [`Microsoft FOSS Fund`](https://opensource.microsoft.com/ecosystem/)
 
 #### About
 
@@ -1946,7 +1933,7 @@ The open source project must be used by Microsoft.
 
 ---
 
-### [CodingItForward](https://www.codingitforward.com/fellowships)
+### [`Coding It Forward`](https://www.codingitforward.com/fellowships)
 
 #### About
 
@@ -1966,7 +1953,7 @@ The Civic Digital Fellowship and Civic Innovation Corps are **paid, 10-week summ
 
 ---
 
-### [Google Season of Docs](https://developers.google.com/season-of-docs)
+### [`Google Season of Docs`](https://developers.google.com/season-of-docs)
 
 #### About
 
@@ -1987,7 +1974,7 @@ March 24, 2023
 
 ---
 
-### [Unicef Innovationfund](https://www.unicefinnovationfund.org/apply/frontier-tech-solutions)
+### [`Unicef Innovationfund`](https://www.unicefinnovationfund.org/apply/frontier-tech-solutions)
 
 #### About
 
@@ -2008,7 +1995,7 @@ July 28 2023
 
 ---
 
-### [Knight Foundation](https://knightfoundation.org/grants/)
+### [`Knight Foundation`](https://knightfoundation.org/grants/)
 
 #### About
 
@@ -2038,7 +2025,7 @@ N/A
 
 ---
 
-### [Unreal Engine Megagrants](https://www.unrealengine.com/de/megagrants)
+### [`Unreal Engine Megagrants`](https://www.unrealengine.com/de/megagrants)
 
 #### About
 
@@ -2060,7 +2047,7 @@ Our average grants range from 5,000 USD to 250,000 USD, with some extraordinary 
 
 ---
 
-### [Seedfund NSF](https://seedfund.nsf.gov/apply/get-started/)
+### [`Seedfund NSF`](https://seedfund.nsf.gov/apply/get-started/)
 
 #### About
 
@@ -2088,7 +2075,7 @@ The principal investigator needs to commit to at least one month (173 hours) of 
 
 ---
 
-### [Software sustainability evaluation](https://www.software.ac.uk/resources/online-sustainability-evaluation)
+### [`Software Sustainability Institute`](https://www.software.ac.uk/resources/online-sustainability-evaluation)
 
 #### About
 
@@ -2099,21 +2086,22 @@ It takes about 15 minutes to complete the questionnaire, which gives you the opp
 The online evaluation investigates the following areas of your software:
 
 What does your software do?
-Support
-Documentation
-Plans for the future
-Availability of your software
-Source code structure
-Open standards
-Building from source
-Installing the binary
-Testing
-Portability
-Community
-Contributor policy
-Identity
-Copyright
-Licences
+
+* Support
+* Documentation
+* Plans for the future
+* Availability of your software
+* Source code structure
+* Open standards
+* Building from source
+* Installing the binary
+* Testing
+* Portability
+* Community
+* Contributor policy
+* Identity
+* Copyright
+* Licences
 
 #### Eligibility Criteria
 
@@ -2129,7 +2117,7 @@ N/A
 
 ---
 
-### [Horizon Europe Guarantee](https://apply-for-innovation-funding.service.gov.uk/competition/1181/overview/82439c10-3c37-4220-86fe-930514116f16)
+### [`Horizon Europe Guarantee`](https://apply-for-innovation-funding.service.gov.uk/competition/1181/overview/82439c10-3c37-4220-86fe-930514116f16)
 
 #### About
 
@@ -2143,11 +2131,11 @@ You will be eligible to register with UKRI for the Horizon Europe guarantee thro
 
 https://apply-for-innovation-funding.service.gov.uk/application/create/start-application/1181
 
-#### Deadline: N/A
+#### Deadline
 
 ---
 
-### [Internet Society](https://www.internetsociety.org/grants-and-awards/)
+### [`Internet Society`](https://www.internetsociety.org/grants-and-awards/)
 
 #### About
 
@@ -2165,7 +2153,7 @@ https://apply-for-innovation-funding.service.gov.uk/application/create/start-app
 
 ---
 
-### [CISCO Grant Program](https://www.cisco.com/c/en/us/about/csr/community/nonprofits/product-grant-program.html#~overview)
+### [`CISCO Grant Program`](https://www.cisco.com/c/en/us/about/csr/community/nonprofits/product-grant-program.html#~overview)
 
 #### About
 
@@ -2185,7 +2173,7 @@ USA
 
 ---
 
-### [Wau Holland Stiftung](https://wauland.de/en/)
+### [`Wau Holland Stiftung`](https://wauland.de/en/)
 
 #### About
 
@@ -2205,7 +2193,7 @@ Germany
 
 ---
 
-### [Google Research Outreach Program](https://research.google/outreach/)
+### [`Google Research Outreach Program`](https://research.google/outreach/)
 
 #### About
 
@@ -2226,7 +2214,7 @@ https://research.google/outreach/air-program/
 
 ---
 
-### [Webfoundation](https://webfoundation.org/our-work/)
+### [`Webfoundation`](https://webfoundation.org/our-work/)
 
 #### About
 
@@ -2246,7 +2234,7 @@ https://contractfortheweb.org/principles/principle-6-develop-technologies-that-s
 
 ---
 
-### [UK Innovation competition list](https://apply-for-innovation-funding.service.gov.uk/competition/search)
+### [`UK Innovation competition list`](https://apply-for-innovation-funding.service.gov.uk/competition/search)
 
 #### About
 
@@ -2258,7 +2246,7 @@ List of many open competitions from many innovation areas (digital technology et
 
 ---
 
-### [Kickstart Scheme for employers](https://www.gov.uk/guidance/kickstart-scheme-for-employers)
+### [`Kickstart Scheme for Employers`](https://www.gov.uk/guidance/kickstart-scheme-for-employers)
 
 #### About
 
@@ -2270,7 +2258,7 @@ The Kickstart Scheme helps employers create jobs for 16 to 24 year olds on Unive
 
 ---
 
-### [open collective funds list](https://opencollective.com/search?q=&type=FUND)
+### [`Open Collective Funds List`](https://opencollective.com/search?q=&type=FUND)
 
 #### About
 
@@ -2282,7 +2270,7 @@ List of all the funds published on OpenCollective
 
 ---
 
-### [BBSw Fellowship Program](https://bssw.io/pages/bssw-fellowship-program)
+### [`BBSw Fellowship Program`](https://bssw.io/pages/bssw-fellowship-program)
 
 #### About
 
@@ -2300,7 +2288,7 @@ List of all the funds published on OpenCollective
 
 ---
 
-### [Mozilla Technology Fund (MTF)](https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/)
+### [`Mozilla Technology Fund (MTF)`](https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/)
 
 #### About
 
@@ -2318,7 +2306,7 @@ List of all the funds published on OpenCollective
 
 ---
 
-### [Mozilla Technology Fund](https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/)
+### [`Mozilla Technology Fund`](https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/)
 
 #### About
 
@@ -2342,7 +2330,7 @@ closed
 
 ---
 
-### [Mozila Ventures](https://blog.mozilla.org/en/mozilla/mozilla-ventures-investing-in-responsible-tech/)
+### [`Mozila Ventures`](https://blog.mozilla.org/en/mozilla/mozilla-ventures-investing-in-responsible-tech/)
 
 #### About
 
@@ -2363,7 +2351,7 @@ Not a grant
 
 ---
 
-### [QGIS](https://blog.qgis.org/category/qgis-grant-programme/)
+### [`QGIS`](https://blog.qgis.org/category/qgis-grant-programme/)
 
 #### About
 
@@ -2381,7 +2369,7 @@ May 2 2023
 
 ---
 
-### [Rubycentral](https://rubycentral.org/)
+### [`Rubycentral`](https://rubycentral.org/)
 
 #### About
 
@@ -2399,7 +2387,7 @@ May 2 2023
 
 ---
 
-### [Unitary Fund](https://unitary.fund/)
+### [`Unitary Fund`](https://unitary.fund/)
 
 #### About
 
@@ -2419,7 +2407,7 @@ Funds Quantum Computing related projects
 
 ---
 
-### [The Britford Bridge Trust](https://thebritfordbridgetrust.org/)
+### [`The Britford Bridge Trust`](https://thebritfordbridgetrust.org/)
 
 #### About
 
@@ -2437,7 +2425,7 @@ Funds Quantum Computing related projects
 
 ---
 
-### [webwewant](https://webwewant.org/grants/)
+### [`Web We Want`](https://webwewant.org/grants/)
 
 #### About
 
@@ -2455,7 +2443,7 @@ Funds Quantum Computing related projects
 
 ---
 
-### [Wikimedia Grants](https://meta.wikimedia.org/wiki/Grants:Start)
+### [`Wikimedia Grants`](https://meta.wikimedia.org/wiki/Grants:Start)
 
 #### About
 
@@ -2492,7 +2480,7 @@ https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_%26_Technolog
 
 ---
 
-### [Amateuer Radio Digial Communications](https://www.ardc.net/apply/)
+### [`Amateuer Radio Digial Communications`](https://www.ardc.net/apply/)
 
 #### About
 
