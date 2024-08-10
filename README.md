@@ -91,7 +91,7 @@ N/A
 
 ## C
 
-### [`ChanZuckerberg`](https://chanzuckerberg.com/eoss/)
+### [`Chan Zuckerberg Initiative`](https://chanzuckerberg.com/eoss/)
 
 #### About
 
@@ -207,7 +207,7 @@ N/A
 
 ---
 
-### [`Cosmos hub grant program`](https://forum.cosmos.network/search?q=grant)
+### [`Cosmos Gub Grant Program`](https://forum.cosmos.network/search?q=grant)
 
 #### About
 
@@ -261,7 +261,7 @@ N/A
 
 ## F
 
-### [`Filecoin open grants`](https://github.com/filecoin-project/devgrants/tree/master/open-grants)
+### [`Filecoin Open Grants`](https://github.com/filecoin-project/devgrants/tree/master/open-grants)
 
 #### About
 
@@ -288,7 +288,7 @@ N/A
 
 ## G
 
-### [`Gitcoin`](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20)
+### [`Gitcoin Grants Program`](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20)
 
 #### About
 
@@ -325,7 +325,7 @@ April 25th to May 9th
 
 ---
 
-### [`Google open source cms fund @ Open collective`](https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com)
+### [`Google Open Source CMS Fund @ Open collective`](https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com)
 
 #### About
 
@@ -403,7 +403,7 @@ N/A
 
 ---
 
-### [`Internet freedom support fund @ Open collective`](https://opencollective.com/internet-freedom-support-fund)
+### [`Internet Freedom Support Fund @ Open collective`](https://opencollective.com/internet-freedom-support-fund)
 
 #### About
 
@@ -536,7 +536,7 @@ N/A
 
 ---
 
-### [`Metamask grants`](https://metamaskgrants.org/)
+### [`Metamask Grants`](https://metamaskgrants.org/)
 
 #### About
 
@@ -608,7 +608,7 @@ N/A
 
 ## N
 
-### [`NGI -NLNet Foundation`](https://www.ngi.eu/opencalls/)
+### [`NGI - NLNet Foundation`](https://www.ngi.eu/opencalls/)
 
 #### About
 
@@ -1352,8 +1352,6 @@ Open
 #### Deadline
 
 ???
-
----
 
 ## W
 
@@ -2214,7 +2212,7 @@ https://research.google/outreach/air-program/
 
 ---
 
-### [`Webfoundation`](https://webfoundation.org/our-work/)
+### [`World Wide Web Foundation`](https://webfoundation.org/our-work/)
 
 #### About
 
@@ -2508,13 +2506,8 @@ https://grants.ardc.net/
 * July 1
 * October 1 + Scholarship Applications Due
 
-TODO: what to do with this list of links? why aren't they in the same format as the rest of the entries?
+## Grants - Listings
 
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-# GRANTS - LISTINGS
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
 * https://www.bond.org.uk/funding-opportunities/
 * https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/
 * https://github.com/PayDevs/awesome-oss-monetization
@@ -2525,10 +2518,6 @@ TODO: what to do with this list of links? why aren't they in the same format as 
 * https://digital-strategy.ec.europa.eu/en/funding
 * https://www.dev.ngo/grants/
 * https://grantnav.threesixtygiving.org/search
-
---------------------------------------------------------------------------------
-
-<a name="projects"></a>
 
 ## Notable Projects
 
