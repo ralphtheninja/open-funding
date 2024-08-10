@@ -1,4 +1,4 @@
-# open-funding
+# Open Funding
 
 ## Table of Contents
 
