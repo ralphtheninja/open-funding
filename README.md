@@ -40,7 +40,7 @@ Every chapter interprets "awesome" for itself. As such, awesome projects include
 
 #### Application
 
-* https://www.awesomefoundation.org/en/submissions/new
+https://www.awesomefoundation.org/en/submissions/new
 
 #### Deadline
 
@@ -79,7 +79,7 @@ company's inaugural FOSS Contributor Fund grants:
 
 #### Eligibility Criteria
 
-??
+N/A
 
 #### Application
 
@@ -99,7 +99,7 @@ Open source software is crucial to modern scientific research, advancing biology
 
 #### Eligibility Criteria
 
-We welcome applications from any country, provided the proposed work is compliant with the United States Treasury Department’s Office of Foreign Asset Control (OFAC) sanctions program. 
+We welcome applications from any country, provided the proposed work is compliant with the United States Treasury Department’s Office of Foreign Asset Control (OFAC) sanctions program.
 Applications may be submitted by non-profit and for-profit organizations, public and private institutions, such as colleges, universities, hospitals, laboratories, units of state and local government, companies, and eligible agencies of the federal government. As part of the full application process, for-profit organizations may need to provide additional information on the charitable purposes of the proposal. Grants are not permitted to individuals; only to organizations. Open source software projects operating independently must be affiliated with an organization, as described below.
 
 #### Application
@@ -108,7 +108,7 @@ https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/
 
 #### Deadline
 
-cycle 5 closed in nov 2022
+Cycle 5 closed in nov 2022.
 
 ---
 
@@ -118,7 +118,7 @@ cycle 5 closed in nov 2022
 
 Tackling the complex scientific challenges of the 21st century requires global, collaborative research networks with robust data science capacity. Data science community events are a key tool to build skills and networks.
 
-People need money, time, and focused effort to build and sustain communities of practice with great events. This work is often under-resourced. 
+People need money, time, and focused effort to build and sustain communities of practice with great events. This work is often under-resourced.
 
 The Event Fund, established in 2019, fills this gap in the current data science landscape.
 We offer grant funding (up to 20,000 USD) to support events bundled with cohort-based networking and training for event organizers.
@@ -128,15 +128,15 @@ By investing directly in communities who seek to run inclusive events, the Event
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* https://www.codeforsociety.org/eventfund/closed-call-for-applications
+https://www.codeforsociety.org/eventfund/closed-call-for-applications
 
 #### Deadline
 
-Closed, plans to re-open mid 2023
+Closed, plans to re-open mid 2023.
 
 ---
 
@@ -183,7 +183,7 @@ https://comcastinnovationfund.smartsimple.com/s_Login.jsp
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -195,11 +195,11 @@ grant.fish is a new validator operated by stake.fish that has launched with the 
 
 #### Eligibility Criteria
 
-anyone (building on/with/for cosmos)
+Anyone building on/with/for cosmos.
 
 #### Application
 
-onchain ?
+N/A
 
 #### Deadline
 
@@ -216,11 +216,11 @@ The newly formed program will foster community’s engagement in a structured an
 
 #### Eligibility Criteria
 
-anyone (building on/with/for cosmos)
+Anyone building on/with/for cosmos.
 
 #### Application
 
-onchain ?
+N/A
 
 #### Deadline
 
@@ -245,13 +245,13 @@ To continue to advance this agenda, this RFP invited proposals to further study 
 
 #### Eligibility Criteria
 
-- digital infrastructure projects
-- civic tech, environmental justice, globa, online infrastructure, open source, research, social justice
-- research grants for the study of digital infrastructure maintenance.
+- Digital infrastructure projects
+- Civic tech, environmental justice, globa, online infrastructure, open source, research, social justice
+- Research grants for the study of digital infrastructure maintenance.
 
 #### Application
 
-- it is a question if you can apply or do they just fundraise
+N/A
 
 #### Deadline
 
@@ -321,7 +321,7 @@ https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/project
 
 #### Deadline
 
-April 25th to May 9th
+April 25th to May 9th.
 
 ---
 
@@ -391,15 +391,15 @@ N/A
 
 #### Eligibility Criteria
 
-???
+N/A
 
 #### Application
 
-???
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -419,12 +419,11 @@ The Internet Freedom Support Fund will provide relief to projects essential to g
 
 #### Eligibility Criteria
 
-??
-- looks like only 500 usd is left
+N/A
 
 #### Application
 
-- it is a question if you can apply or do they just fundraise
+N/A
 
 #### Deadline
 
@@ -508,7 +507,7 @@ https://www.fdl-lef.org/process/
 
 #### Deadline
 
-???
+N/A
 
 ## M
 
@@ -548,7 +547,7 @@ Any project that adds value to the MetaMask ecosystem is eligible. We are keepin
 
 #### Application
 
-* https://metamaskgrants.org/apply-for-a-grant
+https://metamaskgrants.org/apply-for-a-grant
 
 #### Deadline
 
@@ -570,7 +569,7 @@ These awards are open to all applicants regardless of geographic location or ins
 
 #### Application
 
-???
+N/A
 
 #### Deadline
 
@@ -640,8 +639,8 @@ https://nlnet.nl/propose/
 
 #### Deadline
 
-Apr 1 2023
-Aug 1 2023
+* Apr 1 2023
+* Aug 1 2023
 
 ## O
 
@@ -692,9 +691,9 @@ This is open to both US-based and international individuals. No institutional or
 
 Individuals and teams are invited to apply for a project grant of up to 5000 USD if they plan to do one or more of the following:
 
-provide valuable new/novel data sources
+Provide valuable new/novel data sources
 raise significant awareness of the project
-attract new members (e.g. by providing an analysis or visualization of data) who will continue to contribute to the ecosystem in the future after your project rolls out
+attract new members (e.g. by providing an analysis or visualization of data) who will continue to contribute to the ecosystem in the future after your project rolls out.
 
 #### Application
 
@@ -718,7 +717,7 @@ https://www.opensocietyfoundations.org/grants/open-society-fellowship?eligibilit
 
 #### Application
 
-- no tech grants open atm
+N/A
 
 #### Deadline
 
@@ -903,13 +902,11 @@ We expect that a team of 2-3 research engineers/developers working for 1-2 years
 
 #### Application
 
-@willscott
-
-We encourage you to reach out to research-grants@protocol.ai or visit #private-retrieval in the Lodestar Discord if you’re considering applying or have any questions.
+We encourage you to reach out to `research-grants@protocol.ai` or visit `#private-retrieval` in the Lodestar Discord if you’re considering applying or have any questions.
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -959,7 +956,7 @@ You are resident in Germany, self-employed** or freelance and pay your taxes her
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
@@ -977,16 +974,15 @@ From their webpage:
 
 #### Eligibility Criteria
 
-???
+N/A
 
 #### Application
 
-???
+N/A
 
 #### Deadline
 
-???
-
+N/A
 
 ## Q
 
@@ -1013,7 +1009,7 @@ https://www.ripe.net/support/cpf/call-for-applications
 
 #### Deadline
 
-May 31 2023
+May 31 2023.
 
 ---
 
@@ -1056,7 +1052,7 @@ https://www.samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-g
 
 #### Eligibility Criteria
 
-??
+N/A
 
 #### Application
 
@@ -1064,7 +1060,7 @@ https://samsungnext.typeform.com/to/FFh0nIgy?typeform-source=www.samsungnext.com
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1084,11 +1080,11 @@ Siegel Family Endowment supports organizations working at the intersections of l
 
 #### Application
 
-no application, but an inquiry driven approach
+No application, but an inquiry driven approach.
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1119,7 +1115,7 @@ https://fundpro.se/calls/2399
 
 #### Deadline
 
-Closes: 2023-12-31 23:59
+Closes: 2023-12-31 23:59.
 
 ---
 
@@ -1135,7 +1131,7 @@ If we are deliberate about finding great people, supporting and sharing their po
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
@@ -1143,7 +1139,7 @@ https://shuttleworthfoundation.org/apply/#more
 
 #### Deadline
 
-Last one was March 2022
+Last one was March 2022.
 
 ---
 
@@ -1261,11 +1257,11 @@ Anyone
 
 #### Application
 
-- no links to application
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1297,15 +1293,15 @@ N/A
 
 #### Eligibility Criteria
 
-???
+N/A
 
 #### Application
 
-???
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ## T
 
@@ -1321,7 +1317,7 @@ We will be accepting applications on a rolling basis, with candidates invited to
 
 #### Eligibility Criteria
 
-researchers and postgraduate students
+Researchers and postgraduate students.
 
 #### Application
 
@@ -1343,15 +1339,15 @@ Open
 
 #### Eligibility Criteria
 
-???
+N/A
 
 #### Application
 
-???
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ## W
 
@@ -1420,11 +1416,11 @@ https://esmeefairbairn.typeform.com/to/xeB89baB?typeform-source=esmeefairbairn.o
 
 #### Application
 
-...
+N/A
 
 #### Deadline
 
-...
+N/A
 
 ---
 
@@ -1437,15 +1433,15 @@ https://calyxinstitute.org/projects/microgrants-and-small-project-support
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-March 17th, 2023
+March 17th, 2023.
 
 ---
 
@@ -1494,11 +1490,11 @@ University researchers only
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1510,15 +1506,15 @@ The Digital Defenders Partnership provides financial support to to build digital
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1530,15 +1526,15 @@ Media Democracy Fund is a catalyst for an open, secure and equitable internet. W
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-Can't find any open calls
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1566,6 +1562,8 @@ the dissemination of alternative solutions (sharing experience, advocacy, campai
 
 #### Application
 
+N/A
+
 #### Deadline
 
 Most of the budget is earmarked for a period of three years. During this period, given that most of our resources are already allocated, it is rare for the Foundation Board to open up new partnerships. If however you still wish to put in a request, you can write to us at our postal address or send an email to: contact.fph@fph.ch
@@ -1580,15 +1578,15 @@ Outreachy provides internships in open source and open science. Outreachy provid
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-...
+N/A
 
 #### Deadline
 
-...
+N/A
 
 ---
 
@@ -1596,19 +1594,19 @@ Outreachy provides internships in open source and open science. Outreachy provid
 
 #### About
 
-...
+N/A
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-...
+N/A
 
 #### Deadline
 
-...
+N/A
 
 ---
 
@@ -1620,15 +1618,15 @@ SAGE’s Concept Grant program provides funding for innovative software solution
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-...
+N/A
 
 #### Deadline
 
-...
+N/A
 
 ---
 
@@ -1636,19 +1634,19 @@ SAGE’s Concept Grant program provides funding for innovative software solution
 
 #### About
 
-...
+N/A
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-...
+N/A
 
 #### Deadline
 
-...
+N/A
 
 ---
 
@@ -1666,11 +1664,11 @@ They don't have the english version, so it might be only for the Austrians, alth
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1685,15 +1683,15 @@ https://www.isocfoundation.org/grant-programme/bolt-grant-program/
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-Nothing open atm
+Nothing open at the moment.
 
 ---
 
@@ -1708,11 +1706,11 @@ These funds will seed an ecosystem that will challenge the web’s most urgent i
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* currently not yet announced for 2023
+Currently not yet announced for 2023.
 
 #### Deadline
 
@@ -1728,15 +1726,15 @@ Indela funds and supports organizations that work to advance digital rights in L
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1755,15 +1753,15 @@ Build the capacities needed by organizations and their project teams, to scale-u
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1775,15 +1773,15 @@ Projects from African-based public or private sector organizations, universities
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-*
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1795,15 +1793,15 @@ FRIDA is an initiative of LACNIC, the Internet Address Registry for Latin Americ
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* opens 26.04.2023
+Opens 26.04.2023.
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1815,15 +1813,15 @@ The Aspen Tech Policy Hub Fellowship is a 10-week, full-time, paid, in-residence
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-Applications are currently closed for the Summer 202
+N/A
 
 ---
 
@@ -1839,11 +1837,11 @@ Any NumFOCUS Fiscally Sponsored or Affiliated project is eligible to submit 1 pr
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1859,11 +1857,11 @@ US only?
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1877,16 +1875,16 @@ https://developers.google.com/open-source/gsoc/help/student-stipends
 
 #### Eligibility Criteria
 
-- student or OS beginner
-- organization workin on OS
+- Student or OS beginner
+- Organization working on OS
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-Apr 4 2023
+April 4 2023.
 
 ---
 
@@ -1894,11 +1892,11 @@ Apr 4 2023
 
 #### About
 
-free google ads to attract donors
+Free google ads to attract donors.
 
 #### Eligibility Criteria
 
-nonprofit
+Non profit.
 
 #### Application
 
@@ -1923,11 +1921,11 @@ The open source project must be used by Microsoft.
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1939,15 +1937,15 @@ The Civic Digital Fellowship and Civic Innovation Corps are **paid, 10-week summ
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -1960,15 +1958,15 @@ https://developers.google.com/season-of-docs
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-March 24, 2023
+March 24, 2023.
 
 ---
 
@@ -1981,7 +1979,7 @@ https://www.unicefinnovationfund.org/funding-support
 
 #### Eligibility Criteria
 
-company registered NOT in Europe/Common Wealth/US (West)
+Company registered NOT in Europe/Common Wealth/US (West).
 
 #### Application
 
@@ -1989,7 +1987,7 @@ https://form.jotform.com/230251713767354
 
 #### Deadline
 
-July 28 2023
+July 28 2023.
 
 ---
 
@@ -2033,15 +2031,15 @@ Our average grants range from 5,000 USD to 250,000 USD, with some extraordinary 
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2061,15 +2059,15 @@ The principal investigator needs to commit to at least one month (173 hours) of 
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2103,7 +2101,7 @@ What does your software do?
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
@@ -2123,13 +2121,15 @@ You will be eligible to register with UKRI for the Horizon Europe guarantee thro
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application form:
 
 https://apply-for-innovation-funding.service.gov.uk/application/create/start-application/1181
 
 #### Deadline
+
+N/A
 
 ---
 
@@ -2139,15 +2139,15 @@ https://apply-for-innovation-funding.service.gov.uk/application/create/start-app
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2159,15 +2159,15 @@ USA
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2175,19 +2175,19 @@ USA
 
 #### About
 
-Germany
+Germany.
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2200,15 +2200,15 @@ https://research.google/outreach/air-program/
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-...
+N/A
 
 #### Deadline
 
-...
+N/A
 
 ---
 
@@ -2220,15 +2220,15 @@ https://contractfortheweb.org/principles/principle-6-develop-technologies-that-s
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2240,7 +2240,15 @@ List of many open competitions from many innovation areas (digital technology et
 
 #### Eligibility Criteria
 
-...
+N/A
+
+#### Application
+
+N/A
+
+#### Deadline
+
+N/A
 
 ---
 
@@ -2252,7 +2260,15 @@ The Kickstart Scheme helps employers create jobs for 16 to 24 year olds on Unive
 
 #### Eligibility Criteria
 
-...
+N/A
+
+#### Application
+
+N/A
+
+#### Deadline
+
+N/A
 
 ---
 
@@ -2264,7 +2280,15 @@ List of all the funds published on OpenCollective
 
 #### Eligibility Criteria
 
-...
+N/A
+
+#### Application
+
+N/A
+
+#### Deadline
+
+N/A
 
 ---
 
@@ -2274,15 +2298,15 @@ List of all the funds published on OpenCollective
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* re-opens in Summer 2023
+Re-opens in Summer 2023
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2292,15 +2316,15 @@ List of all the funds published on OpenCollective
 
 #### Eligibility Criteria
 
-* Supports "AI auditing tools" at the moment
+Supports "AI auditing tools" at the moment.
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2324,7 +2348,7 @@ https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mt
 
 #### Deadline
 
-closed
+Closed.
 
 ---
 
@@ -2337,15 +2361,15 @@ Launching officially in early 2023, Mozilla Ventures will start with an initial 
 
 #### Eligibility Criteria
 
-Startup sharing value
+Startup sharing value.
 
 #### Application
 
-Not a grant
+Not a grant.
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2355,15 +2379,15 @@ Not a grant
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-May 2 2023
+May 2 2023.
 
 ---
 
@@ -2373,15 +2397,15 @@ May 2 2023
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2393,15 +2417,15 @@ Funds Quantum Computing related projects
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2411,15 +2435,15 @@ Funds Quantum Computing related projects
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2429,15 +2453,15 @@ Funds Quantum Computing related projects
 
 #### Eligibility Criteria
 
-...
+N/A
 
 #### Application
 
-* ...
+N/A
 
 #### Deadline
 
-???
+N/A
 
 ---
 
@@ -2471,10 +2495,10 @@ https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_%26_Technolog
 
 #### Deadline
 
-16 December 2022 AOE — Stage I application submission deadline.
-2 3 March 2023 — Stage I selection result notifications.
-31 March 2023 — Stage II application submission deadline.
-4 May 2023 — Stage II selection result notifications.
+* 16 December 2022 AOE — Stage I application submission deadline.
+* 23 March 2023 — Stage I selection result notifications.
+* 31 March 2023 — Stage II application submission deadline.
+* 4 May 2023 — Stage II selection result notifications.
 
 ---
 
