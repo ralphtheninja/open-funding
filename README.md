@@ -6,11 +6,542 @@
 
 - [Introduction](#introduction)
 - [Grants](#grants)
+- [A](#a)
+  - [`Awesome Foundation`](#awesome-foundation)
+    - [About](#about)
+    - [Eligibility Criteria](#eligibility-criteria)
+    - [Application](#application)
+    - [Deadline](#deadline)
+- [B](#b)
+  - [`Bloomberg @ Open collective`](#bloomberg--open-collective)
+    - [About](#about-1)
+    - [Eligibility Criteria](#eligibility-criteria-1)
+    - [Application](#application-1)
+    - [Deadline](#deadline-1)
+- [C](#c)
+  - [`Chan Zuckerberg Initiative`](#chan-zuckerberg-initiative)
+    - [About](#about-2)
+    - [Eligibility Criteria](#eligibility-criteria-2)
+    - [Application](#application-2)
+    - [Deadline](#deadline-2)
+  - [`Code for Science and Society (CS&S)`](#code-for-science-and-society-css)
+    - [About](#about-3)
+    - [Eligibility Criteria](#eligibility-criteria-3)
+    - [Application](#application-3)
+    - [Deadline](#deadline-3)
+  - [`Comcast Innovation Fund`](#comcast-innovation-fund)
+    - [About](#about-4)
+    - [Eligibility Criteria](#eligibility-criteria-4)
+    - [Application](#application-4)
+    - [Deadline](#deadline-4)
+  - [`Cosmos grant.fish`](#cosmos-grantfish)
+    - [About](#about-5)
+    - [Eligibility Criteria](#eligibility-criteria-5)
+    - [Application](#application-5)
+    - [Deadline](#deadline-5)
+  - [`Cosmos Gub Grant Program`](#cosmos-gub-grant-program)
+    - [About](#about-6)
+    - [Eligibility Criteria](#eligibility-criteria-6)
+    - [Application](#application-6)
+    - [Deadline](#deadline-6)
+- [D](#d)
+  - [`DIIF - Digital Infrastructure Grants @ Open collective`](#diif---digital-infrastructure-grants--open-collective)
+    - [About](#about-7)
+    - [Eligibility Criteria](#eligibility-criteria-7)
+    - [Application](#application-7)
+    - [Deadline](#deadline-7)
+- [E](#e)
+- [F](#f)
+  - [`Filecoin Open Grants`](#filecoin-open-grants)
+    - [About](#about-8)
+    - [Eligibility Criteria](#eligibility-criteria-8)
+    - [Application](#application-8)
+    - [Deadline](#deadline-8)
+- [G](#g)
+  - [`Gitcoin Grants Program`](#gitcoin-grants-program)
+    - [About](#about-9)
+    - [Eligibility Criteria](#eligibility-criteria-9)
+    - [Application](#application-9)
+    - [Deadline](#deadline-9)
+  - [`Google Open Source CMS Fund @ Open collective`](#google-open-source-cms-fund--open-collective)
+    - [About](#about-10)
+    - [Eligibility Criteria](#eligibility-criteria-10)
+    - [Application](#application-10)
+    - [Deadline](#deadline-10)
+  - [`Global Innovation Fund`](#global-innovation-fund)
+    - [About](#about-11)
+    - [Eligibility Criteria](#eligibility-criteria-11)
+    - [Application](#application-11)
+    - [Deadline](#deadline-11)
+- [H](#h)
+- [I](#i)
+  - [`InnovationsFonden` :denmark:](#innovationsfonden-denmark)
+    - [About](#about-12)
+    - [Eligibility Criteria](#eligibility-criteria-12)
+    - [Application](#application-12)
+    - [Deadline](#deadline-12)
+  - [`Internet Freedom Support Fund @ Open collective`](#internet-freedom-support-fund--open-collective)
+    - [About](#about-13)
+    - [Eligibility Criteria](#eligibility-criteria-13)
+    - [Application](#application-13)
+    - [Deadline](#deadline-13)
+- [J](#j)
+- [K](#k)
+  - [`Kusama`](#kusama)
+    - [About](#about-14)
+    - [Eligibility Criteria](#eligibility-criteria-14)
+    - [Application](#application-14)
+    - [Deadline](#deadline-14)
+- [L](#l)
+  - [`Libre Endowment Fund`](#libre-endowment-fund)
+    - [About](#about-15)
+    - [Eligibility Criteria](#eligibility-criteria-15)
+    - [Application](#application-15)
+    - [Deadline](#deadline-15)
+- [M](#m)
+  - [`Mathew Good Foundation`](#mathew-good-foundation)
+    - [About](#about-16)
+    - [Eligibility Criteria](#eligibility-criteria-16)
+    - [Application](#application-16)
+    - [Deadline](#deadline-16)
+  - [`Metamask Grants`](#metamask-grants)
+    - [About](#about-17)
+    - [Eligibility Criteria](#eligibility-criteria-17)
+    - [Application](#application-17)
+    - [Deadline](#deadline-17)
+  - [`Mozilla Data Futures Lab`](#mozilla-data-futures-lab)
+    - [About](#about-18)
+    - [Eligibility Criteria](#eligibility-criteria-18)
+    - [Application](#application-18)
+    - [Deadline](#deadline-18)
+  - [`MOSS Grants`](#moss-grants)
+    - [About](#about-19)
+    - [Eligibility Criteria](#eligibility-criteria-19)
+    - [Application](#application-19)
+    - [Deadline](#deadline-19)
+- [N](#n)
+  - [`NGI - NLNet Foundation`](#ngi---nlnet-foundation)
+    - [About](#about-20)
+    - [Eligibility Criteria](#eligibility-criteria-20)
+    - [Application](#application-20)
+    - [Deadline](#deadline-20)
+- [O](#o)
+  - [`Open Defense Fund`](#open-defense-fund)
+    - [About](#about-21)
+    - [Eligibility Criteria](#eligibility-criteria-21)
+    - [Application](#application-21)
+    - [Deadline](#deadline-21)
+  - [`Open Humans`](#open-humans)
+    - [About](#about-22)
+    - [Eligibility Criteria](#eligibility-criteria-22)
+    - [Application](#application-22)
+    - [Deadline](#deadline-22)
+  - [`Open Society Foundation`](#open-society-foundation)
+    - [About](#about-23)
+    - [Eligibility Criteria](#eligibility-criteria-23)
+    - [Application](#application-23)
+    - [Deadline](#deadline-23)
+  - [`Open Technology Fund`](#open-technology-fund)
+    - [About](#about-24)
+    - [Eligibility Criteria](#eligibility-criteria-24)
+    - [Application](#application-24)
+    - [Deadline](#deadline-24)
+      - [More Information](#more-information)
+        - [`OTF - Internet Freedom Fund`](#otf---internet-freedom-fund)
+        - [`OTF - Rapid Response Fund`](#otf---rapid-response-fund)
+        - [`OTF - Labs`](#otf---labs)
+  - [`Open Source Collective (OSC)`](#open-source-collective-osc)
+    - [About](#about-25)
+    - [Eligibility Criteria](#eligibility-criteria-25)
+    - [Application](#application-25)
+    - [Deadline](#deadline-25)
+- [P](#p)
+  - [`PlaintextGroup`](#plaintextgroup)
+    - [About](#about-26)
+    - [Eligibility Criteria](#eligibility-criteria-26)
+    - [Application](#application-26)
+    - [Deadline](#deadline-26)
+  - [`Polkadot Treasury Fund`](#polkadot-treasury-fund)
+    - [About](#about-27)
+    - [Eligibility Criteria](#eligibility-criteria-27)
+    - [Application](#application-27)
+    - [Deadline](#deadline-27)
+  - [`Protocol Labs Research`](#protocol-labs-research)
+    - [About](#about-28)
+    - [Eligibility Criteria](#eligibility-criteria-28)
+    - [Application](#application-28)
+    - [Deadline](#deadline-28)
+  - [`Protocol Labs Sponsorships`](#protocol-labs-sponsorships)
+    - [About](#about-29)
+    - [Eligibility Criteria](#eligibility-criteria-29)
+    - [Application](#application-29)
+    - [Deadline](#deadline-29)
+  - [`Prototype Fund` 🇩🇪](#prototype-fund-)
+    - [About](#about-30)
+    - [Eligibility Criteria](#eligibility-criteria-30)
+    - [Application](#application-30)
+    - [Deadline](#deadline-30)
+  - [`Python Software Foundation`](#python-software-foundation)
+    - [About](#about-31)
+    - [Eligibility Criteria](#eligibility-criteria-31)
+    - [Application](#application-31)
+    - [Deadline](#deadline-31)
+- [Q](#q)
+- [R](#r)
+  - [`RIPE NCC Community Projects Fund`](#ripe-ncc-community-projects-fund)
+    - [About](#about-32)
+    - [Eligibility Criteria](#eligibility-criteria-32)
+    - [Application](#application-32)
+    - [Deadline](#deadline-32)
+  - [`Roddenberry Catalyst`](#roddenberry-catalyst)
+    - [About](#about-33)
+    - [Eligibility Criteria](#eligibility-criteria-33)
+    - [Application](#application-33)
+    - [Deadline](#deadline-33)
+- [S](#s)
+  - [`Samsung Next`](#samsung-next)
+    - [About](#about-34)
+    - [Eligibility Criteria](#eligibility-criteria-34)
+    - [Application](#application-34)
+    - [Deadline](#deadline-34)
+  - [`Siegel Family Endowment`](#siegel-family-endowment)
+    - [About](#about-35)
+    - [Eligibility Criteria](#eligibility-criteria-35)
+    - [Application](#application-35)
+    - [Deadline](#deadline-35)
+  - [`SIDN Fonds` :netherlands:](#sidn-fonds-netherlands)
+    - [About](#about-36)
+    - [Eligibility Criteria](#eligibility-criteria-36)
+    - [Application](#application-36)
+    - [Deadline](#deadline-36)
+  - [`Shuttleworth Foundation`](#shuttleworth-foundation)
+    - [About](#about-37)
+    - [Eligibility Criteria](#eligibility-criteria-37)
+    - [Application](#application-37)
+    - [Deadline](#deadline-37)
+  - [`Sloan Foundation`](#sloan-foundation)
+    - [About](#about-38)
+      - [1. Better Software for Science](#1-better-software-for-science)
+        - [Open source in research](#open-source-in-research)
+        - [Software Publication and Archiving](#software-publication-and-archiving)
+        - [Career paths and incentives](#career-paths-and-incentives)
+      - [2. Exploratory grant making in technology](#2-exploratory-grant-making-in-technology)
+        - [Open Hardware](#open-hardware)
+        - [Trust in Algorithmic Knowledge](#trust-in-algorithmic-knowledge)
+        - [Virtual Collaboration](#virtual-collaboration)
+      - [3. Data & computational research](#3-data--computational-research)
+    - [Eligibility Criteria](#eligibility-criteria-38)
+    - [Application](#application-38)
+    - [Deadline](#deadline-38)
+  - [`Sovereignity Tech Fund`](#sovereignity-tech-fund)
+    - [About](#about-39)
+    - [Eligibility Criteria](#eligibility-criteria-39)
+    - [Application](#application-39)
+    - [Deadline](#deadline-39)
+  - [`Spotify Grants`](#spotify-grants)
+    - [About](#about-40)
+    - [Eligibility Criteria](#eligibility-criteria-40)
+    - [Application](#application-40)
+    - [Deadline](#deadline-40)
+  - [`Substrate Builder's Program`](#substrate-builders-program)
+    - [About](#about-41)
+    - [Eligibility Criteria](#eligibility-criteria-41)
+    - [Application](#application-41)
+    - [Deadline](#deadline-41)
+  - [`Swedish Internet Foundation` :sweden:](#swedish-internet-foundation-sweden)
+    - [About](#about-42)
+    - [Eligibility Criteria](#eligibility-criteria-42)
+    - [Application](#application-42)
+    - [Deadline](#deadline-42)
+- [T](#t)
+  - [`Top10vpn Research Grant`](#top10vpn-research-grant)
+    - [About](#about-43)
+    - [Eligibility Criteria](#eligibility-criteria-43)
+    - [Application](#application-43)
+    - [Deadline](#deadline-43)
+- [U](#u)
+- [V](#v)
+  - [`Vinnova` :sweden:](#vinnova-sweden)
+    - [About](#about-44)
+    - [Eligibility Criteria](#eligibility-criteria-44)
+    - [Application](#application-44)
+    - [Deadline](#deadline-44)
+- [W](#w)
+  - [`Web3 Foundation Grants`](#web3-foundation-grants)
+    - [About](#about-45)
+    - [Eligibility Criteria](#eligibility-criteria-45)
+    - [Application](#application-45)
+    - [Deadline](#deadline-45)
+- [X](#x)
+- [Y](#y)
+- [Z](#z)
+- [Currently Not Applicable](#currently-not-applicable)
+  - [`EsmeeFairbaim Funding Plus`](#esmeefairbaim-funding-plus)
+    - [About](#about-46)
+    - [Eligibility Criteria](#eligibility-criteria-46)
+    - [Application](#application-46)
+    - [Deadline](#deadline-46)
+  - [`Calyx Institute Microgrants`](#calyx-institute-microgrants)
+    - [About](#about-47)
+    - [Eligibility Criteria](#eligibility-criteria-47)
+    - [Application](#application-47)
+    - [Deadline](#deadline-47)
+  - [`Cisco Research Grants`](#cisco-research-grants)
+    - [About](#about-48)
+      - [Sustainability](#sustainability)
+      - [Web 3](#web-3)
+    - [Eligibility Criteria](#eligibility-criteria-48)
+    - [Application](#application-48)
+    - [Deadline](#deadline-48)
+  - [`DigitalDefenders Fund`](#digitaldefenders-fund)
+    - [About](#about-49)
+    - [Eligibility Criteria](#eligibility-criteria-49)
+    - [Application](#application-49)
+    - [Deadline](#deadline-49)
+  - [`Media Democracy Fund`](#media-democracy-fund)
+    - [About](#about-50)
+    - [Eligibility Criteria](#eligibility-criteria-50)
+    - [Application](#application-50)
+    - [Deadline](#deadline-50)
+  - [`FPH`](#fph)
+    - [About](#about-51)
+    - [Application](#application-51)
+    - [Deadline](#deadline-51)
+  - [`Outreachy`](#outreachy)
+    - [About](#about-52)
+    - [Eligibility Criteria](#eligibility-criteria-51)
+    - [Application](#application-52)
+    - [Deadline](#deadline-52)
+  - [`Facebook Research Grants`](#facebook-research-grants)
+    - [About](#about-53)
+    - [Eligibility Criteria](#eligibility-criteria-52)
+    - [Application](#application-53)
+    - [Deadline](#deadline-53)
+  - [`Sage Concept Grants`](#sage-concept-grants)
+    - [About](#about-54)
+    - [Eligibility Criteria](#eligibility-criteria-53)
+    - [Application](#application-54)
+    - [Deadline](#deadline-54)
+  - [`Google for AI`](#google-for-ai)
+    - [About](#about-55)
+    - [Eligibility Criteria](#eligibility-criteria-54)
+    - [Application](#application-55)
+    - [Deadline](#deadline-55)
+  - [`Netidee`](#netidee)
+    - [About](#about-56)
+    - [Eligibility Criteria](#eligibility-criteria-55)
+    - [Application](#application-56)
+    - [Deadline](#deadline-56)
+  - [`Internet Society Foundation`](#internet-society-foundation)
+    - [About](#about-57)
+    - [Eligibility Criteria](#eligibility-criteria-56)
+    - [Application](#application-57)
+    - [Deadline](#deadline-57)
+  - [`Grant for the Web`](#grant-for-the-web)
+    - [About](#about-58)
+    - [Eligibility Criteria](#eligibility-criteria-57)
+    - [Application](#application-58)
+    - [Deadline](#deadline-58)
+  - [`Indela Latin America`](#indela-latin-america)
+    - [About](#about-59)
+    - [Eligibility Criteria](#eligibility-criteria-58)
+    - [Application](#application-59)
+    - [Deadline](#deadline-59)
+  - [`Isif Asia`](#isif-asia)
+    - [About](#about-60)
+    - [Eligibility Criteria](#eligibility-criteria-59)
+    - [Application](#application-60)
+    - [Deadline](#deadline-60)
+  - [`Fire Africa`](#fire-africa)
+    - [About](#about-61)
+    - [Eligibility Criteria](#eligibility-criteria-60)
+    - [Application](#application-61)
+    - [Deadline](#deadline-61)
+  - [`Lacnic Frida`](#lacnic-frida)
+    - [About](#about-62)
+    - [Eligibility Criteria](#eligibility-criteria-61)
+    - [Application](#application-62)
+    - [Deadline](#deadline-62)
+  - [`Aspen Tech Policy Hub`](#aspen-tech-policy-hub)
+    - [About](#about-63)
+    - [Eligibility Criteria](#eligibility-criteria-62)
+    - [Application](#application-63)
+    - [Deadline](#deadline-63)
+  - [`Numfocus`](#numfocus)
+    - [About](#about-64)
+    - [Eligibility Criteria](#eligibility-criteria-63)
+    - [Application](#application-64)
+    - [Deadline](#deadline-64)
+  - [`Beta Nsf Gov`](#beta-nsf-gov)
+    - [About](#about-65)
+    - [Eligibility Criteria](#eligibility-criteria-64)
+    - [Application](#application-65)
+    - [Deadline](#deadline-65)
+  - [`Google Summer of Code`](#google-summer-of-code)
+    - [About](#about-66)
+    - [Eligibility Criteria](#eligibility-criteria-65)
+    - [Application](#application-66)
+    - [Deadline](#deadline-66)
+  - [`Google Grants`](#google-grants)
+    - [About](#about-67)
+    - [Eligibility Criteria](#eligibility-criteria-66)
+    - [Application](#application-67)
+    - [Deadline](#deadline-67)
+  - [`Microsoft FOSS Fund`](#microsoft-foss-fund)
+    - [About](#about-68)
+    - [Eligibility Criteria](#eligibility-criteria-67)
+    - [Application](#application-68)
+    - [Deadline](#deadline-68)
+  - [`Coding It Forward`](#coding-it-forward)
+    - [About](#about-69)
+    - [Eligibility Criteria](#eligibility-criteria-68)
+    - [Application](#application-69)
+    - [Deadline](#deadline-69)
+  - [`Google Season of Docs`](#google-season-of-docs)
+    - [About](#about-70)
+    - [Eligibility Criteria](#eligibility-criteria-69)
+    - [Application](#application-70)
+    - [Deadline](#deadline-70)
+  - [`Unicef Innovationfund`](#unicef-innovationfund)
+    - [About](#about-71)
+    - [Eligibility Criteria](#eligibility-criteria-70)
+    - [Application](#application-71)
+    - [Deadline](#deadline-71)
+  - [`Knight Foundation`](#knight-foundation)
+    - [About](#about-72)
+    - [Eligibility Criteria](#eligibility-criteria-71)
+    - [Application](#application-72)
+    - [Deadline](#deadline-72)
+  - [`Unreal Engine Megagrants`](#unreal-engine-megagrants)
+    - [About](#about-73)
+    - [Eligibility Criteria](#eligibility-criteria-72)
+    - [Application](#application-73)
+    - [Deadline](#deadline-73)
+  - [`Seedfund NSF`](#seedfund-nsf)
+    - [About](#about-74)
+    - [Eligibility Criteria](#eligibility-criteria-73)
+    - [Eligibility Criteria](#eligibility-criteria-74)
+    - [Application](#application-74)
+    - [Deadline](#deadline-74)
+  - [`Software Sustainability Institute`](#software-sustainability-institute)
+    - [About](#about-75)
+    - [Eligibility Criteria](#eligibility-criteria-75)
+    - [Application](#application-75)
+    - [Deadline](#deadline-75)
+  - [`Horizon Europe Guarantee`](#horizon-europe-guarantee)
+    - [About](#about-76)
+    - [Eligibility Criteria](#eligibility-criteria-76)
+    - [Application form:](#application-form)
+    - [Deadline](#deadline-76)
+  - [`Internet Society`](#internet-society)
+    - [About](#about-77)
+    - [Eligibility Criteria](#eligibility-criteria-77)
+    - [Application](#application-76)
+    - [Deadline](#deadline-77)
+  - [`CISCO Grant Program`](#cisco-grant-program)
+    - [About](#about-78)
+    - [Eligibility Criteria](#eligibility-criteria-78)
+    - [Application](#application-77)
+    - [Deadline](#deadline-78)
+  - [`Wau Holland Stiftung`](#wau-holland-stiftung)
+    - [About](#about-79)
+    - [Eligibility Criteria](#eligibility-criteria-79)
+    - [Application](#application-78)
+    - [Deadline](#deadline-79)
+  - [`Google Research Outreach Program`](#google-research-outreach-program)
+    - [About](#about-80)
+    - [Eligibility Criteria](#eligibility-criteria-80)
+    - [Application](#application-79)
+    - [Deadline](#deadline-80)
+  - [`World Wide Web Foundation`](#world-wide-web-foundation)
+    - [About](#about-81)
+    - [Eligibility Criteria](#eligibility-criteria-81)
+    - [Application](#application-80)
+    - [Deadline](#deadline-81)
+  - [`UK Innovation competition list`](#uk-innovation-competition-list)
+    - [About](#about-82)
+    - [Eligibility Criteria](#eligibility-criteria-82)
+    - [Application](#application-81)
+    - [Deadline](#deadline-82)
+  - [`Kickstart Scheme for Employers`](#kickstart-scheme-for-employers)
+    - [About](#about-83)
+    - [Eligibility Criteria](#eligibility-criteria-83)
+    - [Application](#application-82)
+    - [Deadline](#deadline-83)
+  - [`Open Collective Funds List`](#open-collective-funds-list)
+    - [About](#about-84)
+    - [Eligibility Criteria](#eligibility-criteria-84)
+    - [Application](#application-83)
+    - [Deadline](#deadline-84)
+  - [`BBSw Fellowship Program`](#bbsw-fellowship-program)
+    - [About](#about-85)
+    - [Eligibility Criteria](#eligibility-criteria-85)
+    - [Application](#application-84)
+    - [Deadline](#deadline-85)
+  - [`Mozilla Technology Fund (MTF)`](#mozilla-technology-fund-mtf)
+    - [About](#about-86)
+    - [Eligibility Criteria](#eligibility-criteria-86)
+    - [Application](#application-85)
+    - [Deadline](#deadline-86)
+  - [`Mozilla Technology Fund`](#mozilla-technology-fund)
+    - [About](#about-87)
+    - [Eligibility Criteria](#eligibility-criteria-87)
+    - [Application](#application-86)
+    - [Deadline](#deadline-87)
+  - [`Mozila Ventures`](#mozila-ventures)
+    - [About](#about-88)
+    - [Eligibility Criteria](#eligibility-criteria-88)
+    - [Application](#application-87)
+    - [Deadline](#deadline-88)
+  - [`QGIS`](#qgis)
+    - [About](#about-89)
+    - [Eligibility Criteria](#eligibility-criteria-89)
+    - [Application](#application-88)
+    - [Deadline](#deadline-89)
+  - [`Rubycentral`](#rubycentral)
+    - [About](#about-90)
+    - [Eligibility Criteria](#eligibility-criteria-90)
+    - [Application](#application-89)
+    - [Deadline](#deadline-90)
+  - [`Unitary Fund`](#unitary-fund)
+    - [About](#about-91)
+    - [Eligibility Criteria](#eligibility-criteria-91)
+    - [Application](#application-90)
+    - [Deadline](#deadline-91)
+  - [`The Britford Bridge Trust`](#the-britford-bridge-trust)
+    - [About](#about-92)
+    - [Eligibility Criteria](#eligibility-criteria-92)
+    - [Application](#application-91)
+    - [Deadline](#deadline-92)
+  - [`Web We Want`](#web-we-want)
+    - [About](#about-93)
+    - [Eligibility Criteria](#eligibility-criteria-93)
+    - [Application](#application-92)
+    - [Deadline](#deadline-93)
+  - [`Wikimedia Grants`](#wikimedia-grants)
+    - [About](#about-94)
+    - [Eligibility Criteria](#eligibility-criteria-94)
+    - [Application](#application-93)
+    - [Deadline](#deadline-94)
+  - [`Amateuer Radio Digial Communications`](#amateuer-radio-digial-communications)
+    - [About](#about-95)
+    - [Eligibility Criteria](#eligibility-criteria-95)
+    - [Application](#application-94)
+    - [Deadline](#deadline-95)
+- [Grants - Listings](#grants---listings)
+- [Notable Projects](#notable-projects)
+  - [`Peermaps`](#peermaps)
+  - [`DeltaChat`](#deltachat)
+  - [`equalit.ie`](#equalitie)
+  - [`DAT`](#dat)
+  - [`OpenCare`](#opencare)
+  - [`Ghost`](#ghost)
+  - [`Read the Docs`](#read-the-docs)
+  - [`StreetComplete`](#streetcomplete)
 - [Time-bounded Opportunities](#time-bounded-opportunities)
   - [2024 September 13 - Open Tech Fund Impact and Engagement Lab RFP](#2024-september-13---open-tech-fund-impact-and-engagement-lab-rfp)
 - [Other Organisations](#other-organisations)
   - [:sparkles: `Software Freedom Conservancy`](#sparkles-software-freedom-conservancy)
-- [Sovereign Tech Fund](#sovereign-tech-fund)
 - [Crowdfunding](#crowdfunding)
 - [Links](#links)
 - [License](#license)
@@ -40,7 +571,7 @@ Every chapter interprets "awesome" for itself. As such, awesome projects include
 
 #### Application
 
-https://www.awesomefoundation.org/en/submissions/new
+<https://www.awesomefoundation.org/en/submissions/new>
 
 #### Deadline
 
@@ -65,17 +596,17 @@ Three open source projects integral to
 Bloomberg's operations and beyond were chosen as the recipients of the
 company's inaugural FOSS Contributor Fund grants:
 
-  * Apache Arrow is a project that makes data transfer and analytics
-    lightning-fast for a number of data-intensive applications. Its
-    language-agnostic in-memory columnar format has been increasingly adopted
-    both inside and outside Bloomberg. At Bloomberg, there's a particularly
-    engaged community around this project, which includes regular meetings and
-    communication channels - a sign of exciting momentum around the software.
-  * Curl, a ubiquitous tool used to interact with web services that's
-    implicitly part of billions of interactions every day - yet is still
-    essentially developed by one lead and a tiny group of contributors.
-  * Celery, a primary task management tool in the Django and Python ecosystem
-    that is used broadly within the company.
+- Apache Arrow is a project that makes data transfer and analytics
+  lightning-fast for a number of data-intensive applications. Its
+  language-agnostic in-memory columnar format has been increasingly adopted
+  both inside and outside Bloomberg. At Bloomberg, there's a particularly
+  engaged community around this project, which includes regular meetings and
+  communication channels - a sign of exciting momentum around the software.
+- Curl, a ubiquitous tool used to interact with web services that's
+  implicitly part of billions of interactions every day - yet is still
+  essentially developed by one lead and a tiny group of contributors.
+- Celery, a primary task management tool in the Django and Python ecosystem
+  that is used broadly within the company.
 
 #### Eligibility Criteria
 
@@ -83,7 +614,7 @@ N/A
 
 #### Application
 
-https://opencollective.com/bloomberg-foss-fund
+<https://opencollective.com/bloomberg-foss-fund>
 
 #### Deadline
 
@@ -104,7 +635,7 @@ Applications may be submitted by non-profit and for-profit organizations, public
 
 #### Application
 
-https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/
+<https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/>
 
 #### Deadline
 
@@ -132,7 +663,7 @@ N/A
 
 #### Application
 
-https://www.codeforsociety.org/eventfund/closed-call-for-applications
+<https://www.codeforsociety.org/eventfund/closed-call-for-applications>
 
 #### Deadline
 
@@ -147,6 +678,7 @@ Closed, plans to re-open mid 2023.
 The Comcast Innovation Fund was created to support technology and public policy research that contributes to the betterment of the Internet, and the continued evolution of connectivity products and services. The fund provides grants to technologists, researchers, and academics to support Internet- and connectivity-focused projects within the fund’s areas of interest, which are updated annually.
 The Comcast Innovation Fund offers funding for researchers at leading academic institutions and elsewhere to support research that is of mutual interest to Comcast and the research community. It also provides funding to support open source software development. While Comcast has supported this kind of work for many years, we are now doing so in a more strategic way.
 Areas out of scope for the 2023 Grant Year include:
+
 - Fintech, NFTs, blockchain, crypto currencies
 - Projects which focus on network simulators
 - New social media systems
@@ -155,6 +687,7 @@ Areas out of scope for the 2023 Grant Year include:
 #### Eligibility Criteria
 
 2023 AREAS OF INTEREST
+
 - Areas of focus for the Comcast Innovation Fund are updated annually. Projects most likely to receive Innovation Fund Grants will fall into one of these areas.
 - Top Areas of Interest for 2023:
 - Understanding the Internet Network through measurement:
@@ -179,7 +712,7 @@ Areas out of scope for the 2023 Grant Year include:
 
 #### Application
 
-https://comcastinnovationfund.smartsimple.com/s_Login.jsp
+<https://comcastinnovationfund.smartsimple.com/s_Login.jsp>
 
 #### Deadline
 
@@ -266,21 +799,22 @@ N/A
 #### About
 
 Do you have an idea for pushing the Filecoin ecosystem forward? Open grants are intended to support novel ideas that advance the Filecoin ecosystem, bring significant new usage, or directly advance the Filecoin mission statement. Open Grants are generally awarded in the amounts of 10,000+ USD , across several milestones. If this is your first, we strongly recommend scoping your project to under 50,000 USD
-https://github.com/protocol/research#private-retrieval
-https://arcological.xyz/#ipfs-funds
+<https://github.com/protocol/research#private-retrieval>
+<https://arcological.xyz/#ipfs-funds>
 
 #### Eligibility Criteria
 
 We welcome proposals in the following categories:
+
 - Developer and Data Tooling: For projects that close important experience gaps for developers or large dataset users. This might include improvements to command line or visual UX, API improvements, data preparation and ingest tools, developer tools and infrastructure, and more.
 - Applications: For projects that apply Filecoin, IPFS, or related technologies in novel ways to solve meaningful, real-world problems. Proposals in this category should have a strong understanding of, and working relationship with, a specific target audience.
 - Integrations: For projects that add integration or support for Filecoin, IPFS, or related technologies into popular, or fast-growing, existing tools and developer communities in Web2 or Web3.
 - Research & protocols: For projects aimed at improving the foundations of Filecoin, IPFS, and related technologies.
-- Other: From time to time, we may fund projects that don’t fit in the categories above, such as in the areas of community growth, but please contact us via grants@filecoin.org to discuss before submitting an application.
+- Other: From time to time, we may fund projects that don’t fit in the categories above, such as in the areas of community growth, but please contact us via <grants@filecoin.org> to discuss before submitting an application.
 
 #### Application
 
-https://github.com/filecoin-project/devgrants/tree/master/open-grants#-how-to-apply
+<https://github.com/filecoin-project/devgrants/tree/master/open-grants#-how-to-apply>
 
 #### Deadline
 
@@ -317,7 +851,7 @@ The Gitcoin Grants Program is a quarterly initiative run by Gitcoin DAO that emp
 
 #### Application
 
-https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/project-owners/how-to-create-a-project-in-builder
+<https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/project-owners/how-to-create-a-project-in-builder>
 
 #### Deadline
 
@@ -334,12 +868,13 @@ Support FOSS Sustainability. Google seeks to improve the web for developers and 
 #### Eligibility Criteria
 
 The Open Source CMS Fund has enabled Google to:
+
 - Fund projects, like lazy loading, that work to improve performance, privacy and security, and support new web platform capabilities in the open source ecosystem.
 - Sponsor open source CMS and ecommerce platforms to learn from and support their communities, share best practices and educational content directly with developers and site owners, and to gather product feedback.
 
 #### Application
 
-https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com
+<https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com>
 
 #### Deadline
 
@@ -360,6 +895,7 @@ This means that we accept applications working in any sector in any developing c
 Any type of organisation may apply. This includes social enterprises, for-profit companies, non-profit organisations, government agencies, international organisations, and research institutions in any country. It is recommended that individual innovators, entrepreneurs, or researchers apply through an affiliated organisation.
 
 An open application window does not mean, however, that all development projects are a good fit for GIF. We seek out innovations we believe have the greatest potential to improve the lives of millions of people living in poverty and only select those innovations which:
+
 - Are focussed on the poor.
 - Are novel approaches which are not commonplace.
 - Can improve upon alternatives solutions.
@@ -373,7 +909,7 @@ An open application window does not mean, however, that all development projects
 
 #### Application
 
-https://www.globalinnovation.fund/apply/starting-your-application/
+<https://www.globalinnovation.fund/apply/starting-your-application/>
 
 #### Deadline
 
@@ -448,11 +984,12 @@ Community events and outreach (meetups, hackerspaces);
 Projects focusing on the relationship between technology and art;
 Research (academic and non-academic);
 Software development (wallets and wallet integration, clients and client upgrades).
-* https://guide.kusama.network/docs/grants/
-* https://kusama.polkassembly.io/discussions
-* https://kusama.polkassembly.io/post/610
-* https://docs.google.com/document/d/1Hfofao18fZBK2XxLTZaYAougW2-_tB8UVsEUKVQi4n0/edit
-* https://docs.google.com/document/d/1p3UQUjph5t8TVaWnTkfrI5mE-BABnM9Xvtuhdlhl6JE/edit?usp=sharing
+
+- <https://guide.kusama.network/docs/grants/>
+- <https://kusama.polkassembly.io/discussions>
+- <https://kusama.polkassembly.io/post/610>
+- <https://docs.google.com/document/d/1Hfofao18fZBK2XxLTZaYAougW2-_tB8UVsEUKVQi4n0/edit>
+- <https://docs.google.com/document/d/1p3UQUjph5t8TVaWnTkfrI5mE-BABnM9Xvtuhdlhl6JE/edit?usp=sharing>
 
 #### Eligibility Criteria
 
@@ -461,7 +998,7 @@ Anyone building with Substrate and/on Kusama.
 #### Application
 
 Discuss before in the forum and only post proposal if you have enough support, otherwise you may lose the deposit (you pay the deposit when you submit a proposal, if it ed, you get it back)
-https://www.dotreasury.com/ksm/proposals
+<https://www.dotreasury.com/ksm/proposals>
 
 #### Deadline
 
@@ -476,7 +1013,7 @@ N/A
 Organisations and institutions wishing to ensure support, maintenance and continuous development of mission critical free software can use FDL and AWL to offset some of the associated cost while also being able to influence the long-term roadmaps of utilised software solutions.
 
 Aside from supporting Free Software solutions, the FDL also aims to increase the visibility of European Free Software publishers and their importance in terms of innovation and employment as well as their contribution to a possible European technological sovereignty.
-n supporting long term maintenance of essential and mature Free Software as well as short term development of any generic Free Software, FDL sponsorship fits in the gap between public R&D funding and private system integration funding.
+n supporting long term maintenance of essential and mature Free Software as well as short term development of any generic Free Software, FDL sponsorship fits in the gap between public R\&D funding and private system integration funding.
 
 #### Eligibility Criteria
 
@@ -499,11 +1036,11 @@ If the software is server based, it should be compatible with at least two indep
 If the software is smartphone based, it should be compatible with at least two independent operating systems (ex. Android and iOS).
 The software must be easily accessible to the general public, meaning it is installable via a single click or a single command line.
 The software must be easy to contribute to, meaning it's source code can be remotely edited and contributed to through the web.
-The project must be of general interest (software, documentation, education) which cannot be financed through existing R&D grants in Europe.
+The project must be of general interest (software, documentation, education) which cannot be financed through existing R\&D grants in Europe.
 
 #### Application
 
-https://www.fdl-lef.org/process/
+<https://www.fdl-lef.org/process/>
 
 #### Deadline
 
@@ -527,7 +1064,7 @@ We want to make it easy for very small charities or new community interest compa
 
 #### Application
 
-https://www.matthewgoodfoundation.org/grantsforgood/
+<https://www.matthewgoodfoundation.org/grantsforgood/>
 
 #### Deadline
 
@@ -547,7 +1084,7 @@ Any project that adds value to the MetaMask ecosystem is eligible. We are keepin
 
 #### Application
 
-https://metamaskgrants.org/apply-for-a-grant
+<https://metamaskgrants.org/apply-for-a-grant>
 
 #### Deadline
 
@@ -560,8 +1097,8 @@ N/A
 #### About
 
 The Data Futures Lab is an experimental space for instigating new approaches to data stewardship challenges. It provides funding, scaffolding for collaboration, convening around emerging ideas, and a place to workshop approaches to data stewardship which give greater control and agency to people.
-Applications will be accepted for a period of four weeks and be reviewed by an evaluation committee. Among the list of top candidates, the Mozilla Foundation will choose and allocate awards of up to 100,000 USD each out of a total pool of 400,000 USD. Applicants can expect to hear back within eight weeks of submitting an application; please email datafutureslab@mozillafoundation.org with any questions.
-https://foundation.mozilla.org/en/what-we-fund/
+Applications will be accepted for a period of four weeks and be reviewed by an evaluation committee. Among the list of top candidates, the Mozilla Foundation will choose and allocate awards of up to 100,000 USD each out of a total pool of 400,000 USD. Applicants can expect to hear back within eight weeks of submitting an application; please email <datafutureslab@mozillafoundation.org> with any questions.
+<https://foundation.mozilla.org/en/what-we-fund/>
 
 #### Eligibility Criteria
 
@@ -579,13 +1116,13 @@ Applications for the 2023 grants closed on November 11, 2022 at 23:59 (UTC-5).
 
 ### [`MOSS Grants`](https://wiki.mozilla.org/MOSS)
 
-* [MOSS Mozilla Secure Open Source](https://wiki.mozilla.org/MOSS/Secure_Open_Source)
-* [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-* [MOSS Foundation Technolgy](https://wiki.mozilla.org/MOSS/Foundational_Technology)
+- [MOSS Mozilla Secure Open Source](https://wiki.mozilla.org/MOSS/Secure_Open_Source)
+- [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+- [MOSS Foundation Technolgy](https://wiki.mozilla.org/MOSS/Foundational_Technology)
 
 #### About
 
-The open source and free software ecosystem needs to be secure; thank you for your desire to help make that even more of a reality by suggesting a project for an SOS audit. Note that this form allows you to make a *suggestion*, not an *application* - please do not expect to hear back from us. Unlike other tracks of MOSS, Mozilla will take the initiative to approach organizations it wishes to make offers to, perhaps guided by a suggestion, perhaps not.
+The open source and free software ecosystem needs to be secure; thank you for your desire to help make that even more of a reality by suggesting a project for an SOS audit. Note that this form allows you to make a _suggestion_, not an _application_ - please do not expect to hear back from us. Unlike other tracks of MOSS, Mozilla will take the initiative to approach organizations it wishes to make offers to, perhaps guided by a suggestion, perhaps not.
 
 #### Eligibility Criteria
 
@@ -599,7 +1136,7 @@ Does the software have existing corporate backing or involvement?
 
 #### Application
 
-https://docs.google.com/forms/d/e/1FAIpQLScLwANEOvLBE6gnFVoiamqHOYzzkaChpdQJ7f0PlZGmfyy94w/viewform
+<https://docs.google.com/forms/d/e/1FAIpQLScLwANEOvLBE6gnFVoiamqHOYzzkaChpdQJ7f0PlZGmfyy94w/viewform>
 
 #### Deadline
 
@@ -614,7 +1151,7 @@ N/A
 NLNET Zero Entrust
 
 We are seeking project proposals between 5.000 and 50.000 euro's — with the possibility to scale them up if there is proven potential. Reliability, confidentiality, integrity, security and data portability should be the 'new normal' of the internet, something ordinary users should not have to worry about — users should be in control. So let's make it happen.
-https://hackmd.io/Ak2Y1KZLRL2Ij1M6jP4pgw
+<https://hackmd.io/Ak2Y1KZLRL2Ij1M6jP4pgw>
 
 > The foundation "Stichting NLnet" stimulates network research and development in the domain of Internet technology. The articles of association for the NLnet foundation state: "to promote the exchange of electronic information and all that is related or beneficial to that purpose".
 
@@ -635,12 +1172,12 @@ If the project you are are considering would be a significant advance towards th
 
 #### Application
 
-https://nlnet.nl/propose/
+<https://nlnet.nl/propose/>
 
 #### Deadline
 
-* Apr 1 2023
-* Aug 1 2023
+- Apr 1 2023
+- Aug 1 2023
 
 ## O
 
@@ -661,7 +1198,7 @@ All work must be open source, built in public. If you are a for-profit or blockc
 #### Application
 
 Make a pull request
-https://github.com/balzack/monorepo/blob/main/how-to-apply-for-funding-or-speak/README.md
+<https://github.com/balzack/monorepo/blob/main/how-to-apply-for-funding-or-speak/README.md>
 
 #### Deadline
 
@@ -697,7 +1234,7 @@ attract new members (e.g. by providing an analysis or visualization of data) who
 
 #### Application
 
-https://docs.google.com/forms/d/e/1FAIpQLSdpunOhJosk-u4jr-5BtI9YQaR8zBPFTwX9Q5CLy091m88FdA/viewform
+<https://docs.google.com/forms/d/e/1FAIpQLSdpunOhJosk-u4jr-5BtI9YQaR8zBPFTwX9Q5CLy091m88FdA/viewform>
 
 #### Deadline
 
@@ -713,7 +1250,7 @@ Building long-term relationships of trust with the entities we support, and unde
 
 #### Eligibility Criteria
 
-https://www.opensocietyfoundations.org/grants/open-society-fellowship?eligibility=1
+<https://www.opensocietyfoundations.org/grants/open-society-fellowship?eligibility=1>
 
 #### Application
 
@@ -730,12 +1267,13 @@ N/A
 #### About
 
 The Open Technology Fund supports projects and people that develop open and accessible technologies promoting human rights and open societies, and help advance inclusive and safe access to global communications networks.
+
 - Internet Freedom Fund
 - Rapid Reponse Fund
 - Information Controls Fellowship
 - Surge and Sustain Fund
 - Technology at Scale Fund
-- https://github.com/OpenTechFund/application-guide
+- <https://github.com/OpenTechFund/application-guide>
 
 From their webpage:
 
@@ -744,38 +1282,38 @@ From their webpage:
 #### Eligibility Criteria
 
 - Internet Freedom Fund
-projects and people working on open and accessible technology-focused projects that promote human rights, Internet freedom, open societies
+  projects and people working on open and accessible technology-focused projects that promote human rights, Internet freedom, open societies
 - Rapid Reponse Fund
-aims to resolve threats in a timely and comprehensive manner for individuals, communities, and organizations whose free expression has recently been repressed. To resolve digital emergencies, OTF offers both direct financial support as well as technical services from trusted partners to high-risk people and organizations, such as bloggers, cyber activists, journalists, and human rights defenders
+  aims to resolve threats in a timely and comprehensive manner for individuals, communities, and organizations whose free expression has recently been repressed. To resolve digital emergencies, OTF offers both direct financial support as well as technical services from trusted partners to high-risk people and organizations, such as bloggers, cyber activists, journalists, and human rights defenders
 - Information Controls Fellowship
-supports examination into how governments in countries, regions, or areas of OTF’s core focus are restricting the free flow of information, cutting access to the open Internet, and implementing censorship mechanisms, thereby threatening the ability of global citizens to exercise basic human rights and democracy; work focused on mitigation of such threats is also supported
+  supports examination into how governments in countries, regions, or areas of OTF’s core focus are restricting the free flow of information, cutting access to the open Internet, and implementing censorship mechanisms, thereby threatening the ability of global citizens to exercise basic human rights and democracy; work focused on mitigation of such threats is also supported
 - Surge and Sustain Fund
-provides resources to leading VPN and circumvention solutions to support user costs in highly restrictive environments.
+  provides resources to leading VPN and circumvention solutions to support user costs in highly restrictive environments.
 - Technology at Scale Fund
-fund is the primary means through which OTF directly supports the technology needs of USAGM broadcast networks, journalists, and their audiences. Many of these networks serve audiences in countries that attempt to block access to USAGM content and impede journalists’ efforts to report objective news. The Technology at Scale Fund solicits mature technology solutions to ensure that USAGM audiences can access content safely through firewalls and other government attempts to censor objective news and allow journalists to safely do their work and communicate with sources.
+  fund is the primary means through which OTF directly supports the technology needs of USAGM broadcast networks, journalists, and their audiences. Many of these networks serve audiences in countries that attempt to block access to USAGM content and impede journalists’ efforts to report objective news. The Technology at Scale Fund solicits mature technology solutions to ensure that USAGM audiences can access content safely through firewalls and other government attempts to censor objective news and allow journalists to safely do their work and communicate with sources.
 
 #### Application
 
-https://apply.opentech.fund/internet-freedom-fund-concept-note/
+<https://apply.opentech.fund/internet-freedom-fund-concept-note/>
 
 #### Deadline
 
 - Internet Freedom Fund (open)
-  - https://www.opentech.fund/funds/internet-freedom-fund/
+  - <https://www.opentech.fund/funds/internet-freedom-fund/>
 - Rapid Reponse Fund (open)
-  - https://www.opentech.fund/funds/rapid-response-fund/
+  - <https://www.opentech.fund/funds/rapid-response-fund/>
 - Information Controls Fellowship
 - Surge and Sustain Fund (open)
-  - https://www.opentech.fund/funds/surge-and-sustain-fund/
+  - <https://www.opentech.fund/funds/surge-and-sustain-fund/>
 - Technology at Scale Fund (open)
 - Learning Lab
-  - https://www.opentech.fund/labs/learning-lab/
+  - <https://www.opentech.fund/labs/learning-lab/>
 - Localization Lab
-  - https://www.opentech.fund/labs/localization-lab/
+  - <https://www.opentech.fund/labs/localization-lab/>
 - Read Team Lab
-  - https://www.opentech.fund/labs/red-team-lab/
+  - <https://www.opentech.fund/labs/red-team-lab/>
 - Secure Usability and Accessibility Lab
-  - https://www.opentech.fund/labs/sua-lab/
+  - <https://www.opentech.fund/labs/sua-lab/>
 
 ##### More Information
 
@@ -812,7 +1350,7 @@ Stay focused on your project — let us take care of all the accounting, taxes, 
 
 #### Application
 
-https://opencollective.com/opensource
+<https://opencollective.com/opensource>
 
 #### Deadline
 
@@ -825,7 +1363,7 @@ N/A
 #### About
 
 We are seeking to support the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem. Submit your idea or view other ideas here.
-Discussion forum https://github.com/PlaintextGroup/oss-virtual-incubator/discussions
+Discussion forum <https://github.com/PlaintextGroup/oss-virtual-incubator/discussions>
 
 #### Eligibility Criteria
 
@@ -837,7 +1375,7 @@ We are seeking the most ambitious and innovative ideas to systemically improve t
 
 #### Application
 
-https://github.com/PlaintextGroup/oss-virtual-incubator/#2-submit-a-proposal
+<https://github.com/PlaintextGroup/oss-virtual-incubator/#2-submit-a-proposal>
 
 #### Deadline
 
@@ -861,12 +1399,12 @@ Research (academic and non-academic);
 Software development (wallets and wallet integration, clients and client upgrades);
 Cross-chain application development.
 
-* https://wiki.polkadot.network/docs/grants
-* https://wiki.polkadot.network/docs/learn-treasury
-* https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w/edit
-* https://polkadot.network/blog/kusama-treasury-funds-seven-teams-in-seven-weeks
-* https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal
-* https://medium.com/polkadot-network/common-good-parachains-an-introduction-to-governance-allocated-parachain-slots-88e01812160d
+- <https://wiki.polkadot.network/docs/grants>
+- <https://wiki.polkadot.network/docs/learn-treasury>
+- <https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w/edit>
+- <https://polkadot.network/blog/kusama-treasury-funds-seven-teams-in-seven-weeks>
+- <https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal>
+- <https://medium.com/polkadot-network/common-good-parachains-an-introduction-to-governance-allocated-parachain-slots-88e01812160d>
 
 #### Eligibility Criteria
 
@@ -875,7 +1413,7 @@ Anyone building with Substrate and/on Polkadot.
 #### Application
 
 Discuss before in the forum and only post proposal if you have enough support, otherwise you may lose the deposit (you pay the deposit when you submit a proposal, if it ed, you get it back)
-https://www.dotreasury.com/dot/proposals
+<https://www.dotreasury.com/dot/proposals>
 
 #### Deadline
 
@@ -916,7 +1454,7 @@ N/A
 
 Sponsorships
 To request sponsorship for research-oriented events, we ask that you fill out our sponsorship request form. Please provide as much information as possible (sponsorship tiers, free non-speaker tickets, branding, a table or other space for swag, inclusion in newsletters, etc.) to minimize the need for back-and-forth communication and help streamline our review process.
-We ask that all requests are submitted at least two months prior to the date of your event, so we have sufficient time to review the request, make a decision, and finalize logistics. If you have a question about sponsorship that is not covered by the request form, please email research-grants@protocol.ai.
+We ask that all requests are submitted at least two months prior to the date of your event, so we have sufficient time to review the request, make a decision, and finalize logistics. If you have a question about sponsorship that is not covered by the request form, please email <research-grants@protocol.ai>.
 
 #### Eligibility Criteria
 
@@ -924,7 +1462,7 @@ Protocol Labs (PL) Research reviews requests for sponsorship at research-focused
 
 #### Application
 
-https://protocollabs.smapply.io/prog/event_sponsorship/
+<https://protocollabs.smapply.io/prog/event_sponsorship/>
 
 #### Deadline
 
@@ -949,10 +1487,10 @@ From their site:
 
 #### Eligibility Criteria
 
-You are individual developers or part of a team* (of developers + x). ✓
+You are individual developers or part of a team\* (of developers + x). ✓
 Your idea is a software project (or at least largely based on software – hardware projects are not eligible). ✓
 You are of legal age (18 or older). ✓
-You are resident in Germany, self-employed** or freelance and pay your taxes here. ✓
+You are resident in Germany, self-employed\*\* or freelance and pay your taxes here. ✓
 
 #### Application
 
@@ -1005,7 +1543,7 @@ The service region for `RIPE NCC` is made up of over 75 countries, which is one 
 
 #### Application
 
-https://www.ripe.net/support/cpf/call-for-applications
+<https://www.ripe.net/support/cpf/call-for-applications>
 
 #### Deadline
 
@@ -1031,7 +1569,7 @@ Be able to legally receive grant funding
 
 #### Application
 
-https://apply.roddenberryfoundation.org/app/main/register/096B3E8FC7C03D844F7922C7FA2EF64695300ED49329FA653523A0DB38C26E85
+<https://apply.roddenberryfoundation.org/app/main/register/096B3E8FC7C03D844F7922C7FA2EF64695300ED49329FA653523A0DB38C26E85>
 
 #### Deadline
 
@@ -1048,7 +1586,7 @@ We focus broadly on these technology areas, but invest opportunistically in foun
 Samsung Next is committed to driving and fostering innovation globally. This means that we invest in startups, acquire technology, and partner with companies big and small to unlock value across the entire ecosystem and maximize impact.
 
 We believe great talent and ideas exist in all communities. Companies like ours have a responsibility to ensure that all great founders and tech leaders, regardless of background, access, and geography, have the same opportunity to unlock their potential. Knowing that so much of the tech industry is powered by relationships, we found ourselves asking: How do we broaden our networks to ensure that we’re meeting with the companies who are building the most exciting and visionary products, services, and technologies?
-https://www.samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-grant/
+<https://www.samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-grant/>
 
 #### Eligibility Criteria
 
@@ -1056,7 +1594,7 @@ N/A
 
 #### Application
 
-https://samsungnext.typeform.com/to/FFh0nIgy?typeform-source=www.samsungnext.com
+<https://samsungnext.typeform.com/to/FFh0nIgy?typeform-source=www.samsungnext.com>
 
 #### Deadline
 
@@ -1071,8 +1609,8 @@ N/A
 We know that philanthropy doesn’t hold all the answers to addressing tough societal challenges. However, we believe that philanthropy is uniquely positioned to ask big questions of our society, and to bring together the right stakeholders to answer those questions. Our inquiry-driven approach to grantmaking is an iterative process of asking questions, systematically interrogating them, and applying our learnings to subsequents rounds of questioning.
 
 Our approach is grounded in the scientific method, and is inspired by our chairman and founder David Siegel’s approach to his life’s work. We ask questions that help us develop an informed hypothesis, support academic and field-work that uncovers evidence, track and interpret outcomes thoughtfully, and apply our findings in order to inform the next phase of inquiry.
-https://www.siegelendowment.org/our-interest-areas/infrastructure/
-https://www.siegelendowment.org/our-interest-areas/learning/
+<https://www.siegelendowment.org/our-interest-areas/infrastructure/>
+<https://www.siegelendowment.org/our-interest-areas/learning/>
 
 #### Eligibility Criteria
 
@@ -1093,8 +1631,8 @@ N/A
 #### About
 
 As an independent fund and Algemeen Nut Beogende Instelling ( ANBI ), we support projects that contribute to a strong internet for everyone. We were founded in 2014 at the initiative of SIDN (Stichting Internet Domeinregistratie Nederland) and since the first call in 2015 we have supported more than 300 projects.
-https://www.sidnfonds.nl/aanvragen/pioniers
-ttps://www.sidnfonds.nl/excerpt/
+<https://www.sidnfonds.nl/aanvragen/pioniers>
+ttps\://[www.sidnfonds.nl/excerpt/](http://www.sidnfonds.nl/excerpt/)
 
 From their webpage:
 
@@ -1107,11 +1645,12 @@ Similarly to `InnovationsFonden`, `SIDN` also funds projects on different levels
 #### Eligibility Criteria
 
 You are eligible for our support if your innovative project serves a social interest, has the potential to make an impact on one of our focus areas and can continue to exist after our funding period. Moreover, it is essential that the results of your project are shared, as is the knowledge and experience gained. We take the following general criteria into account when assessing an application. Please note: additional criteria are sometimes set for theme calls.
+
 - Will it be tackled in collaboration with relevant players from the Dutch internet sector? We see that as a plus. This also applies to cooperation with registrars, hosters or internet providers.
 
 #### Application
 
-https://fundpro.se/calls/2399
+<https://fundpro.se/calls/2399>
 
 #### Deadline
 
@@ -1135,7 +1674,7 @@ N/A
 
 #### Application
 
-https://shuttleworthfoundation.org/apply/#more
+<https://shuttleworthfoundation.org/apply/#more>
 
 #### Deadline
 
@@ -1181,9 +1720,9 @@ Health, safety, and travel restrictions imposed in response to the global corona
 
 Grants in this program sought to partner with research communities to develop tools, standards, practices, and institutions that enable the efficient management and sharing of data and code at every point in the scientific pipeline—from acquisition through analysis to archiving.
 
-* https://sloan.org/
-* https://sloan.org/grants/apply
-* https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/
+- <https://sloan.org/>
+- <https://sloan.org/grants/apply>
+- <https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/>
 
 #### Eligibility Criteria
 
@@ -1205,7 +1744,7 @@ There is also a [grant program](https://sloan.org/grants/apply), but [individual
 
 #### Application
 
-Interested grantseekers should send a two-page letter of inquiry to technology@sloan.org. After that follows the real grant proposal process
+Interested grantseekers should send a two-page letter of inquiry to <technology@sloan.org>. After that follows the real grant proposal process
 
 Letter of Inquiry should include (1 or max 2 pages)
 
@@ -1237,7 +1776,7 @@ The Sovereign Tech Fund supports the development, improvement and maintenance of
 
 #### Application
 
-https://sovereigntechfund.de/en/applications/
+<https://sovereigntechfund.de/en/applications/>
 
 #### Deadline
 
@@ -1277,7 +1816,7 @@ The Substrate Builders Program identifies, supports, and mentors current and pot
 
 #### Application
 
-https://share.hsforms.com/1mcuE-iW8TpynU-hGG7CAyQ4iqge
+<https://share.hsforms.com/1mcuE-iW8TpynU-hGG7CAyQ4iqge>
 
 #### Deadline
 
@@ -1321,7 +1860,7 @@ Researchers and postgraduate students.
 
 #### Application
 
-To apply, please email samuel@privacy.co a one page concept note outlining your methodology, potential findings and funding requirements.
+To apply, please email <samuel@privacy.co> a one page concept note outlining your methodology, potential findings and funding requirements.
 
 #### Deadline
 
@@ -1358,11 +1897,11 @@ N/A
 As part of our commitment to promoting the Web3 ecosystem, we offer a comprehensive grants program focused on funding software development and research efforts related to Polkadot and Kusama.
 You don't need to start your own project in order to be eligible for a grant. Instead, some teams choose to port existing work to Substrate, where the pertinent licenses allow, or even to contribute to an existing open-source project. In the latter case, you should check in advance that the maintainers of the project are interested in your contribution, and the acceptance of the milestones will generally be tied to the inclusion of your work in said project. See the Maintenance Grants section for more info.
 
-* https://github.com/w3f/Grants-Program/#wave-introduction
-* https://medium.com/web3foundation/web3-foundation-grants-wave-one-winners-2a9cd39f1fbc
-* https://medium.com/web3foundation/web3-foundation-grants-wave-two-recipients-16d9b996501d
-* https://medium.com/web3foundation/web3-foundation-grants-wave-3-recipients-6426e77f1230
-* https://medium.com/web3foundation/wrap-up-for-winter-with-our-wave-four-grant-recipients-52c27b831a6e
+- <https://github.com/w3f/Grants-Program/#wave-introduction>
+- <https://medium.com/web3foundation/web3-foundation-grants-wave-one-winners-2a9cd39f1fbc>
+- <https://medium.com/web3foundation/web3-foundation-grants-wave-two-recipients-16d9b996501d>
+- <https://medium.com/web3foundation/web3-foundation-grants-wave-3-recipients-6426e77f1230>
+- <https://medium.com/web3foundation/wrap-up-for-winter-with-our-wave-four-grant-recipients-52c27b831a6e>
 
 #### Eligibility Criteria
 
@@ -1383,7 +1922,7 @@ Lastly, we do not fund projects that actively encourage gambling, illicit trade,
 
 #### Application
 
-https://github.com/w3f/Grants-Program/#mailbox_with_mail-suggest-a-project
+<https://github.com/w3f/Grants-Program/#mailbox_with_mail-suggest-a-project>
 
 #### Deadline
 
@@ -1402,7 +1941,7 @@ N/A
 #### About
 
 We believe in the potential of open data. With better information, funders can be more effective and strategic decision-makers. We also believe that being transparent helps us to be accountable.
-https://esmeefairbairn.org.uk/our-support/grants/
+<https://esmeefairbairn.org.uk/our-support/grants/>
 
 #### Eligibility Criteria
 
@@ -1412,7 +1951,7 @@ Have not yet received Funding Plus
 Are led by and for communities experiencing racial inequity
 
 Eligibility quiz
-https://esmeefairbairn.typeform.com/to/xeB89baB?typeform-source=esmeefairbairn.org.uk
+<https://esmeefairbairn.typeform.com/to/xeB89baB?typeform-source=esmeefairbairn.org.uk>
 
 #### Application
 
@@ -1429,7 +1968,7 @@ N/A
 #### About
 
 Launched in 2020, The Microgrants and Small Project Support program is designed to support digital security and privacy education and software development through low overhead financial support to organizations and individuals working on projects that support the Calyx Institute's mission. We accept applications for our themed funds subject to certain restrictions detailed in the call for proposal pages. General grants and project support are currently by invitation only.
-https://calyxinstitute.org/projects/microgrants-and-small-project-support
+<https://calyxinstitute.org/projects/microgrants-and-small-project-support>
 
 #### Eligibility Criteria
 
@@ -1566,7 +2105,7 @@ N/A
 
 #### Deadline
 
-Most of the budget is earmarked for a period of three years. During this period, given that most of our resources are already allocated, it is rare for the Foundation Board to open up new partnerships. If however you still wish to put in a request, you can write to us at our postal address or send an email to: contact.fph@fph.ch
+Most of the budget is earmarked for a period of three years. During this period, given that most of our resources are already allocated, it is rare for the Foundation Board to open up new partnerships. If however you still wish to put in a request, you can write to us at our postal address or send an email to: <contact.fph@fph.ch>
 
 ---
 
@@ -1679,7 +2218,7 @@ N/A
 We support the global Internet community – researchers, developers, nonprofits, educators and more – through the following grant programs:
 
 Bolt Program
-https://www.isocfoundation.org/grant-programme/bolt-grant-program/
+<https://www.isocfoundation.org/grant-programme/bolt-grant-program/>
 
 #### Eligibility Criteria
 
@@ -1849,7 +2388,7 @@ N/A
 
 #### About
 
-https://beta.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc
+<https://beta.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc>
 
 #### Eligibility Criteria
 
@@ -1870,8 +2409,8 @@ N/A
 #### About
 
 Google Summer of Code is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12+ week programming project with the guidance of mentors from their open source organization.
-https://summerofcode.withgoogle.com/
-https://developers.google.com/open-source/gsoc/help/student-stipends
+<https://summerofcode.withgoogle.com/>
+<https://developers.google.com/open-source/gsoc/help/student-stipends>
 
 #### Eligibility Criteria
 
@@ -1900,7 +2439,7 @@ Non profit.
 
 #### Application
 
-https://www.google.com/nonprofits/account/u/0/f/apply
+<https://www.google.com/nonprofits/account/u/0/f/apply>
 
 #### Deadline
 
@@ -1954,7 +2493,7 @@ N/A
 #### About
 
 Create a proposal outlining the documentation your project needs to create, update, or improve. Show us how you'll measure the impact of your project. Google Season of Docs provides financial support for your documentation project. At the end of the program, share what you've learned to improve knowledge of documentation in the open source community as a whole.
-https://developers.google.com/season-of-docs
+<https://developers.google.com/season-of-docs>
 
 #### Eligibility Criteria
 
@@ -1975,7 +2514,7 @@ March 24, 2023.
 #### About
 
 The UNICEF Venture Fund is looking to make up to 100K USD in equity-free investments to provide early-stage (seed) funding to for-profit start-ups developing frontier technology solutions that can positively impact the lives of the world's most vulnerable children and youth. If your product is registered in one of UNICEF’s programme countries, is a working prototype, has demonstrated results, and is (or could be) open-source licensed, we encourage you to apply.
-https://www.unicefinnovationfund.org/funding-support
+<https://www.unicefinnovationfund.org/funding-support>
 
 #### Eligibility Criteria
 
@@ -1983,7 +2522,7 @@ Company registered NOT in Europe/Common Wealth/US (West).
 
 #### Application
 
-https://form.jotform.com/230251713767354
+<https://form.jotform.com/230251713767354>
 
 #### Deadline
 
@@ -1996,8 +2535,8 @@ July 28 2023.
 #### About
 
 We are social investors who support a more effective democracy by funding free expression and journalism, arts and culture in community, research in areas of media and democracy, and in the success of American cities and towns where the Knight brothers once published newspapers.
-https://knightfoundation.org/grants/6001/
-https://knightfoundation.org/funding-opp-research-norms-rules-governance-internet-digital-platforms/
+<https://knightfoundation.org/grants/6001/>
+<https://knightfoundation.org/funding-opp-research-norms-rules-governance-internet-digital-platforms/>
 
 From their webpage:
 
@@ -2013,7 +2552,7 @@ We seek innovative ideas that advance informed and engaged communities. To apply
 
 The letter of inquiry is one way to apply for funding but not the only way. Applying to our open challenges is a separate process.
 
-https://knight.fluxx.io/lois/new?utf8=%E2%9C%93&lang=en&commit=Apply+Now
+<https://knight.fluxx.io/lois/new?utf8=%E2%9C%93&lang=en&commit=Apply+Now>
 
 #### Deadline
 
@@ -2083,21 +2622,21 @@ The online evaluation investigates the following areas of your software:
 
 What does your software do?
 
-* Support
-* Documentation
-* Plans for the future
-* Availability of your software
-* Source code structure
-* Open standards
-* Building from source
-* Installing the binary
-* Testing
-* Portability
-* Community
-* Contributor policy
-* Identity
-* Copyright
-* Licences
+- Support
+- Documentation
+- Plans for the future
+- Availability of your software
+- Source code structure
+- Open standards
+- Building from source
+- Installing the binary
+- Testing
+- Portability
+- Community
+- Contributor policy
+- Identity
+- Copyright
+- Licences
 
 #### Eligibility Criteria
 
@@ -2105,7 +2644,7 @@ N/A
 
 #### Application
 
-https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform
+<https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform>
 
 #### Deadline
 
@@ -2125,7 +2664,7 @@ N/A
 
 #### Application form:
 
-https://apply-for-innovation-funding.service.gov.uk/application/create/start-application/1181
+<https://apply-for-innovation-funding.service.gov.uk/application/create/start-application/1181>
 
 #### Deadline
 
@@ -2196,7 +2735,7 @@ N/A
 #### About
 
 Google Outreach Program - Includsion Award Program
-https://research.google/outreach/air-program/
+<https://research.google/outreach/air-program/>
 
 #### Eligibility Criteria
 
@@ -2216,7 +2755,7 @@ N/A
 
 #### About
 
-https://contractfortheweb.org/principles/principle-6-develop-technologies-that-support-the-best-in-humanity-and-challenge-the-worst/
+<https://contractfortheweb.org/principles/principle-6-develop-technologies-that-support-the-best-in-humanity-and-challenge-the-worst/>
 
 #### Eligibility Criteria
 
@@ -2272,7 +2811,7 @@ N/A
 
 ---
 
-### [`Open Collective Funds List`](https://opencollective.com/search?q=&type=FUND)
+### [`Open Collective Funds List`](https://opencollective.com/search?q=\&type=FUND)
 
 #### About
 
@@ -2337,6 +2876,7 @@ Our goal is to provide projects in the MTF: Auditing Tools for AI Systems cohort
 #### Eligibility Criteria
 
 Applicants should:
+
 - Have a product or working prototype in hand--projects which have not moved beyond the idea stage will not be considered
 - Already have a core team in place to support the development of the project (this team might include software developers working in close collaboration with auditors, AI researchers, designers, product/project managers, and subject matter experts)
 - Embrace openness, transparency, and community stewardship as methodology
@@ -2344,7 +2884,7 @@ Applicants should:
 
 #### Application
 
-https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/call-for-proposals/
+<https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/call-for-proposals/>
 
 #### Deadline
 
@@ -2491,14 +3031,14 @@ Individuals, groups, and organizations may apply. Any individual is allowed thre
 #### Application
 
 Research fund
-https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_%26_Technology_Fund/Wikimedia_Research_Fund
+<https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_%26_Technology_Fund/Wikimedia_Research_Fund>
 
 #### Deadline
 
-* 16 December 2022 AOE — Stage I application submission deadline.
-* 23 March 2023 — Stage I selection result notifications.
-* 31 March 2023 — Stage II application submission deadline.
-* 4 May 2023 — Stage II selection result notifications.
+- 16 December 2022 AOE — Stage I application submission deadline.
+- 23 March 2023 — Stage I selection result notifications.
+- 31 March 2023 — Stage II application submission deadline.
+- 4 May 2023 — Stage II selection result notifications.
 
 ---
 
@@ -2507,6 +3047,7 @@ https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_%26_Technolog
 #### About
 
 ARDC makes grants that align with our mission to support amateur radio and digital communication science and technology. In addition to aligning with our mission, your project must align with at least one of our grantmaking categories:
+
 - Support and growth of amateur radio,
 - Education, and
 - Research and Development.
@@ -2514,34 +3055,34 @@ ARDC makes grants that align with our mission to support amateur radio and digit
 #### Eligibility Criteria
 
 - U.S.-based 501(c)(3) Public Charity, government agency, school, or university.
-NOTE: If your organization is a 501(c)(3) public charity, please consider whether or not your organization will meet the public support test after you receive an ARDC grant. We cannot offer legal advice on this matter, but we suggest that you consult with an attorney or CPA to ensure that you will meet this requirement. For more information on the public support test, go to Understanding the 501(c)(3) Public Support Test.
+  NOTE: If your organization is a 501(c)(3) public charity, please consider whether or not your organization will meet the public support test after you receive an ARDC grant. We cannot offer legal advice on this matter, but we suggest that you consult with an attorney or CPA to ensure that you will meet this requirement. For more information on the public support test, go to Understanding the 501(c)(3) Public Support Test.
 - International charity, nonprofit, school, or university.
 - Radio clubs and groups who are NOT nonprofits may be eligible if they have a U.S.-based, nonprofit fiscal sponsor. For tips on finding a fiscal sponsor, see our instructions page.
 - Individuals may be eligible if you work with a fiscal sponsor.
 
 #### Application
 
-https://grants.ardc.net/
+<https://grants.ardc.net/>
 
 #### Deadline
 
-* February 1
-* April 1
-* July 1
-* October 1 + Scholarship Applications Due
+- February 1
+- April 1
+- July 1
+- October 1 + Scholarship Applications Due
 
 ## Grants - Listings
 
-* https://www.bond.org.uk/funding-opportunities/
-* https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/
-* https://github.com/PayDevs/awesome-oss-monetization
-* https://guide.opentech.fund/appendix-iv-alternative-sources-of-support
-* https://nlnet.nl/foundation/network.html
-* https://www.ukri.org/opportunity/
-* https://wellcome.org/grant-funding/schemes
-* https://digital-strategy.ec.europa.eu/en/funding
-* https://www.dev.ngo/grants/
-* https://grantnav.threesixtygiving.org/search
+- <https://www.bond.org.uk/funding-opportunities/>
+- <https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/>
+- <https://github.com/PayDevs/awesome-oss-monetization>
+- <https://guide.opentech.fund/appendix-iv-alternative-sources-of-support>
+- <https://nlnet.nl/foundation/network.html>
+- <https://www.ukri.org/opportunity/>
+- <https://wellcome.org/grant-funding/schemes>
+- <https://digital-strategy.ec.europa.eu/en/funding>
+- <https://www.dev.ngo/grants/>
+- <https://grantnav.threesixtygiving.org/search>
 
 ## Notable Projects
 
