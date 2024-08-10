@@ -1761,7 +1761,7 @@ N/A
 
 ---
 
-### [`Sovereignity Tech Fund`](https://sovereigntechfund.de/en/)
+### [`Sovereign Tech Fund`](https://sovereigntechfund.de/en/)
 
 #### About
 
@@ -1777,6 +1777,26 @@ The Sovereign Tech Fund supports the development, improvement and maintenance of
 #### Application
 
 <https://sovereigntechfund.de/en/applications/>
+
+#### Deadline
+
+N/A
+
+---
+
+### [`Sovereign Tech Fund - Maintainer Fellowships`](https://sovereigntechfund.de/programs/fellowship)
+
+#### About
+
+The Sovereign Tech Fund is piloting a fellowship program to pay open source maintainers, aiming to address structural issues and support open digital infrastructure in the public interest.
+
+#### Eligibility Criteria
+
+N/A
+
+#### Application
+
+Submissions open in Q4 2024: https://www.sovereigntechfund.de/programs/fellowship
 
 #### Deadline
 
