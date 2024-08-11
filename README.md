@@ -99,7 +99,7 @@
     - [Application](#application-15)
     - [Deadline](#deadline-15)
 - [M](#m)
-  - [`Mathew Good Foundation`](#mathew-good-foundation)
+  - [`Matthew Good Foundation`](#matthew-good-foundation)
     - [About](#about-16)
     - [Eligibility Criteria](#eligibility-criteria-16)
     - [Application](#application-16)
@@ -1053,7 +1053,7 @@ N/A
 
 ## M
 
-### [`Mathew Good Foundation`](https://www.matthewgoodfoundation.org/grantsforgood/)
+### [`Matthew Good Foundation`](https://www.matthewgoodfoundation.org/grantsforgood/)
 
 #### About
 
