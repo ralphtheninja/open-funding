@@ -39,11 +39,6 @@
     - [Eligibility Criteria](#eligibility-criteria-5)
     - [Application](#application-5)
     - [Deadline](#deadline-5)
-  - [`Cosmos Gub Grant Program`](#cosmos-gub-grant-program)
-    - [About](#about-6)
-    - [Eligibility Criteria](#eligibility-criteria-6)
-    - [Application](#application-6)
-    - [Deadline](#deadline-6)
 - [D](#d)
   - [`DIIF - Digital Infrastructure Grants @ Open collective`](#diif---digital-infrastructure-grants--open-collective)
     - [About](#about-7)
@@ -744,25 +739,6 @@ N/A
 N/A
 
 ---
-
-### [`Cosmos Gub Grant Program`](https://forum.cosmos.network/search?q=grant)
-
-#### About
-
-With a properly funded community pool, we believe it is the right time to initiate the creation of a grant program to serve community contributors and builders around the Hub.
-The newly formed program will foster community’s engagement in a structured and strategic way while reducing the load of small to medium funding proposals on public governance. Grants will be assigned ranging from 10,000 to 1,000,000 USD per proposal, and will focus on open source code and ecosystem initiatives that create value for ATOM holders.
-
-#### Eligibility Criteria
-
-Anyone building on/with/for cosmos.
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
 
 ## D
 
