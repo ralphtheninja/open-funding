@@ -104,11 +104,6 @@
     - [Eligibility Criteria](#eligibility-criteria-17)
     - [Application](#application-17)
     - [Deadline](#deadline-17)
-  - [`Mozilla Data Futures Lab`](#mozilla-data-futures-lab)
-    - [About](#about-18)
-    - [Eligibility Criteria](#eligibility-criteria-18)
-    - [Application](#application-18)
-    - [Deadline](#deadline-18)
   - [`MOSS Grants`](#moss-grants)
     - [About](#about-19)
     - [Eligibility Criteria](#eligibility-criteria-19)
@@ -1070,28 +1065,6 @@ Any project that adds value to the MetaMask ecosystem is eligible. We are keepin
 #### Deadline
 
 N/A
-
----
-
-### [`Mozilla Data Futures Lab`](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/2023-prototype-fund/)
-
-#### About
-
-The Data Futures Lab is an experimental space for instigating new approaches to data stewardship challenges. It provides funding, scaffolding for collaboration, convening around emerging ideas, and a place to workshop approaches to data stewardship which give greater control and agency to people.
-Applications will be accepted for a period of four weeks and be reviewed by an evaluation committee. Among the list of top candidates, the Mozilla Foundation will choose and allocate awards of up to 100,000 USD each out of a total pool of 400,000 USD. Applicants can expect to hear back within eight weeks of submitting an application; please email <datafutureslab@mozillafoundation.org> with any questions.
-<https://foundation.mozilla.org/en/what-we-fund/>
-
-#### Eligibility Criteria
-
-These awards are open to all applicants regardless of geographic location or institutional affiliation, except where legally prohibited. However, Mozilla is especially interested in receiving applications from members of the global majority or Global South; Black, Indigenous, and other People of Color; women, transgender and/or gender diverse applicants; migrant and diasporic communities; and/or persons coming from climate displaced/impacted communities, etc. We strongly encourage all such applicants to apply.
-
-#### Application
-
-N/A
-
-#### Deadline
-
-Applications for the 2023 grants closed on November 11, 2022 at 23:59 (UTC-5).
 
 ---
 
