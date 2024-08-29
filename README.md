@@ -12,12 +12,6 @@
     - [Eligibility Criteria](#eligibility-criteria)
     - [Application](#application)
     - [Deadline](#deadline)
-- [B](#b)
-  - [`Bloomberg @ Open collective`](#bloomberg--open-collective)
-    - [About](#about-1)
-    - [Eligibility Criteria](#eligibility-criteria-1)
-    - [Application](#application-1)
-    - [Deadline](#deadline-1)
 - [C](#c)
   - [`Chan Zuckerberg Initiative`](#chan-zuckerberg-initiative)
     - [About](#about-2)
@@ -572,49 +566,6 @@ Every chapter interprets "awesome" for itself. As such, awesome projects include
 #### Application
 
 <https://www.awesomefoundation.org/en/submissions/new>
-
-#### Deadline
-
-N/A
-
-## B
-
-### [`Bloomberg @ Open collective`](https://opencollective.com/bloomberg-foss-fund)
-
-#### About
-
-Bloomberg’s program for directly backing Free and Open Source Software (FOSS) projects
-
-Bloomberg has historically backed open source foundations, as well as provided
-direct financial support to individual projects. Its new FOSS Contributor
-Fund, which will run a quarterly election to award up to three grants of
-$10,000 each voting cycle, is a natural extension of these initiatives.
-
-Goal: Sustaining digital infrastructure in the long term
-
-Three open source projects integral to
-Bloomberg's operations and beyond were chosen as the recipients of the
-company's inaugural FOSS Contributor Fund grants:
-
-- Apache Arrow is a project that makes data transfer and analytics
-  lightning-fast for a number of data-intensive applications. Its
-  language-agnostic in-memory columnar format has been increasingly adopted
-  both inside and outside Bloomberg. At Bloomberg, there's a particularly
-  engaged community around this project, which includes regular meetings and
-  communication channels - a sign of exciting momentum around the software.
-- Curl, a ubiquitous tool used to interact with web services that's
-  implicitly part of billions of interactions every day - yet is still
-  essentially developed by one lead and a tiny group of contributors.
-- Celery, a primary task management tool in the Django and Python ecosystem
-  that is used broadly within the company.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-<https://opencollective.com/bloomberg-foss-fund>
 
 #### Deadline
 
