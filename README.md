@@ -332,11 +332,6 @@
     - [Eligibility Criteria](#eligibility-criteria-57)
     - [Application](#application-58)
     - [Deadline](#deadline-58)
-  - [`Grant for the Web`](#grant-for-the-web)
-    - [About](#about-59)
-    - [Eligibility Criteria](#eligibility-criteria-58)
-    - [Application](#application-59)
-    - [Deadline](#deadline-59)
   - [`Indela Latin America`](#indela-latin-america)
     - [About](#about-60)
     - [Eligibility Criteria](#eligibility-criteria-59)
@@ -2206,29 +2201,6 @@ N/A
 #### Deadline
 
 Nothing open at the moment.
-
----
-
-### [`Grant for the Web`](https://www.grantfortheweb.org/grantees)
-
-#### About
-
-Grant for the Web is an Interledger Foundation program to boost open, fair, and inclusive standards and innovation in Web Monetization.
-Grant for the Web is founded on the belief that a healthy internet needs openness and opportunity, and that it cannot be built on the backs of individuals’ security and privacy.
-
-These funds will seed an ecosystem that will challenge the web’s most urgent issues: loss of privacy, centralization of power, and inequalities in online participation.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-Currently not yet announced for 2023.
-
-#### Deadline
-
-Our last open call ended in September 2021.
 
 ---
 
