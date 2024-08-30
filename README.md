@@ -2501,7 +2501,7 @@ You will be eligible to register with UKRI for the Horizon Europe guarantee thro
 
 #### Eligibility Criteria
 
-N/A
+"UK-based organisation which has been successful through a Horizon Europe call in scope of the first or second wave of the guarantee"
 
 #### Application form:
 
