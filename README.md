@@ -2588,26 +2588,6 @@ N/A
 
 ---
 
-### [`Open Collective Funds List`](https://opencollective.com/search?q=\&type=FUND)
-
-#### About
-
-List of all the funds published on OpenCollective
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`BBSw Fellowship Program`](https://bssw.io/pages/bssw-fellowship-program)
 
 #### About
