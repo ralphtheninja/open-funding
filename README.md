@@ -2349,7 +2349,7 @@ N/A
 
 #### Deadline
 
-April 4 2023.
+Timeline for 2025 is not announced yet.
 
 ---
 
