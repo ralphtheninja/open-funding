@@ -2202,26 +2202,6 @@ N/A
 
 ---
 
-### [`Aspen Tech Policy Hub`](https://www.aspentechpolicyhub.org/fellowship/)
-
-#### About
-
-The Aspen Tech Policy Hub Fellowship is a 10-week, full-time, paid, in-residence program in the Bay Area that teaches STEM experts the policy process. We currently offer fellowship programs along two policy tracks: technology and climate. The program is ideal for people with scientific or technical backgrounds who are interested in building better policy, whether that be within government or more broadly as an external advocate or from within industry. It is particularly well-suited to applicants who have existing policy ideas they wish to refine and press forward. Admitted applicants receive an 18,000 USD stipend to enable their participation. While the Hub fellowship is normally full-time and in-person, due to the COVID-19 pandemic, any Fellowship program we hold is likely to be a mix of in-person and online programming for the foreseeable future.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Numfocus`](https://numfocus.org/)
 
 #### About
