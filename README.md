@@ -2067,7 +2067,7 @@ N/A
 
 #### Application
 
-N/A
+"There are no open RFPs at this time. Please check back later." as of 2024-08-30
 
 #### Deadline
 
