@@ -98,11 +98,6 @@
     - [Eligibility Criteria](#eligibility-criteria-17)
     - [Application](#application-17)
     - [Deadline](#deadline-17)
-  - [`MOSS Grants`](#moss-grants)
-    - [About](#about-19)
-    - [Eligibility Criteria](#eligibility-criteria-19)
-    - [Application](#application-19)
-    - [Deadline](#deadline-19)
 - [N](#n)
   - [`NGI - NLNet Foundation`](#ngi---nlnet-foundation)
     - [About](#about-20)
@@ -1002,36 +997,6 @@ Any project that adds value to the MetaMask ecosystem is eligible. We are keepin
 #### Application
 
 <https://metamaskgrants.org/apply-for-a-grant>
-
-#### Deadline
-
-N/A
-
----
-
-### [`MOSS Grants`](https://wiki.mozilla.org/MOSS)
-
-- [MOSS Mozilla Secure Open Source](https://wiki.mozilla.org/MOSS/Secure_Open_Source)
-- [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-- [MOSS Foundation Technolgy](https://wiki.mozilla.org/MOSS/Foundational_Technology)
-
-#### About
-
-The open source and free software ecosystem needs to be secure; thank you for your desire to help make that even more of a reality by suggesting a project for an SOS audit. Note that this form allows you to make a _suggestion_, not an _application_ - please do not expect to hear back from us. Unlike other tracks of MOSS, Mozilla will take the initiative to approach organizations it wishes to make offers to, perhaps guided by a suggestion, perhaps not.
-
-#### Eligibility Criteria
-
-How commonly used is the software?
-Is the software network-facing or does it regularly process untrusted data?
-How vital is the software to the continued functioning of the Internet or the Web?
-Does the software depend on closed-source code, e.g. in a web service?
-Are the software’s maintainers aware of and supportive of the application for support from the SOS fund?
-Has the software been audited before? If so, when and how extensively? Was the audit made public? If so, where?
-Does the software have existing corporate backing or involvement?
-
-#### Application
-
-<https://docs.google.com/forms/d/e/1FAIpQLScLwANEOvLBE6gnFVoiamqHOYzzkaChpdQJ7f0PlZGmfyy94w/viewform>
 
 #### Deadline
 
