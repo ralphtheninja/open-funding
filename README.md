@@ -316,11 +316,6 @@
     - [Eligibility Criteria](#eligibility-criteria-57)
     - [Application](#application-58)
     - [Deadline](#deadline-58)
-  - [`Grant for the Web`](#grant-for-the-web)
-    - [About](#about-59)
-    - [Eligibility Criteria](#eligibility-criteria-58)
-    - [Application](#application-59)
-    - [Deadline](#deadline-59)
   - [`Indela Latin America`](#indela-latin-america)
     - [About](#about-60)
     - [Eligibility Criteria](#eligibility-criteria-59)
@@ -2095,7 +2090,27 @@ Nothing open at the moment.
 
 ---
 
-### [`Grant for the Web`](https://www.grantfortheweb.org/grantees)
+### [`Indela Latin America`](https://indela.fund/en/home-2/)
+
+#### About
+
+Indela funds and supports organizations that work to advance digital rights in Latin America.
+
+#### Eligibility Criteria
+
+N/A
+
+#### Application
+
+N/A
+
+#### Deadline
+
+N/A
+
+---
+
+### [`Interledger Ambassador Program`](https://interledger.org/ambassadors)
 
 #### About
 
@@ -2115,26 +2130,6 @@ Currently not yet announced for 2023.
 #### Deadline
 
 Our last open call ended in September 2021.
-
----
-
-### [`Indela Latin America`](https://indela.fund/en/home-2/)
-
-#### About
-
-Indela funds and supports organizations that work to advance digital rights in Latin America.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
 
 ---
 
