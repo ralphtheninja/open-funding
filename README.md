@@ -39,7 +39,6 @@
     - [Eligibility Criteria](#eligibility-criteria-5)
     - [Application](#application-5)
     - [Deadline](#deadline-5)
-- [E](#e)
 - [F](#f)
   - [`Filecoin Open Grants`](#filecoin-open-grants)
     - [About](#about-6)
@@ -62,7 +61,6 @@
     - [Eligibility Criteria](#eligibility-criteria-9)
     - [Application](#application-9)
     - [Deadline](#deadline-9)
-- [H](#h)
 - [I](#i)
   - [`InnovationsFonden` :denmark:](#innovationsfonden-denmark)
     - [About](#about-10)
@@ -74,7 +72,6 @@
     - [Eligibility Criteria](#eligibility-criteria-11)
     - [Application](#application-11)
     - [Deadline](#deadline-11)
-- [J](#j)
 - [K](#k)
   - [`Kusama`](#kusama)
     - [About](#about-12)
@@ -165,7 +162,6 @@
     - [Eligibility Criteria](#eligibility-criteria-27)
     - [Application](#application-27)
     - [Deadline](#deadline-27)
-- [Q](#q)
 - [R](#r)
   - [`RIPE NCC Community Projects Fund`](#ripe-ncc-community-projects-fund)
     - [About](#about-28)
@@ -238,7 +234,6 @@
     - [Eligibility Criteria](#eligibility-criteria-39)
     - [Application](#application-39)
     - [Deadline](#deadline-39)
-- [U](#u)
 - [V](#v)
   - [`Vinnova` :sweden:](#vinnova-sweden)
     - [About](#about-40)
@@ -251,9 +246,6 @@
     - [Eligibility Criteria](#eligibility-criteria-41)
     - [Application](#application-41)
     - [Deadline](#deadline-41)
-- [X](#x)
-- [Y](#y)
-- [Z](#z)
 - [Currently Not Applicable](#currently-not-applicable)
   - [`EsmeeFairbaim Funding Plus`](#esmeefairbaim-funding-plus)
     - [About](#about-42)
@@ -702,8 +694,6 @@ N/A
 
 N/A
 
-## E
-
 ## F
 
 ### [`Filecoin Open Grants`](https://github.com/filecoin-project/devgrants/tree/master/open-grants)
@@ -827,8 +817,6 @@ An open application window does not mean, however, that all development projects
 
 "opens for one month four times a year – in March, June, September and December."
 
-## H
-
 ## I
 
 ### [`InnovationsFonden`](https://innovationsfonden.dk/en) :denmark:
@@ -876,8 +864,6 @@ N/A
 #### Deadline
 
 N/A
-
-## J
 
 ## K
 
@@ -1382,8 +1368,6 @@ N/A
 
 N/A
 
-## Q
-
 ## R
 
 ### [`RIPE NCC Community Projects Fund`](https://www.ripe.net/support/cpf)
@@ -1727,8 +1711,6 @@ To apply, please email <samuel@privacy.co> a one page concept note outlining you
 
 Open
 
-## U
-
 ## V
 
 ### [`Vinnova`](https://vinnova.se/en) :sweden:
@@ -1788,12 +1770,6 @@ Lastly, we do not fund projects that actively encourage gambling, illicit trade,
 #### Deadline
 
 N/A
-
-## X
-
-## Y
-
-## Z
 
 ## Currently Not Applicable
 
