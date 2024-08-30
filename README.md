@@ -227,11 +227,6 @@
     - [Eligibility Criteria](#eligibility-criteria-40)
     - [Application](#application-40)
     - [Deadline](#deadline-40)
-  - [`Spotify Grants`](#spotify-grants)
-    - [About](#about-41)
-    - [Eligibility Criteria](#eligibility-criteria-41)
-    - [Application](#application-41)
-    - [Deadline](#deadline-41)
   - [`Substrate Builder's Program`](#substrate-builders-program)
     - [About](#about-42)
     - [Eligibility Criteria](#eligibility-criteria-42)
@@ -1703,26 +1698,6 @@ N/A
 
 - Submissions open in Q4 2024: <https://www.sovereigntechfund.de/programs/fellowship>
 - Read more: <https://www.sovereigntechfund.de/news/introducing-the-fellowship-for-maintainers>
-
-#### Deadline
-
-N/A
-
----
-
-### [`Spotify Grants`](https://engineering.atspotify.com/2022/04/announcing-the-spotify-foss-fund/)
-
-#### About
-
-Spotify is starting a Free and Open Source Software Fund (FOSS Fund) to pay maintainers of independent projects. This new initiative is about giving back to open source developers and is one of the ways we are investing in a more sustainable open source ecosystem for all of us. The fund will start at 100K EUR, with Spotify’s engineers nominating what projects should receive funds and our fund committee making the final selections.
-
-#### Eligibility Criteria
-
-Anyone
-
-#### Application
-
-N/A
 
 #### Deadline
 
