@@ -2114,10 +2114,7 @@ N/A
 
 #### About
 
-Grant for the Web is an Interledger Foundation program to boost open, fair, and inclusive standards and innovation in Web Monetization.
-Grant for the Web is founded on the belief that a healthy internet needs openness and opportunity, and that it cannot be built on the backs of individuals’ security and privacy.
-
-These funds will seed an ecosystem that will challenge the web’s most urgent issues: loss of privacy, centralization of power, and inequalities in online participation.
+> 6-month project that advances the digital financial inclusion agenda specific to their expertise and networks. This program is ideal for researchers, developers, open-source contributors, entrepreneurs, educators, policy regulators, open standards enthusiasts, digital and financial rights advocates, creators, and artists operating at the intersection of technology and community. All ambassadors will receive a $30,000 grant for research, building, organizing, and advocacy.
 
 #### Eligibility Criteria
 
@@ -2125,11 +2122,11 @@ N/A
 
 #### Application
 
-Currently not yet announced for 2023.
+https://submit.interledger.org/submit/02298804-6736-4ff5-8173-234e211e0328/2024-ambassadorship-grant-program
 
 #### Deadline
 
-Our last open call ended in September 2021.
+Applications will be accepted via Submittable from June 4th, 2024, 12 am EDT until August 31st, 2024. 
 
 ---
 
