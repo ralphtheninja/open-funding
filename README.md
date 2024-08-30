@@ -2548,26 +2548,6 @@ N/A
 
 ---
 
-### [`World Wide Web Foundation`](https://webfoundation.org/our-work/)
-
-#### About
-
-<https://contractfortheweb.org/principles/principle-6-develop-technologies-that-support-the-best-in-humanity-and-challenge-the-worst/>
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`UK Innovation competition list`](https://apply-for-innovation-funding.service.gov.uk/competition/search)
 
 #### About
