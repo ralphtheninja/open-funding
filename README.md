@@ -371,11 +371,6 @@
     - [Eligibility Criteria](#eligibility-criteria-67)
     - [Application](#application-68)
     - [Deadline](#deadline-68)
-  - [`Microsoft FOSS Fund`](#microsoft-foss-fund)
-    - [About](#about-69)
-    - [Eligibility Criteria](#eligibility-criteria-68)
-    - [Application](#application-69)
-    - [Deadline](#deadline-69)
   - [`Coding It Forward`](#coding-it-forward)
     - [About](#about-70)
     - [Eligibility Criteria](#eligibility-criteria-69)
@@ -2346,26 +2341,6 @@ Non profit.
 
 N/A
 
----
-
-### [`Microsoft FOSS Fund`](https://opensource.microsoft.com/ecosystem/)
-
-#### About
-
-Microsoft is proud to support amazing open source projects, initiatives, foundations, and contribute to thousands of open source communities on GitHub and beyond.
-The Free and Open Source Software Fund (FOSS Fund) is a way for our employees to collectively select open source projects to receive 10,000 USD sponsorship awards throughout the year.
-
-#### Eligibility Criteria
-
-The open source project must be used by Microsoft.
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
 
 ---
 
