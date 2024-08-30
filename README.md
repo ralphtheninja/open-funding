@@ -497,7 +497,7 @@
     - [Eligibility Criteria](#eligibility-criteria-95)
     - [Application](#application-94)
     - [Deadline](#deadline-95)
-  - [`Amateuer Radio Digial Communications`](#amateuer-radio-digial-communications)
+  - [`Amateuer Radio Digital Communications`](#amateuer-radio-digial-communications)
     - [About](#about-96)
     - [Eligibility Criteria](#eligibility-criteria-96)
     - [Application](#application-95)
@@ -2883,7 +2883,7 @@ Research fund
 
 ---
 
-### [`Amateuer Radio Digial Communications`](https://www.ardc.net/apply/)
+### [`Amateuer Radio Digital Communications`](https://www.ardc.net/apply/)
 
 #### About
 
