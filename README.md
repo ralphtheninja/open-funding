@@ -2218,11 +2218,11 @@ Build the capacities needed by organizations and their project teams, to scale-u
 
 #### Eligibility Criteria
 
-N/A
+"Applications for funding can be made by organizations legally registered in the Asia Pacific region, based on funding available from our funding partners."
 
 #### Application
 
-N/A
+<https://apnic.foundation/isif-asia/apply-for-funding/>
 
 #### Deadline
 
