@@ -2527,26 +2527,6 @@ N/A
 
 ---
 
-### [`Wau Holland Stiftung`](https://wauland.de/en/)
-
-#### About
-
-Germany.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Google Research Outreach Program`](https://research.google/outreach/)
 
 #### About
