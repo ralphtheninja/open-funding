@@ -2649,27 +2649,6 @@ Closed.
 
 ---
 
-### [`Mozila Ventures`](https://blog.mozilla.org/en/mozilla/mozilla-ventures-investing-in-responsible-tech/)
-
-#### About
-
-Early next year, we will launch Mozilla Ventures, a first-of-its-kind impact venture fund to invest in startups that push the internet — and the tech industry — in a better direction.
-Launching officially in early 2023, Mozilla Ventures will start with an initial 35M USD, and grow through partnerships with other investors.
-
-#### Eligibility Criteria
-
-Startup sharing value.
-
-#### Application
-
-Not a grant.
-
-#### Deadline
-
-N/A
-
----
-
 ### [`QGIS`](https://blog.qgis.org/category/qgis-grant-programme/)
 
 #### About
