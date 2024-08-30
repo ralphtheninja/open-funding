@@ -885,11 +885,11 @@ An open application window does not mean, however, that all development projects
 
 #### Application
 
-<https://www.globalinnovation.fund/apply/starting-your-application/>
+<https://www.globalinnovation.fund/apply-for-funding>
 
 #### Deadline
 
-N/A
+"opens for one month four times a year – in March, June, September and December."
 
 ## H
 
