@@ -1898,7 +1898,7 @@ N/A
 
 ---
 
-### [`DigitalDefenders Fund`](https://www.digitaldefenders.org/funding/)
+### [`DigitalDefenders Fund`](https://www.digitaldefenders.org/funds/)
 
 #### About
 
