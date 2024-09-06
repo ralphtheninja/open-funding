@@ -6,13 +6,11 @@
 
 - [Introduction](#introduction)
 - [Grants](#grants)
-- [A](#a)
   - [`Awesome Foundation`](#awesome-foundation)
     - [About](#about)
     - [Eligibility Criteria](#eligibility-criteria)
     - [Application](#application)
     - [Deadline](#deadline)
-- [C](#c)
   - [`Chan Zuckerberg Initiative`](#chan-zuckerberg-initiative)
     - [About](#about-1)
     - [Eligibility Criteria](#eligibility-criteria-1)
@@ -33,20 +31,16 @@
     - [Eligibility Criteria](#eligibility-criteria-4)
     - [Application](#application-4)
     - [Deadline](#deadline-4)
-- [D](#d)
   - [`DIIF - Digital Infrastructure Grants @ Open collective`](#diif---digital-infrastructure-grants--open-collective)
     - [About](#about-5)
     - [Eligibility Criteria](#eligibility-criteria-5)
     - [Application](#application-5)
     - [Deadline](#deadline-5)
-- [E](#e)
-- [F](#f)
   - [`Filecoin Open Grants`](#filecoin-open-grants)
     - [About](#about-6)
     - [Eligibility Criteria](#eligibility-criteria-6)
     - [Application](#application-6)
     - [Deadline](#deadline-6)
-- [G](#g)
   - [`Gitcoin Grants Program`](#gitcoin-grants-program)
     - [About](#about-7)
     - [Eligibility Criteria](#eligibility-criteria-7)
@@ -62,8 +56,6 @@
     - [Eligibility Criteria](#eligibility-criteria-9)
     - [Application](#application-9)
     - [Deadline](#deadline-9)
-- [H](#h)
-- [I](#i)
   - [`InnovationsFonden` :denmark:](#innovationsfonden-denmark)
     - [About](#about-10)
     - [Eligibility Criteria](#eligibility-criteria-10)
@@ -74,20 +66,16 @@
     - [Eligibility Criteria](#eligibility-criteria-11)
     - [Application](#application-11)
     - [Deadline](#deadline-11)
-- [J](#j)
-- [K](#k)
   - [`Kusama`](#kusama)
     - [About](#about-12)
     - [Eligibility Criteria](#eligibility-criteria-12)
     - [Application](#application-12)
     - [Deadline](#deadline-12)
-- [L](#l)
   - [`Libre Endowment Fund`](#libre-endowment-fund)
     - [About](#about-13)
     - [Eligibility Criteria](#eligibility-criteria-13)
     - [Application](#application-13)
     - [Deadline](#deadline-13)
-- [M](#m)
   - [`Matthew Good Foundation`](#matthew-good-foundation)
     - [About](#about-14)
     - [Eligibility Criteria](#eligibility-criteria-14)
@@ -98,13 +86,11 @@
     - [Eligibility Criteria](#eligibility-criteria-15)
     - [Application](#application-15)
     - [Deadline](#deadline-15)
-- [N](#n)
   - [`NGI - NLNet Foundation`](#ngi---nlnet-foundation)
     - [About](#about-16)
     - [Eligibility Criteria](#eligibility-criteria-16)
     - [Application](#application-16)
     - [Deadline](#deadline-16)
-- [O](#o)
   - [`Open Defense Fund`](#open-defense-fund)
     - [About](#about-17)
     - [Eligibility Criteria](#eligibility-criteria-17)
@@ -134,7 +120,6 @@
     - [Eligibility Criteria](#eligibility-criteria-21)
     - [Application](#application-21)
     - [Deadline](#deadline-21)
-- [P](#p)
   - [`PlaintextGroup`](#plaintextgroup)
     - [About](#about-22)
     - [Eligibility Criteria](#eligibility-criteria-22)
@@ -165,8 +150,6 @@
     - [Eligibility Criteria](#eligibility-criteria-27)
     - [Application](#application-27)
     - [Deadline](#deadline-27)
-- [Q](#q)
-- [R](#r)
   - [`RIPE NCC Community Projects Fund`](#ripe-ncc-community-projects-fund)
     - [About](#about-28)
     - [Eligibility Criteria](#eligibility-criteria-28)
@@ -177,7 +160,6 @@
     - [Eligibility Criteria](#eligibility-criteria-29)
     - [Application](#application-29)
     - [Deadline](#deadline-29)
-- [S](#s)
   - [`Samsung Next`](#samsung-next)
     - [About](#about-30)
     - [Eligibility Criteria](#eligibility-criteria-30)
@@ -232,28 +214,21 @@
     - [Eligibility Criteria](#eligibility-criteria-38)
     - [Application](#application-38)
     - [Deadline](#deadline-38)
-- [T](#t)
   - [`Top10vpn Research Grant`](#top10vpn-research-grant)
     - [About](#about-39)
     - [Eligibility Criteria](#eligibility-criteria-39)
     - [Application](#application-39)
     - [Deadline](#deadline-39)
-- [U](#u)
-- [V](#v)
   - [`Vinnova` :sweden:](#vinnova-sweden)
     - [About](#about-40)
     - [Eligibility Criteria](#eligibility-criteria-40)
     - [Application](#application-40)
     - [Deadline](#deadline-40)
-- [W](#w)
   - [`Web3 Foundation Grants`](#web3-foundation-grants)
     - [About](#about-41)
     - [Eligibility Criteria](#eligibility-criteria-41)
     - [Application](#application-41)
     - [Deadline](#deadline-41)
-- [X](#x)
-- [Y](#y)
-- [Z](#z)
 - [Currently Not Applicable](#currently-not-applicable)
   - [`EsmeeFairbaim Funding Plus`](#esmeefairbaim-funding-plus)
     - [About](#about-42)
@@ -530,8 +505,6 @@ More individuals, organizations and companies are starting to realize the potent
 
 A list of funding opportunities that follow the grants model. This type of funding is usually carried out in batches, i.e. the fund in question release a certain amount of money each year and it's spread out over multiple projects. Grant funding often allows you to plan and execute projects over a longer period of time.
 
-## A
-
 ### [`Awesome Foundation`](https://www.awesomefoundation.org/en/)
 
 #### About
@@ -550,8 +523,6 @@ Every chapter interprets "awesome" for itself. As such, awesome projects include
 #### Deadline
 
 N/A
-
-## C
 
 ### [`Chan Zuckerberg Initiative`](https://chanzuckerberg.com/eoss/)
 
@@ -671,8 +642,6 @@ N/A
 
 ---
 
-## D
-
 ### [`DIIF - Digital Infrastructure Grants @ Open collective`](https://opencollective.com/di-grants)
 
 #### About
@@ -702,10 +671,6 @@ N/A
 
 N/A
 
-## E
-
-## F
-
 ### [`Filecoin Open Grants`](https://github.com/filecoin-project/devgrants/tree/master/open-grants)
 
 #### About
@@ -731,8 +696,6 @@ We welcome proposals in the following categories:
 #### Deadline
 
 N/A
-
-## G
 
 ### [`Gitcoin Grants Program`](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20)
 
@@ -827,10 +790,6 @@ An open application window does not mean, however, that all development projects
 
 "opens for one month four times a year – in March, June, September and December."
 
-## H
-
-## I
-
 ### [`InnovationsFonden`](https://innovationsfonden.dk/en) :denmark:
 
 #### About
@@ -877,10 +836,6 @@ N/A
 
 N/A
 
-## J
-
-## K
-
 ### [`Kusama`](https://kusama.polkassembly.io)
 
 #### About
@@ -915,8 +870,6 @@ Discuss before in the forum and only post proposal if you have enough support, o
 #### Deadline
 
 N/A
-
-## L
 
 ### [`Libre Endowment Fund`](https://www.fdl-lef.org/process/)
 
@@ -957,8 +910,6 @@ The project must be of general interest (software, documentation, education) whi
 #### Deadline
 
 N/A
-
-## M
 
 ### [`Matthew Good Foundation`](https://www.matthewgoodfoundation.org/grantsforgood/)
 
@@ -1002,8 +953,6 @@ Any project that adds value to the MetaMask ecosystem is eligible. We are keepin
 
 N/A
 
-## N
-
 ### [`NGI - NLNet Foundation`](https://www.ngi.eu/opencalls/)
 
 #### About
@@ -1038,8 +987,6 @@ If the project you are are considering would be a significant advance towards th
 
 - Apr 1 2023
 - Aug 1 2023
-
-## O
 
 ### [`Open Defense Fund`](https://github.com/OpenDefenseFund/monorepo/tree/main/how-to-apply-for-funding-or-speak)
 
@@ -1216,8 +1163,6 @@ Stay focused on your project — let us take care of all the accounting, taxes, 
 
 N/A
 
-## P
-
 ### [`PlaintextGroup`](https://github.com/PlaintextGroup/oss-virtual-incubator/)
 
 #### About
@@ -1382,10 +1327,6 @@ N/A
 
 N/A
 
-## Q
-
-## R
-
 ### [`RIPE NCC Community Projects Fund`](https://www.ripe.net/support/cpf)
 
 #### About
@@ -1434,8 +1375,6 @@ Be able to legally receive grant funding
 #### Deadline
 
 There are no deadlines. Applications are accepted year-round.
-
-## S
 
 ### [`Samsung Next`](https://www.samsungnext.com/)
 
@@ -1703,8 +1642,6 @@ N/A
 
 N/A
 
-## T
-
 ### [`Top10vpn Research Grant`](https://www.top10vpn.com/research-grant/)
 
 #### About
@@ -1727,10 +1664,6 @@ To apply, please email <samuel@privacy.co> a one page concept note outlining you
 
 Open
 
-## U
-
-## V
-
 ### [`Vinnova`](https://vinnova.se/en) :sweden:
 
 #### About
@@ -1748,8 +1681,6 @@ N/A
 #### Deadline
 
 N/A
-
-## W
 
 ### [`Web3 Foundation Grants`](https://web3.foundation/)
 
@@ -1788,12 +1719,6 @@ Lastly, we do not fund projects that actively encourage gambling, illicit trade,
 #### Deadline
 
 N/A
-
-## X
-
-## Y
-
-## Z
 
 ## Currently Not Applicable
 
