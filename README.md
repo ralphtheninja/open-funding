@@ -230,11 +230,6 @@
     - [Application](#application-41)
     - [Deadline](#deadline-41)
 - [Currently Not Applicable](#currently-not-applicable)
-  - [`EsmeeFairbaim Funding Plus`](#esmeefairbaim-funding-plus)
-    - [About](#about-42)
-    - [Eligibility Criteria](#eligibility-criteria-42)
-    - [Application](#application-42)
-    - [Deadline](#deadline-42)
   - [`Calyx Institute Microgrants`](#calyx-institute-microgrants)
     - [About](#about-43)
     - [Eligibility Criteria](#eligibility-criteria-43)
@@ -1721,33 +1716,6 @@ Lastly, we do not fund projects that actively encourage gambling, illicit trade,
 N/A
 
 ## Currently Not Applicable
-
-### [`EsmeeFairbaim Funding Plus`](https://esmeefairbairn.org.uk/our-support/funding-plus/)
-
-#### About
-
-We believe in the potential of open data. With better information, funders can be more effective and strategic decision-makers. We also believe that being transparent helps us to be accountable.
-<https://esmeefairbairn.org.uk/our-support/grants/>
-
-#### Eligibility Criteria
-
-As there is currently more demand for this type of support, we are prioritising requests from funded organisations that:
-
-Have not yet received Funding Plus
-Are led by and for communities experiencing racial inequity
-
-Eligibility quiz
-<https://esmeefairbairn.typeform.com/to/xeB89baB?typeform-source=esmeefairbairn.org.uk>
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
 
 ### [`Calyx Institute Microgrants`](https://calyxinstitute.org/projects/microgrants-and-small-project-support)
 
