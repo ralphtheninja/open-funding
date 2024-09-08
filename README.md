@@ -311,167 +311,142 @@
     - [Eligibility Criteria](#eligibility-criteria-57)
     - [Application](#application-58)
     - [Deadline](#deadline-58)
-  - [`Aspen Tech Policy Hub`](#aspen-tech-policy-hub)
+  - [`Numfocus`](#numfocus)
     - [About](#about-59)
     - [Eligibility Criteria](#eligibility-criteria-58)
     - [Application](#application-59)
     - [Deadline](#deadline-59)
-  - [`Numfocus`](#numfocus)
+  - [`Beta Nsf Gov`](#beta-nsf-gov)
     - [About](#about-60)
     - [Eligibility Criteria](#eligibility-criteria-59)
     - [Application](#application-60)
     - [Deadline](#deadline-60)
-  - [`Beta Nsf Gov`](#beta-nsf-gov)
+  - [`Google Summer of Code`](#google-summer-of-code)
     - [About](#about-61)
     - [Eligibility Criteria](#eligibility-criteria-60)
     - [Application](#application-61)
     - [Deadline](#deadline-61)
-  - [`Google Summer of Code`](#google-summer-of-code)
+  - [`Google Grants`](#google-grants)
     - [About](#about-62)
     - [Eligibility Criteria](#eligibility-criteria-61)
     - [Application](#application-62)
     - [Deadline](#deadline-62)
-  - [`Google Grants`](#google-grants)
+  - [`Coding It Forward`](#coding-it-forward)
     - [About](#about-63)
     - [Eligibility Criteria](#eligibility-criteria-62)
     - [Application](#application-63)
     - [Deadline](#deadline-63)
-  - [`Coding It Forward`](#coding-it-forward)
+  - [`Google Season of Docs`](#google-season-of-docs)
     - [About](#about-64)
     - [Eligibility Criteria](#eligibility-criteria-63)
     - [Application](#application-64)
     - [Deadline](#deadline-64)
-  - [`Google Season of Docs`](#google-season-of-docs)
+  - [`Unicef Innovationfund`](#unicef-innovationfund)
     - [About](#about-65)
     - [Eligibility Criteria](#eligibility-criteria-64)
     - [Application](#application-65)
     - [Deadline](#deadline-65)
-  - [`Unicef Innovationfund`](#unicef-innovationfund)
+  - [`Knight Foundation`](#knight-foundation)
     - [About](#about-66)
     - [Eligibility Criteria](#eligibility-criteria-65)
     - [Application](#application-66)
     - [Deadline](#deadline-66)
-  - [`Knight Foundation`](#knight-foundation)
+  - [`Unreal Engine Megagrants`](#unreal-engine-megagrants)
     - [About](#about-67)
     - [Eligibility Criteria](#eligibility-criteria-66)
     - [Application](#application-67)
     - [Deadline](#deadline-67)
-  - [`Unreal Engine Megagrants`](#unreal-engine-megagrants)
+  - [`Seedfund NSF`](#seedfund-nsf)
     - [About](#about-68)
     - [Eligibility Criteria](#eligibility-criteria-67)
+    - [Eligibility Criteria](#eligibility-criteria-68)
     - [Application](#application-68)
     - [Deadline](#deadline-68)
-  - [`Seedfund NSF`](#seedfund-nsf)
+  - [`Software Sustainability Institute`](#software-sustainability-institute)
     - [About](#about-69)
-    - [Eligibility Criteria](#eligibility-criteria-68)
     - [Eligibility Criteria](#eligibility-criteria-69)
     - [Application](#application-69)
     - [Deadline](#deadline-69)
-  - [`Software Sustainability Institute`](#software-sustainability-institute)
+  - [`Horizon Europe Guarantee`](#horizon-europe-guarantee)
     - [About](#about-70)
     - [Eligibility Criteria](#eligibility-criteria-70)
-    - [Application](#application-70)
+    - [Application form:](#application-form)
     - [Deadline](#deadline-70)
-  - [`Horizon Europe Guarantee`](#horizon-europe-guarantee)
+  - [`Internet Society`](#internet-society)
     - [About](#about-71)
     - [Eligibility Criteria](#eligibility-criteria-71)
-    - [Application form:](#application-form)
+    - [Application](#application-70)
     - [Deadline](#deadline-71)
-  - [`Internet Society`](#internet-society)
+  - [`CISCO Grant Program`](#cisco-grant-program)
     - [About](#about-72)
     - [Eligibility Criteria](#eligibility-criteria-72)
     - [Application](#application-71)
     - [Deadline](#deadline-72)
-  - [`CISCO Grant Program`](#cisco-grant-program)
+  - [`Google Research Outreach Program`](#google-research-outreach-program)
     - [About](#about-73)
     - [Eligibility Criteria](#eligibility-criteria-73)
     - [Application](#application-72)
     - [Deadline](#deadline-73)
-  - [`Wau Holland Stiftung`](#wau-holland-stiftung)
+  - [`UK Innovation competition list`](#uk-innovation-competition-list)
     - [About](#about-74)
     - [Eligibility Criteria](#eligibility-criteria-74)
     - [Application](#application-73)
     - [Deadline](#deadline-74)
-  - [`Google Research Outreach Program`](#google-research-outreach-program)
+  - [`Kickstart Scheme for Employers`](#kickstart-scheme-for-employers)
     - [About](#about-75)
     - [Eligibility Criteria](#eligibility-criteria-75)
     - [Application](#application-74)
     - [Deadline](#deadline-75)
-  - [`World Wide Web Foundation`](#world-wide-web-foundation)
+  - [`BBSw Fellowship Program`](#bbsw-fellowship-program)
     - [About](#about-76)
     - [Eligibility Criteria](#eligibility-criteria-76)
     - [Application](#application-75)
     - [Deadline](#deadline-76)
-  - [`UK Innovation competition list`](#uk-innovation-competition-list)
+  - [`Mozilla Technology Fund (MTF)`](#mozilla-technology-fund-mtf)
     - [About](#about-77)
     - [Eligibility Criteria](#eligibility-criteria-77)
     - [Application](#application-76)
     - [Deadline](#deadline-77)
-  - [`Kickstart Scheme for Employers`](#kickstart-scheme-for-employers)
+  - [`Mozilla Technology Fund`](#mozilla-technology-fund)
     - [About](#about-78)
     - [Eligibility Criteria](#eligibility-criteria-78)
     - [Application](#application-77)
     - [Deadline](#deadline-78)
-  - [`Open Collective Funds List`](#open-collective-funds-list)
+  - [`QGIS`](#qgis)
     - [About](#about-79)
     - [Eligibility Criteria](#eligibility-criteria-79)
     - [Application](#application-78)
     - [Deadline](#deadline-79)
-  - [`BBSw Fellowship Program`](#bbsw-fellowship-program)
+  - [`Rubycentral`](#rubycentral)
     - [About](#about-80)
     - [Eligibility Criteria](#eligibility-criteria-80)
     - [Application](#application-79)
     - [Deadline](#deadline-80)
-  - [`Mozilla Technology Fund (MTF)`](#mozilla-technology-fund-mtf)
+  - [`Unitary Fund`](#unitary-fund)
     - [About](#about-81)
     - [Eligibility Criteria](#eligibility-criteria-81)
     - [Application](#application-80)
     - [Deadline](#deadline-81)
-  - [`Mozilla Technology Fund`](#mozilla-technology-fund)
+  - [`The Britford Bridge Trust`](#the-britford-bridge-trust)
     - [About](#about-82)
     - [Eligibility Criteria](#eligibility-criteria-82)
     - [Application](#application-81)
     - [Deadline](#deadline-82)
-  - [`Mozila Ventures`](#mozila-ventures)
+  - [`Web We Want`](#web-we-want)
     - [About](#about-83)
     - [Eligibility Criteria](#eligibility-criteria-83)
     - [Application](#application-82)
     - [Deadline](#deadline-83)
-  - [`QGIS`](#qgis)
+  - [`Wikimedia Grants`](#wikimedia-grants)
     - [About](#about-84)
     - [Eligibility Criteria](#eligibility-criteria-84)
     - [Application](#application-83)
     - [Deadline](#deadline-84)
-  - [`Rubycentral`](#rubycentral)
+  - [`Amateuer Radio Digital Communications`](#amateuer-radio-digital-communications)
     - [About](#about-85)
     - [Eligibility Criteria](#eligibility-criteria-85)
     - [Application](#application-84)
     - [Deadline](#deadline-85)
-  - [`Unitary Fund`](#unitary-fund)
-    - [About](#about-86)
-    - [Eligibility Criteria](#eligibility-criteria-86)
-    - [Application](#application-85)
-    - [Deadline](#deadline-86)
-  - [`The Britford Bridge Trust`](#the-britford-bridge-trust)
-    - [About](#about-87)
-    - [Eligibility Criteria](#eligibility-criteria-87)
-    - [Application](#application-86)
-    - [Deadline](#deadline-87)
-  - [`Web We Want`](#web-we-want)
-    - [About](#about-88)
-    - [Eligibility Criteria](#eligibility-criteria-88)
-    - [Application](#application-87)
-    - [Deadline](#deadline-88)
-  - [`Wikimedia Grants`](#wikimedia-grants)
-    - [About](#about-89)
-    - [Eligibility Criteria](#eligibility-criteria-89)
-    - [Application](#application-88)
-    - [Deadline](#deadline-89)
-  - [`Amateuer Radio Digital Communications`](#amateuer-radio-digital-communications)
-    - [About](#about-90)
-    - [Eligibility Criteria](#eligibility-criteria-90)
-    - [Application](#application-89)
-    - [Deadline](#deadline-90)
 - [Grants - Listings](#grants---listings)
 - [Notable Projects](#notable-projects)
   - [`Peermaps`](#peermaps)
@@ -2095,26 +2070,6 @@ N/A
 
 ---
 
-### [`Aspen Tech Policy Hub`](https://www.aspentechpolicyhub.org/fellowship/)
-
-#### About
-
-The Aspen Tech Policy Hub Fellowship is a 10-week, full-time, paid, in-residence program in the Bay Area that teaches STEM experts the policy process. We currently offer fellowship programs along two policy tracks: technology and climate. The program is ideal for people with scientific or technical backgrounds who are interested in building better policy, whether that be within government or more broadly as an external advocate or from within industry. It is particularly well-suited to applicants who have existing policy ideas they wish to refine and press forward. Admitted applicants receive an 18,000 USD stipend to enable their participation. While the Hub fellowship is normally full-time and in-person, due to the COVID-19 pandemic, any Fellowship program we hold is likely to be a mix of in-person and online programming for the foreseeable future.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Numfocus`](https://numfocus.org/)
 
 #### About
@@ -2440,52 +2395,12 @@ N/A
 
 ---
 
-### [`Wau Holland Stiftung`](https://wauland.de/en/)
-
-#### About
-
-Germany.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Google Research Outreach Program`](https://research.google/outreach/)
 
 #### About
 
 Google Outreach Program - Includsion Award Program
 <https://research.google/outreach/air-program/>
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
-### [`World Wide Web Foundation`](https://webfoundation.org/our-work/)
-
-#### About
-
-<https://contractfortheweb.org/principles/principle-6-develop-technologies-that-support-the-best-in-humanity-and-challenge-the-worst/>
 
 #### Eligibility Criteria
 
@@ -2526,26 +2441,6 @@ N/A
 #### About
 
 The Kickstart Scheme helps employers create jobs for 16 to 24 year olds on Universal Credit.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
-### [`Open Collective Funds List`](https://opencollective.com/search?q=\&type=FUND)
-
-#### About
-
-List of all the funds published on OpenCollective
 
 #### Eligibility Criteria
 
@@ -2619,27 +2514,6 @@ Applicants should:
 #### Deadline
 
 Closed.
-
----
-
-### [`Mozila Ventures`](https://blog.mozilla.org/en/mozilla/mozilla-ventures-investing-in-responsible-tech/)
-
-#### About
-
-Early next year, we will launch Mozilla Ventures, a first-of-its-kind impact venture fund to invest in startups that push the internet — and the tech industry — in a better direction.
-Launching officially in early 2023, Mozilla Ventures will start with an initial 35M USD, and grow through partnerships with other investors.
-
-#### Eligibility Criteria
-
-Startup sharing value.
-
-#### Application
-
-Not a grant.
-
-#### Deadline
-
-N/A
 
 ---
 
