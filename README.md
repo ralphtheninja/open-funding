@@ -1287,7 +1287,7 @@ From their webpage:
 
 #### Eligibility Criteria
 
-N/A
+> Our current focus is on virtual events, virtual sprints, meetup.com fees, and Python diversity/inclusivity efforts. Grants for non-Python specific events will only be considered where there's a clear Python component to the event, and that the grant will only be for the Python component of the event. The PSF does not fund hackathon-style events.
 
 #### Application
 
@@ -1295,7 +1295,7 @@ N/A
 
 #### Deadline
 
-N/A
+> We require that applications be submitted 6 weeks before the event/project start date
 
 ### [`RIPE NCC Community Projects Fund`](https://www.ripe.net/support/cpf)
 
