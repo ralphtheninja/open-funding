@@ -641,32 +641,6 @@ N/A
 
 N/A
 
-### [`Filecoin Open Grants`](https://github.com/filecoin-project/devgrants/tree/master/open-grants)
-
-#### About
-
-Do you have an idea for pushing the Filecoin ecosystem forward? Open grants are intended to support novel ideas that advance the Filecoin ecosystem, bring significant new usage, or directly advance the Filecoin mission statement. Open Grants are generally awarded in the amounts of 10,000+ USD , across several milestones. If this is your first, we strongly recommend scoping your project to under 50,000 USD
-<https://github.com/protocol/research#private-retrieval>
-<https://arcological.xyz/#ipfs-funds>
-
-#### Eligibility Criteria
-
-We welcome proposals in the following categories:
-
-- Developer and Data Tooling: For projects that close important experience gaps for developers or large dataset users. This might include improvements to command line or visual UX, API improvements, data preparation and ingest tools, developer tools and infrastructure, and more.
-- Applications: For projects that apply Filecoin, IPFS, or related technologies in novel ways to solve meaningful, real-world problems. Proposals in this category should have a strong understanding of, and working relationship with, a specific target audience.
-- Integrations: For projects that add integration or support for Filecoin, IPFS, or related technologies into popular, or fast-growing, existing tools and developer communities in Web2 or Web3.
-- Research & protocols: For projects aimed at improving the foundations of Filecoin, IPFS, and related technologies.
-- Other: From time to time, we may fund projects that don’t fit in the categories above, such as in the areas of community growth, but please contact us via <grants@filecoin.org> to discuss before submitting an application.
-
-#### Application
-
-<https://github.com/filecoin-project/devgrants/tree/master/open-grants#-how-to-apply>
-
-#### Deadline
-
-N/A
-
 ### [`Gitcoin Grants Program`](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20)
 
 #### About
