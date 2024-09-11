@@ -1898,26 +1898,6 @@ N/A
 
 ---
 
-### [`Google for AI`](https://google.qualtrics.com/jfe/form/SV_di0qQuYNuDnUiJE)
-
-#### About
-
-N/A
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Netidee`](https://www.netidee.at/einreichen)
 
 #### About
