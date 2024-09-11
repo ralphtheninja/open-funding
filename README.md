@@ -2553,26 +2553,6 @@ N/A
 
 ---
 
-### [`Unitary Fund`](https://unitary.fund/)
-
-#### About
-
-Funds Quantum Computing related projects
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`The Britford Bridge Trust`](https://thebritfordbridgetrust.org/)
 
 #### About
