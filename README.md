@@ -1894,7 +1894,7 @@ N/A
 
 #### Deadline
 
-N/A
+2024 deadline has passed. It is unknown is this grant project will be repeated.
 
 ---
 
