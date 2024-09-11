@@ -2203,15 +2203,17 @@ The UNICEF Venture Fund is looking to make up to 100K USD in equity-free investm
 
 #### Eligibility Criteria
 
-Company registered NOT in Europe/Common Wealth/US (West).
+Official founder of a comapny is not a man.
+
+Company is registered in Asia/MENA
 
 #### Application
 
-<https://form.jotform.com/230251713767354>
+<https://www.unicefventurefund.org/call/gender-responsive-innovation-challenge-asia-and-mena-regions>
 
 #### Deadline
 
-July 28 2023.
+12 October 2024
 
 ---
 
