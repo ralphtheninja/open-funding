@@ -1991,26 +1991,6 @@ N/A
 
 ---
 
-### [`Numfocus`](https://numfocus.org/)
-
-#### About
-
-The Small Development Grants program is a NumFOCUS microgrant program benefitting our Sponsored and Affiliated projects. The program helps projects fund important work that they might not otherwise be able to do like improving usability, growing project communities, and speeding up the time to major releases.
-
-#### Eligibility Criteria
-
-Any NumFOCUS Fiscally Sponsored or Affiliated project is eligible to submit 1 proposal per grant cycle. Each project may receive a maximum of 2 grants per calendar year.
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Beta Nsf Gov`](https://beta.nsf.gov/funding/opportunities/cns-computer-systems-research-csr)
 
 #### About
