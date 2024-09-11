@@ -2525,24 +2525,6 @@ N/A
 
 ---
 
-### [`Web We Want`](https://webwewant.org/grants/)
-
-#### About
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Wikimedia Grants`](https://meta.wikimedia.org/wiki/Grants:Start)
 
 #### About
