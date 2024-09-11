@@ -515,34 +515,6 @@ Cycle 6 closed in October 2023.
 
 ---
 
-### [`Code for Science and Society (CS&S)`](https://www.codeforsociety.org/)
-
-#### About
-
-Tackling the complex scientific challenges of the 21st century requires global, collaborative research networks with robust data science capacity. Data science community events are a key tool to build skills and networks.
-
-People need money, time, and focused effort to build and sustain communities of practice with great events. This work is often under-resourced.
-
-The Event Fund, established in 2019, fills this gap in the current data science landscape.
-We offer grant funding (up to 20,000 USD) to support events bundled with cohort-based networking and training for event organizers.
-Grantee organizers run impactful, inclusive events and build new connections around the world.
-
-By investing directly in communities who seek to run inclusive events, the Event fund cultivates both data science skills and social infrastructure.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-<https://www.codeforsociety.org/eventfund/closed-call-for-applications>
-
-#### Deadline
-
-Closed, plans to re-open mid 2023.
-
----
-
 ### [`Comcast Innovation Fund`](https://innovationfund.comcast.com/)
 
 #### About
