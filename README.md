@@ -2203,7 +2203,7 @@ The UNICEF Venture Fund is looking to make up to 100K USD in equity-free investm
 
 #### Eligibility Criteria
 
-Official founder of a comapny is not a man.
+Official founder of a company is not a man.
 
 Company is registered in Asia/MENA
 
