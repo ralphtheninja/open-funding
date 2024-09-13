@@ -2394,7 +2394,7 @@ N/A
 
 #### Deadline
 
-N/A
+Expired, 2024 grants awarded. 2025 plans not known yet.
 
 ---
 
