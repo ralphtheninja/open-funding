@@ -1972,27 +1972,6 @@ March 24, 2023.
 
 ---
 
-### [`Unicef Innovationfund`](https://www.unicefinnovationfund.org/apply/frontier-tech-solutions)
-
-#### About
-
-The UNICEF Venture Fund is looking to make up to 100K USD in equity-free investments to provide early-stage (seed) funding to for-profit start-ups developing frontier technology solutions that can positively impact the lives of the world's most vulnerable children and youth. If your product is registered in one of UNICEF’s programme countries, is a working prototype, has demonstrated results, and is (or could be) open-source licensed, we encourage you to apply.
-<https://www.unicefinnovationfund.org/funding-support>
-
-#### Eligibility Criteria
-
-Company registered NOT in Europe/Common Wealth/US (West).
-
-#### Application
-
-<https://form.jotform.com/230251713767354>
-
-#### Deadline
-
-July 28 2023.
-
----
-
 ### [`Knight Foundation`](https://knightfoundation.org/grants/)
 
 #### About
