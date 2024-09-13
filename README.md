@@ -1434,26 +1434,6 @@ N/A
 
 ---
 
-### [`Substrate Builder's Program`](https://substrate.io/ecosystem/substrate-builders-program/)
-
-#### About
-
-The Substrate Builders Program directly supports you by connecting you with Parity’s extensive resources, taking your Substrate project to the next level. The program is divided into three tracks: chain, infrastructure and application track
-
-#### Eligibility Criteria
-
-The Substrate Builders Program identifies, supports, and mentors current and potential Substrate-related projects. If you're a visionary builder who is considering or already developing a project in the Substrate ecosystem, we want to talk to you.
-
-#### Application
-
-<https://share.hsforms.com/1mcuE-iW8TpynU-hGG7CAyQ4iqge>
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Swedish Internet Foundation`](https://internetstiftelsen.se/en/) :sweden:
 
 #### About
