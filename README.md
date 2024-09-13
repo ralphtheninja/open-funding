@@ -2070,7 +2070,7 @@ N/A
 
 #### Deadline
 
-N/A
+> 2025 Fellowship will run from June 9 to August 15, 2025. Applications will open in October.
 
 ---
 
