@@ -976,7 +976,7 @@ N/A
 
 #### Deadline
 
-N/A
+As of 2024-09-13 deadline passed for all projects.
 
 ---
 
