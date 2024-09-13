@@ -1707,26 +1707,6 @@ N/A
 
 ---
 
-### [`DigitalDefenders Fund`](https://www.digitaldefenders.org/funds/)
-
-#### About
-
-The Digital Defenders Partnership provides financial support to to build digital security capacities. Discover which fund suits your needs.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Media Democracy Fund`](https://mediademocracyfund.org/#what-we-do)
 
 #### About
