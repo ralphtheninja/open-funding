@@ -1978,7 +1978,7 @@ N/A
 
 Limited US organisations:
 
-- "Institutios of Higher Education"
+- "Institutions of Higher Education"
 - Non-profits directly associated with educational or research activities such as museums, professional societies and research laboratories
 
 #### Application
