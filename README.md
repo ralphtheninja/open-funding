@@ -1633,27 +1633,6 @@ N/A
 
 ## Currently Not Applicable
 
-### [`Calyx Institute Microgrants`](https://calyxinstitute.org/projects/microgrants-and-small-project-support)
-
-#### About
-
-Launched in 2020, The Microgrants and Small Project Support program is designed to support digital security and privacy education and software development through low overhead financial support to organizations and individuals working on projects that support the Calyx Institute's mission. We accept applications for our themed funds subject to certain restrictions detailed in the call for proposal pages. General grants and project support are currently by invitation only.
-<https://calyxinstitute.org/projects/microgrants-and-small-project-support>
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-March 17th, 2023.
-
----
-
 ### [`Cisco Research Grants`](https://research.cisco.com/open-rfps)
 
 #### About
