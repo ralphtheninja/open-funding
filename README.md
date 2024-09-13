@@ -643,39 +643,6 @@ N/A
 
 ---
 
-### [`Global Innovation Fund`](https://www.globalinnovation.fund/what-we-fund)
-
-#### About
-
-At GIF, we believe that innovation, by which we mean any solution that has potential to address an important development problem more effectively than existing approaches, can come from anyone, anywhere.
-
-This means that we accept applications working in any sector in any developing country.
-
-#### Eligibility Criteria
-
-Any type of organisation may apply. This includes social enterprises, for-profit companies, non-profit organisations, government agencies, international organisations, and research institutions in any country. It is recommended that individual innovators, entrepreneurs, or researchers apply through an affiliated organisation.
-
-An open application window does not mean, however, that all development projects are a good fit for GIF. We seek out innovations we believe have the greatest potential to improve the lives of millions of people living in poverty and only select those innovations which:
-
-- Are focussed on the poor.
-- Are novel approaches which are not commonplace.
-- Can improve upon alternatives solutions.
-- Are backed by evidence of potential impact.
-- Can be widely applied in many different settings.
-- Have the potential to scale to reach millions of people.
-- Are led by strong and dynamic teams.
-- Are ready for investment.
-- Will generate new knowledge on what works.
-- Have a clear role for GIF.
-
-#### Application
-
-<https://www.globalinnovation.fund/apply-for-funding>
-
-#### Deadline
-
-"opens for one month four times a year – in March, June, September and December."
-
 ### [`InnovationsFonden`](https://innovationsfonden.dk/en) :denmark:
 
 #### About
