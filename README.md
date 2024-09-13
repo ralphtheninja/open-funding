@@ -2270,31 +2270,6 @@ Expired, 2024 grants awarded. 2025 plans not known yet.
 
 ---
 
-### [`Mozilla Technology Fund`](https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/)
-
-#### About
-
-Our goal is to provide projects in the MTF: Auditing Tools for AI Systems cohort with the resources needed to unlock their full potential and to make them more sustainable in the long term. We will provide awards of up to 50,000 USD each to open source projects which are providing concrete tools and support to auditors.
-
-#### Eligibility Criteria
-
-Applicants should:
-
-- Have a product or working prototype in hand--projects which have not moved beyond the idea stage will not be considered
-- Already have a core team in place to support the development of the project (this team might include software developers working in close collaboration with auditors, AI researchers, designers, product/project managers, and subject matter experts)
-- Embrace openness, transparency, and community stewardship as methodology
-- Make their work available under an open-source license
-
-#### Application
-
-<https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/call-for-proposals/>
-
-#### Deadline
-
-Closed.
-
----
-
 ### [`QGIS`](https://blog.qgis.org/category/qgis-grant-programme/)
 
 #### About
