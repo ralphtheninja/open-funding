@@ -1750,7 +1750,7 @@ N/A
 
 #### Deadline
 
-Most of the budget is earmarked for a period of three years. During this period, given that most of our resources are already allocated, it is rare for the Foundation Board to open up new partnerships. If however you still wish to put in a request, you can write to us at our postal address or send an email to: <contact.fph@fph.ch>
+Most of the budget is earmarked for a period of three years. During this period, given that most of our resources are already allocated, it is rare for the Foundation Board to open up new partnerships. If however you still wish to put in a request, you can write to us at our postal address or send an email to: <contact.fph@fph.ch>
 
 ---
 
