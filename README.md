@@ -2342,26 +2342,6 @@ N/A
 
 ---
 
-### [`Kickstart Scheme for Employers`](https://www.gov.uk/guidance/kickstart-scheme-for-employers)
-
-#### About
-
-The Kickstart Scheme helps employers create jobs for 16 to 24 year olds on Universal Credit.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`BBSw Fellowship Program`](https://bssw.io/pages/bssw-fellowship-program)
 
 #### About
