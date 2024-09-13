@@ -1016,29 +1016,6 @@ Stay focused on your project — let us take care of all the accounting, taxes, 
 
 N/A
 
-### [`PlaintextGroup`](https://github.com/PlaintextGroup/oss-virtual-incubator/)
-
-#### About
-
-We are seeking to support the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem. Submit your idea or view other ideas here.
-Discussion forum <https://github.com/PlaintextGroup/oss-virtual-incubator/discussions>
-
-#### Eligibility Criteria
-
-Like roads and bridges for the digital world, open source software (OSS) makes up much of our digital infrastructure and underlies many critical software systems, both public and private. Some of the most popular apps and websites are open source as well. Often referred to as "free and open source software" (FOSS), OSS can be used, modified, and shared by the public according to its terms of distribution.
-
-However, OSS faces a sustainability problem. While some OSS projects are well-resourced by companies and non-profit organizations, other OSS code is maintained and released by people who struggle to monetize their work. Moreover, flaws in OSS has been used to mount supply chain attacks such as Heartbleed and, more recently, log4j. Traditional methods of resourcing OSS development and maintenance – such as corporate or philanthropic donations, crowdsourcing, or volunteer time – may not be enough.
-
-We are seeking the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem. We welcome ideas from around the world, and they can range from (but are not limited to) research proposals to specific technical improvements to institution-building to policymaking ideas. Here are some (not exhaustive) examples: "implement X feature in a certain package manager", "perform dependency mapping of the OSS ecosystem", "create a training program for OSS maintainers to learn how to apply to grants", "create a mechanism for the US National Science Foundation to better fund critical OSS libraries", "use X web3 mechanism to create incentives to fund OSS tools", "develop tools or new methodologies to predict open source sustainability or community health".
-
-#### Application
-
-<https://github.com/PlaintextGroup/oss-virtual-incubator/#2-submit-a-proposal>
-
-#### Deadline
-
-N/A
-
 ---
 
 ### [`Polkadot Treasury Fund`](https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w/edit)
