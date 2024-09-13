@@ -643,7 +643,7 @@ N/A
 
 ---
 
-### [`Global Innovation Fund`](https://www.globalinnovation.fund/apply/about/what-we-fund/)
+### [`Global Innovation Fund`](https://www.globalinnovation.fund/apply-for-funding)
 
 #### About
 
