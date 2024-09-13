@@ -1660,10 +1660,6 @@ March 17th, 2023.
 
 ##### Sustainability
 
-Information technology systems and infrastructures represent, by some estimates, approximately 4% of the net contribution towards greenhouse gas emissions. While actions can be undertaken to reduce both the energy required for power and cooling, as well as reducing the embedded emissions, ICT infrastructures offer the potential to help reduce the resource consumption and emissions from other sources of activity. In other words, we may see ICT sector emission increasing while other sectors decrease. 'No decarbonization without digitalization'.
-
-As Sustainability rises on the global agenda, Cisco is interested in how information and communication technologies can be improved in efficiency and how ICT can enable a more sustainable future for the world.
-
 The goal of this RFP is to solicit proposals that aim to conduct research in information and communications technologies (ICTs) and their application towards more sustainable outcomes. Specific areas of research include but are not limited to the following:
 
 Sustainable data, computing and communications architectures and infrastructures: datacenters, clouds and edge as well as novel network designs
@@ -1677,8 +1673,6 @@ Business models and information systems for sustainability and circularity
 Human factors in design of improved product sustainability
 
 ##### Web 3
-
-Web 3.0 has disrupted the technological ecosystem and geoeconomics worldwide. A parallel digital economy was born out of bitcoin, and then continues to grow with the help of Ethereum and other cryptocurrency (aka virtual-currency) platforms. They have given rise to the concept of de-centralized finance (DeFI) technology. De-centralized computing is enabled by blockchain and is being implemented as de-centralized apps (dApps). While the industry is building the Web3.0 technology and building on top of the continuously evolving Web3.0 platforms, there are several research challenges that need to be addressed. Cisco is interested in helping the industry solve the foundational and applied technical problems and in advancing the technology of Web 3.0.
 
 The goal of this RFP is to solicit proposals that aim to conduct research and address research challenges in the technologies and applications in the area of Web 3.0, Blockchain, cryptocurrencies aka virtual-currencies. Specific areas of research include but are not limited to the following:
 
