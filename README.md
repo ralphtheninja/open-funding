@@ -1997,9 +1997,14 @@ N/A
 
 <https://beta.nsf.gov/funding/opportunities/secure-trustworthy-cyberspace-satc>
 
+> Supports research addressing cybersecurity and privacy, drawing on expertise in one or more of these areas: computing, communication and information sciences; engineering; economics; education; mathematics; statistics; and social and behavioral sciences.
+
 #### Eligibility Criteria
 
-US only?
+Limited US organisations:
+
+* "Institutios of Higher Education"
+* Non-profits directly associated with educational or research activities such as museums, professional societies and research laboratories
 
 #### Application
 
@@ -2007,7 +2012,7 @@ N/A
 
 #### Deadline
 
-N/A
+Full proposal accepted anytime 
 
 ---
 
