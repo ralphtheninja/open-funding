@@ -1747,38 +1747,6 @@ N/A
 
 ---
 
-### [`FPH`](https://www.fph.ch/rubrique6_en.html)
-
-#### About
-
-FPH provides long-term core funding to civil society organisations that put forward alternatives and advocate on the issues covered by the ten programmes that have been selected for the budget period running from 2021 to 2023:
-
-P01 – Regional Integration, Peace and Cooperation
-P02 – Territorialised Sustainable Food Systems
-P03 – Territories and Bioregionalism
-P04 – Ecological Economics
-P05 – Technological Democracy, Econological Technologies and Low-Tech
-P06 – Regulation of Transnational Companies and Sustainable Sectors
-P07 – Democracy and the Rule of Law
-P08 – Alter-Globalist Movements
-P09 – Energy and Climate
-P10 – Capitalisation, Structuring Information and Conferences
-More specifically, the Foundation supports:
-
-the setting up of networks between stakeholders and organisations putting forward new alternatives, and improving their capacity to coordinate;
-the drawing up of common analyses and proposals with a view to promoting changes of scale, or to providing expertise;
-the dissemination of alternative solutions (sharing experience, advocacy, campaigns, publications…) in order to generalise best practices, put forward good policies and initiate a change of scale.
-
-#### Application
-
-N/A
-
-#### Deadline
-
-Most of the budget is earmarked for a period of three years. During this period, given that most of our resources are already allocated, it is rare for the Foundation Board to open up new partnerships. If however you still wish to put in a request, you can write to us at our postal address or send an email to: <contact.fph@fph.ch>
-
----
-
 ### [`Outreachy`](https://www.outreachy.org/)
 
 #### About
