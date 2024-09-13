@@ -2459,26 +2459,6 @@ N/A
 
 ---
 
-### [`The Britford Bridge Trust`](https://thebritfordbridgetrust.org/)
-
-#### About
-
-#### Eligibility Criteria
-
-> Applications are invited from UK registered charities for national or international projects. 
-
-> The primary charitable purposes of the Trust are the prevention or relief of poverty; the advancement of education; the advancement of health or the saving of lives; and the advancement of the arts, culture, heritage, or science however any applicant must have national relevance.
-
-#### Application
-
-N/A
-
-#### Deadline
-
-> Applications to the trust are reviewed quarterly. Quarterly cut offs are 30 March, 30 June, 30 September and 31 December each year.
-
----
-
 ### [`Wikimedia Grants`](https://meta.wikimedia.org/wiki/Grants:Start)
 
 #### About
