@@ -853,6 +853,28 @@ Any project that adds value to the MetaMask ecosystem is eligible. We are keepin
 
 N/A
 
+### [`Netidee`](https://www.netidee.at/einreichen) 🇦🇹
+
+#### About
+
+Austria
+
+netidee, run by the Private Internet Fund Austria, is meant to fund projects related to the open source internet. In 2020, the maximum amount of funding was 50k EUR for an individual project. An Austria-resident individual or organization has to request the grant. Applications can optionally be sent in English and parts of the project can be outsourced to entities abroad if this is detailed in the initial request.
+
+#### Eligibility Criteria
+
+They don't have the english version, so it might be only for the Austrians, although it doesn't specifically say so.
+
+#### Application
+
+N/A
+
+#### Deadline
+
+2024 deadline passed.
+
+---
+
 ### [`NGI - NLNet Foundation`](https://www.ngi.eu/opencalls/)
 
 #### About
@@ -1688,28 +1710,6 @@ N/A
 #### Deadline
 
 2024 deadline has passed. It is unknown is this grant project will be repeated.
-
----
-
-### [`Netidee`](https://www.netidee.at/einreichen)
-
-#### About
-
-Austria
-
-netidee, run by the Private Internet Fund Austria, is meant to fund projects related to the open source internet. In 2020, the maximum amount of funding was 50k EUR for an individual project. An Austria-resident individual or organization has to request the grant. Applications can optionally be sent in English and parts of the project can be outsourced to entities abroad if this is detailed in the initial request.
-
-#### Eligibility Criteria
-
-They don't have the english version, so it might be only for the Austrians, although it doesn't specifically say so.
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
 
 ---
 
