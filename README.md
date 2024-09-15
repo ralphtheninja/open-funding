@@ -1521,6 +1521,28 @@ N/A
 
 N/A
 
+---
+
+### [`Unreal Engine Megagrants`](https://www.unrealengine.com/en-US/megagrants)
+
+#### About
+
+Epic Games has committed to providing financial grants to creative, noteworthy, and innovative projects built in and around Unreal Engine or projects that enhance the open source 3D graphics ecosystem.
+
+Our average grants range from 5,000 USD to 250,000 USD, with some extraordinary projects receiving up to 500,000 USD Projects selected cover a variety of endeavors from game development, architecture projects, and film production, to educational uses and software tool development. No matter what size grant you receive, you will continue to own your IP and will be free to publish it however you wish.
+
+#### Eligibility Criteria
+
+N/A
+
+#### Application
+
+N/A
+
+#### Deadline
+
+N/A
+
 ### [`Top10vpn Research Grant`](https://www.top10vpn.com/research-grant/)
 
 #### About
@@ -1975,28 +1997,6 @@ We seek innovative ideas that advance informed and engaged communities. To apply
 The letter of inquiry is one way to apply for funding but not the only way. Applying to our open challenges is a separate process.
 
 <https://knight.fluxx.io/lois/new?utf8=%E2%9C%93&lang=en&commit=Apply+Now>
-
-#### Deadline
-
-N/A
-
----
-
-### [`Unreal Engine Megagrants`](https://www.unrealengine.com/en-US/megagrants)
-
-#### About
-
-Epic Games has committed to providing financial grants to creative, noteworthy, and innovative projects built in and around Unreal Engine or projects that enhance the open source 3D graphics ecosystem.
-
-Our average grants range from 5,000 USD to 250,000 USD, with some extraordinary projects receiving up to 500,000 USD Projects selected cover a variety of endeavors from game development, architecture projects, and film production, to educational uses and software tool development. No matter what size grant you receive, you will continue to own your IP and will be free to publish it however you wish.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
 
 #### Deadline
 
