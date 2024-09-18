@@ -21,11 +21,6 @@
     - [Eligibility Criteria](#eligibility-criteria-2)
     - [Application](#application-2)
     - [Deadline](#deadline-2)
-  - [`Cosmos grant.fish`](#cosmos-grantfish)
-    - [About](#about-3)
-    - [Eligibility Criteria](#eligibility-criteria-3)
-    - [Application](#application-3)
-    - [Deadline](#deadline-3)
   - [`DIIF - Digital Infrastructure Grants @ Open collective`](#diif---digital-infrastructure-grants--open-collective)
     - [About](#about-4)
     - [Eligibility Criteria](#eligibility-criteria-4)
@@ -574,26 +569,6 @@ Areas out of scope for the 2023 Grant Year include:
 #### Application
 
 <https://comcastinnovationfund.smartsimple.com/s_Login.jsp>
-
-#### Deadline
-
-N/A
-
----
-
-### [`Cosmos grant.fish`](https://medium.com/stakefish/launching-grant-fish-validator-81634d882c40)
-
-#### About
-
-grant.fish is a new validator operated by stake.fish that has launched with the Cosmos Hub 3 upgrade. grant.fish will live on a separate validator node and will have the same quality of security that stake.fish uses. grant.fish will use staking rewards as grants to newer projects. stake.fish will bond 1,000 ATOMs to start grant.fish.
-
-#### Eligibility Criteria
-
-Anyone building on/with/for cosmos.
-
-#### Application
-
-N/A
 
 #### Deadline
 
