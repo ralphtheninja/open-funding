@@ -1626,7 +1626,7 @@ Outreachy provides internships in open source and open science. Outreachy provid
 
 #### Eligibility Criteria
 
-N/A
+"people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living"
 
 #### Application
 
