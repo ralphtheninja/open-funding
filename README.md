@@ -1701,26 +1701,6 @@ Nothing open at the moment.
 
 ---
 
-### [`Indela Latin America`](https://indela.fund/en/home-2/)
-
-#### About
-
-Indela funds and supports organizations that work to advance digital rights in Latin America.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Interledger Ambassador Program`](https://interledger.org/ambassadors)
 
 #### About
