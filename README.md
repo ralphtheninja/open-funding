@@ -1598,26 +1598,6 @@ N/A
 
 ## Currently Not Applicable
 
-### [`Media Democracy Fund`](https://mediademocracyfund.org/#what-we-do)
-
-#### About
-
-Media Democracy Fund is a catalyst for an open, secure and equitable internet. We bring together diverse voices to design inclusive and responsible solutions, and empower public interest advocates to create an environment where digital technologies and the internet have a long-term, positive impact on society.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Outreachy`](https://www.outreachy.org/)
 
 #### About
