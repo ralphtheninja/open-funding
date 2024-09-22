@@ -1331,30 +1331,6 @@ Closes: 2023-12-31 23:59.
 
 ---
 
-### [`Shuttleworth Foundation`](https://shuttleworthfoundation.org/)
-
-#### About
-
-The free and open source software (FOSS) movement has not only created widely used software but million dollar businesses, using collaborative development approaches and open licences. Although the model is well established for software, it is not the case for education, philanthropy, hardware or social development. The default imposed on knowledge resources by copyright law is automatic lock down, with ideas generated and owned by 'experts'. This default makes little sense if your agenda is social change.
-
-We identify amazing people with innovative ideas and give them a fellowship grant, project funding and a support system of like-minded individuals.
-
-If we are deliberate about finding great people, supporting and sharing their positive approaches for social change, the world will get better, faster. That is why we are looking for social innovators who are open at heart, have a fresh perspective on addressing challenges and have a very clear idea of their role in bringing about positive change.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-<https://shuttleworthfoundation.org/apply/#more>
-
-#### Deadline
-
-Last one was March 2022.
-
----
-
 ### [`Sloan Foundation`](https://sloan.org/programs/digital-technology/better-software-for-science)
 
 #### About
