@@ -1645,26 +1645,6 @@ N/A
 
 ---
 
-### [`Fire Africa`](https://fireafrica.org/home)
-
-#### About
-
-Projects from African-based public or private sector organizations, universities, or research and development institutions, and non-government organizations will be considered. Individuals are not eligible.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Lacnic Frida`](https://programafrida.net/en)
 
 #### About
