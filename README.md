@@ -1531,7 +1531,7 @@ N/A
 
 #### Deadline
 
-N/A
+mid August 2024
 
 ---
 
@@ -1641,7 +1641,7 @@ Build the capacities needed by organizations and their project teams, to scale-u
 
 #### Deadline
 
-N/A
+2024 applications now closed
 
 ---
 
@@ -1661,7 +1661,7 @@ Opens 26.04.2023.
 
 #### Deadline
 
-N/A
+Deadline for 2024, has passed: https://programafrida.net/en/projects/preselected-projects-2024
 
 ---
 
