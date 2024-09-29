@@ -554,24 +554,9 @@ The Gitcoin Grants Program is a quarterly initiative run by Gitcoin DAO that emp
 
 #### Eligibility Criteria
 
-- Climate Solutions
-- Ethereum Infrastructure
-- Web3 Community & Education
-  - The project must be focused on improving the Web3 ecosystem.
-  - Projects must be older than 3 months
-  - Projects must have a proven track record in the Web3 space and list their long-term goals and recent milestones.
-  - Examples of projects which may fit are those that are:
-  - Growing new communities
-  - Providing educational resources
-  - Creating content (youtube tutorials, newsletters, blog posts, podcasts, etc)
-  - Protecting users by investigating bad actors
-  - DAOs focused on socialization
-  - Onboarding new users
-  - Working on inclusion/diversity/advocacy
-- Web3 Open Source Software
+Web3 Open Source Software is one of multiple eligible types of projects, in usch case following is required:
   - Be an open-source project with meaningful Github activity in the prior 3 months that has demonstrated work completed towards the project’s mission.
   - Primarily focused on developing on top of or advancing the broader Ethereum and/or Web3 industry.
-- ZK Tech
 
 #### Application
 
