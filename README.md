@@ -554,7 +554,7 @@ The Gitcoin Grants Program is a quarterly initiative run by Gitcoin DAO that emp
 
 #### Eligibility Criteria
 
-Web3 Open Source Software is one of multiple eligible types of projects, in usch case following is required:
+Web3 Open Source Software is one of multiple eligible types of projects, in such case the following is required:
   - Be an open-source project with meaningful Github activity in the prior 3 months that has demonstrated work completed towards the project’s mission.
   - Primarily focused on developing on top of or advancing the broader Ethereum and/or Web3 industry.
 
