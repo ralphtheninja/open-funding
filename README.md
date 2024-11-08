@@ -1520,26 +1520,6 @@ mid August 2024
 
 ---
 
-### [`Facebook Research Grants`](https://research.facebook.com/research-awards/#all-the-latest--research-awards---status--open---)
-
-#### About
-
-N/A
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-"There are no open RFPs at this time. Please check back later." as of 2024-08-30
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Sage Concept Grants`](https://ocean.sagepub.com/concept-grants/)
 
 #### About
