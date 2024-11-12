@@ -1122,31 +1122,6 @@ Be able to legally receive grant funding
 
 There are no deadlines. Applications are accepted year-round.
 
-### [`Samsung Next`](https://www.samsungnext.com/)
-
-#### About
-
-We focus broadly on these technology areas, but invest opportunistically in founders pursuing the imagined and impossible: artificial intelligence, blockchain, fintech, healthtech, infrastructure, mediatech
-
-Samsung Next is committed to driving and fostering innovation globally. This means that we invest in startups, acquire technology, and partner with companies big and small to unlock value across the entire ecosystem and maximize impact.
-
-We believe great talent and ideas exist in all communities. Companies like ours have a responsibility to ensure that all great founders and tech leaders, regardless of background, access, and geography, have the same opportunity to unlock their potential. Knowing that so much of the tech industry is powered by relationships, we found ourselves asking: How do we broaden our networks to ensure that we’re meeting with the companies who are building the most exciting and visionary products, services, and technologies?
-<https://www.samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-grant/>
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-<https://samsungnext.typeform.com/to/FFh0nIgy?typeform-source=www.samsungnext.com>
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Siegel Family Endowment`](https://www.siegelendowment.org/grantees/)
 
 #### About
