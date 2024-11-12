@@ -519,6 +519,8 @@ N/A
 
 #### About
 
+Grant for subset of cryptocurrency topic.
+
 The Gitcoin Grants Program is a quarterly initiative run by Gitcoin DAO that empowers everyday believers in web3 to drive funding toward what they believe matters, with the impact of individual donations being magnified by the use of the Quadratic Funding (QF) distribution mechanism. QF was introduced in a paper published in 2018 by Vitalik Buterin, Zoe Hitzig, and Glen Weyl.
 
 #### Eligibility Criteria
