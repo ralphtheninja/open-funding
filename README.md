@@ -515,37 +515,6 @@ Areas out of scope for the 2023 Grant Year include:
 
 N/A
 
----
-
-### [`DIIF - Digital Infrastructure Grants @ Open collective`](https://opencollective.com/di-grants)
-
-#### About
-
-Everything in our modern society, from hospitals and banks to universities and social media platforms, runs on software. Nearly all of this software is built on “digital infrastructure,” a foundation of free and public code that is designed to solve common challenges. The benefits of digital infrastructure are numerous: it can reduce the cost of setting up new businesses, support data-driven discovery across research disciplines, enable complex technologies such as smartphones to talk to each other, and allow everyone to have access to important innovations like encryption that would otherwise be too expensive. Sharing code to address common challenges is in principle cheaper, easier and more efficient.
-While the collective action problems that characterize infrastructure funding are well-explored, the industrial organization of digital infrastructure is less well-understood. In 2016, the Ford Foundation funded a report by Nadia Eghbal titled “Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure” that described how that the development and maintenance of digital infrastructure often falls to communities of volunteers who take it upon themselves to maintain this infrastructure in their own free time and for little or no money. Unsurprisingly, this leads to significant risks to the open internet and the ability to develop new, innovative research and businesses within it.
-
-In order to better understand the incentives and constraints that influence the maintenance of digital infrastructure, in 2018 the Sloan and Ford Foundations funded a portfolio of 13 research projects. In some cases the findings of these projects open up further questions, while in others they suggest interventions that could strengthen community practices.
-
-To continue to advance this agenda, this RFP invited proposals to further study the maintenance of digital infrastructure. This new RFP is being funded again by Ford Foundation and Sloan Foundation as well as Mozilla, Omidyar and Open Society Foundations.
-
-> Our 2024 RFP invites new proposals and research implementations to study the production, maintenance, governance and use of open digital infrastructure, looking at, but not limited to, the aspects listed in our Funding Scope.
-
-- [Ford Foundation RFP](https://fordfoundation.forms.fm/2024-digital-infrastructure-insights-fund-rfp/forms/9861)
-
-#### Eligibility Criteria
-
-- Digital infrastructure projects
-- Civic tech, environmental justice, globa, online infrastructure, open source, research, social justice
-- Research grants for the study of digital infrastructure maintenance.
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
 ### [`Gitcoin Grants Program`](https://gitcoin.notion.site/Gitcoin-Grantee-Portal-6adfc92627474bd48a5dfcd1e8438d20)
 
 #### About
