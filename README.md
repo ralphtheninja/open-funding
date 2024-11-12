@@ -568,29 +568,6 @@ April 25th to May 9th.
 
 ---
 
-### [`Google Open Source CMS Fund @ Open collective`](https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com)
-
-#### About
-
-Support FOSS Sustainability. Google seeks to improve the web for developers and users by supporting open source CMSes.
-
-#### Eligibility Criteria
-
-The Open Source CMS Fund has enabled Google to:
-
-- Fund projects, like lazy loading, that work to improve performance, privacy and security, and support new web platform capabilities in the open source ecosystem.
-- Sponsor open source CMS and ecommerce platforms to learn from and support their communities, share best practices and educational content directly with developers and site owners, and to gather product feedback.
-
-#### Application
-
-<https://opencollective.com/google-open-source-cms-fund?ref=blog.opencollective.com>
-
-#### Deadline
-
-N/A
-
----
-
 ### [`InnovationsFonden`](https://innovationsfonden.dk/en) :denmark:
 
 #### About
