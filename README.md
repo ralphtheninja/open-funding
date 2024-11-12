@@ -1376,7 +1376,7 @@ N/A
 
 #### Deadline
 
-23:59 on Sunday 20 October 2024
+closed for 2024 - deadline was 23:59 on Sunday 20 October 2024
 
 ---
 
