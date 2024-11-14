@@ -1935,7 +1935,6 @@ N/A
 
 #### About
 
-[Technology fund](https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_%26_Technology_Fund) comming soon
 [Research fund](https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_%26_Technology_Fund)
 We welcome submissions that describe in-depth research proposals to improve and expand our understanding of the Wikimedia projects and their impact, introduce technical and socio-technical solutions that can enhance the technology in support of the Wikimedia projects, and advance the Wikimedia Movement towards the 2030 strategic direction. We will also consider funding proposals that focus on expanding and diversifying the community of researchers studying Wikimedia projects. For non-research related work, please see other sources of funding, including the Wikimedia Community Fund, the Wikimedia Alliances Fund and the forthcoming Wikimedia Technology Fund.
 Requests can be up to USD 50,000 and we intend to give a minimum of six grants during this funding cycle. Detailed budgets are not required as part of initial submissions but we request rough estimates in the following categories (if applicable) along with a brief explanation:
