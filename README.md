@@ -1094,7 +1094,7 @@ The service region for `RIPE NCC` is made up of over 75 countries, which is one 
 
 #### Deadline
 
-May 31 2023.
+2024 call closed, date for 2025 not known yet
 
 ---
 
