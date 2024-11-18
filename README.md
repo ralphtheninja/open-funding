@@ -1884,24 +1884,6 @@ May 2 2023.
 
 ---
 
-### [`Rubycentral`](https://rubycentral.org/)
-
-#### About
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Wikimedia Grants`](https://meta.wikimedia.org/wiki/Grants:Start)
 
 #### About
