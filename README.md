@@ -1840,7 +1840,7 @@ N/A
 
 #### Application
 
-Re-opens in Summer 2023
+"Check back in summer 2025 for info about the 2026 application process."
 
 #### Deadline
 
