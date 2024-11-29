@@ -1,7 +1,7 @@
 {
   "name": "open-funding",
   "scripts": {
-    "toc": "hallmark --fix"
+    "toc": "hallmark --fix README.md topic_specific_lists/CRYPTO.md"
   },
   "devDependencies": {
     "hallmark": "^4.0.0"
