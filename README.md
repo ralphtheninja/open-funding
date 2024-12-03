@@ -682,12 +682,10 @@ We are seeking project proposals between 5.000 and 50.000 euro's — with the po
 
 Current submission(s):
 
-- [`Next Generation Search and Discovery`](https://nlnet.nl/discovery/)
-- [`NGI Assure - building blocks for a complete, strong chain of assurances`](https://nlnet.nl/assure/)
-
-From OTF mailing list:
-
-> NLNet is seeking proposals requesting between €5,000 and €50,000 for projects for Privacy and Trust projects “aimed at providing people with new instruments that allow them more agency - and assist us with fulfilling the human need of keeping some private and confidential context and information private and confidential.” This effort is part of the EU’s Next Generation Initiative (NGI), which seeks to “re-imagine and re-engineer the internet for the third millennium and beyond to shape a value-centric, human and inclusive society for all.”
+- ["Reclaim the public nature of the internet" (NGI0 Commons Fund)](https://nlnet.nl/commonsfund/)
+- ["Privacy-preserving digital payments" (NGI0 Taler)](https://nlnet.nl/taler/)
+- ["More ethical and human mobile softwaree" (NGI0 Mobifree)](https://nlnet.nl/mobifree/)
+- ["Creating the hosting stack of the future" (NGI0 Fediversity)](https://nlnet.nl/fediversity/)
 
 #### Eligibility Criteria
 
@@ -699,8 +697,7 @@ If the project you are are considering would be a significant advance towards th
 
 #### Deadline
 
-- Apr 1 2023
-- Aug 1 2023
+- Feb 1 2025
 
 ### [`Open Defense Fund`](https://github.com/OpenDefenseFund/monorepo/tree/main/how-to-apply-for-funding-or-speak)
 
