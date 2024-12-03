@@ -1067,28 +1067,6 @@ Be able to legally receive grant funding
 
 There are no deadlines. Applications are accepted year-round.
 
-### [`Siegel Family Endowment`](https://www.siegelendowment.org/grantees/)
-
-#### About
-
-We know that philanthropy doesn’t hold all the answers to addressing tough societal challenges. However, we believe that philanthropy is uniquely positioned to ask big questions of our society, and to bring together the right stakeholders to answer those questions. Our inquiry-driven approach to grantmaking is an iterative process of asking questions, systematically interrogating them, and applying our learnings to subsequents rounds of questioning.
-
-Our approach is grounded in the scientific method, and is inspired by our chairman and founder David Siegel’s approach to his life’s work. We ask questions that help us develop an informed hypothesis, support academic and field-work that uncovers evidence, track and interpret outcomes thoughtfully, and apply our findings in order to inform the next phase of inquiry.
-<https://www.siegelendowment.org/our-interest-areas/infrastructure/>
-<https://www.siegelendowment.org/our-interest-areas/learning/>
-
-#### Eligibility Criteria
-
-Siegel Family Endowment supports organizations working at the intersections of learning, workforce, and infrastructure.
-
-#### Application
-
-No application, but an inquiry driven approach.
-
-#### Deadline
-
-N/A
-
 ---
 
 ### [`SIDN Fonds`](https://www.sidnfonds.nl/over-het-fonds) :netherlands:
