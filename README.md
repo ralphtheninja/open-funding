@@ -1955,6 +1955,15 @@ Funded by [MOSS](https://www.mozilla.org/en-US/moss/).
 
 Work of [one of contributors](https://github.com/westnordost/StreetComplete/commits?author=matkoniecz) was sponsored by [NLNet Foundation](https://github.com/ralphtheninja/open-funding#nlnet-foundation), work by the [main author](https://github.com/streetcomplete/StreetComplete/commits?author=westnordost) was funded by [OpenStreetMap foundation](https://blog.openstreetmap.org/2020/07/01/osmf-microgrants-program-congratulations-to-selected-projects/) and [Prototype Fund](https://github.com/streetcomplete/StreetComplete#sponsors).
 
+### [`Open Compensation Token License`](https://www.license-token.com/)
+
+[The Open Compensation Token License (OCTL) introduces a blockchain-based funding model for open source](https://github.com/open-compensation-token-license), focusing on automatic compensation through tokenized royalties. This system mirrors traditional grants and sponsorships by:
+
+* **Automatic Royalties**: Smart contracts distribute tokens to creators with each use or redistribution of their work, akin to ongoing sponsorships but without manual disbursement.
+* **Decentralized Funding**: Like crowdfunding, but through tokens representing both investment and usage rights, reducing reliance on single sponsors.
+* **Transparent Licensing**: Blockchain ensures licensing terms are transparent and enforceable, similar to automated license management but with added trust.
+* **Sustainable Incentives**: Encourages ongoing contributions by directly linking compensation to usage, enhancing project sustainability beyond one-time grants.
+
 ## Time-bounded Opportunities
 
 ### 2024 September 13 - Open Tech Fund Impact and Engagement Lab RFP
@@ -1999,6 +2008,7 @@ Other models are more focused on the community, where members of the community p
 - [`Bountysource`](https://www.bountysource.com/)
 - [`Liberapay`](https://en.liberapay.com/)
 - [`GitHub Sponsors`](https://github.com/sponsors)
+
 
 ## Links
 
