@@ -821,7 +821,7 @@ From their webpage:
 - Rapid Reponse Fund (open)
   - <https://www.opentech.fund/funds/rapid-response-fund/>
 - Information Controls Fellowship
-- Surge and Sustain Fund (open)
+- Surge and Sustain Fund
   - <https://www.opentech.fund/funds/surge-and-sustain-fund/>
 - Technology at Scale Fund (open)
 - Learning Lab
