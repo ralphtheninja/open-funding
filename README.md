@@ -851,31 +851,6 @@ They also fund people by offering fellowships.
 
 ---
 
-### [`Open Source Collective (OSC)`](https://www.oscollective.org/)
-
-#### About
-
-Stay focused on your project — let us take care of all the accounting, taxes, invoices, and admin. You decide where the money gets spent, then we make it happen. Plus, your budget will be fully transparent to your community.
-
-#### Eligibility Criteria
-
-- licence (Free Software Foundation License List or Debian Free Software Guidelines or Fedora Software License List or Open Source Hardware Association Statement of Principles)
-- at least 100 stars on Github/Gitlab
-- at least 50 members
-- project must be directly related to open source, not proprietary technology or any other topics
-- meetups or small event groups should have organized at least 2 events previously
-- conferences and larger events may require specific risk assessment by our board
-
-#### Application
-
-<https://opencollective.com/opensource>
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Polkadot Treasury Fund`](https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w/edit)
 
 #### About
@@ -1998,6 +1973,16 @@ Other models are more focused on the community, where members of the community p
 - [`OpenCollective`](https://opencollective.com/)
 - [`Liberapay`](https://en.liberapay.com/)
 - [`GitHub Sponsors`](https://github.com/sponsors)
+
+## Fiscal Hosting
+
+Getting funds often relies upon having an organization, instead of having funds flow to an individual. Open source projects may need a *fiscal host* in order to satisfy these requirements. A fiscal host goes through the hard work of setting up a company, and they host projects that then do the hard work of coding and so on, and the host takes a small fee from any funds which flow to the project. 
+
+- [GNOME Foundation](https://foundation.gnome.org/)
+- [NumFOCUS](https://numfocus.org/)
+- [Open Source Collective](https://opencollective.com/opensource)
+- [PSF](https://www.python.org/psf-landing/)
+- [Software Freedom Conservancy](https://sfconservancy.org/)
 
 ## Links
 
