@@ -972,85 +972,6 @@ Closes: 2023-12-31 23:59.
 
 ---
 
-### [`Sloan Foundation`](https://sloan.org/programs/digital-technology/better-software-for-science)
-
-#### About
-
-We fund research and education in science, technology, engineering, mathematics and economics
-
-##### 1. Better Software for Science
-
-###### Open source in research
-
-Open source is much more than a licensing strategy, it is a set of community practices that enable the distributed production and maintenance of software that are not widely adopted in the research enterprise. The Better Software for Science program seeks opportunities to better understand and align best practices in open source with academic research, with a particular eye toward the health and maintenance of digital infrastructural dependencies upon which computational research relies.
-
-###### Software Publication and Archiving
-
-Software is not well-integrated into the scholarly communication system; scientific software is often not cited or well-archived, and can require substantial work to reuse. The Better Software for Science program seeks opportunities to elevate software as a first-order research product as well as efforts that aim to improve the linkages between software and other research outputs such as articles, preprints or data.
-
-###### Career paths and incentives
-
-The work of building and maintaining research software is often undervalued and marginalized in the research enterprise. The Better Software for Science program seeks opportunities to foreground and institutionalize the individuals and communities who are essential to the utility and durability of software in science, with particular attention to the roles of research software engineer, data scientist, and software curator.
-
-##### 2. Exploratory grant making in technology
-
-###### Open Hardware
-
-Open and cheap hardware has the potential to revolutionize the creation and deployment of sensors and other scientific instruments, expanding access and lowering barriers to innovation in data-driven research methods. Grants in this focus area seek to explore the potential for Foundation support to have an impact on the development of best practices, data standards, and emerging new practitioner communities in open hardware.
-
-###### Trust in Algorithmic Knowledge
-
-The complexity and opacity of AI-driven research methods has raised new questions about the degree to which their results can or should be trusted. Issues examined in this focus area include identifying and mitigating algorithmic bias, the role of training and benchmarking datasets in AI development, how Machine Learning techniques enhance or degrade rigor and reproducibility, and the ways that algorithmic recommendation systems influence trust in knowledge.  Grants focus on exploring these issues with an eye toward understanding the potential for Foundation impact.
-
-###### Virtual Collaboration
-
-Health, safety, and travel restrictions imposed in response to the global coronavirus pandemic made co-located scientific activities impossible. From conferences to classrooms to lab work, research communities responded by using new approaches and technology platforms to continue the practice of science. Grants in this focus area explore these innovations, their effects on research outcomes, and their post-pandemic durability, and encourage continued experimentation by research communities in how scientific practice might be effectively mediated by digital platforms and immersive technologies.
-
-##### 3. Data & computational research
-
-Grants in this program sought to partner with research communities to develop tools, standards, practices, and institutions that enable the efficient management and sharing of data and code at every point in the scientific pipeline—from acquisition through analysis to archiving.
-
-- <https://sloan.org/>
-- <https://sloan.org/grants/apply>
-- <https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/>
-
-#### Eligibility Criteria
-
-In selecting projects for funding, the Foundation seeks proposals for original initiatives led by outstanding individuals or teams.  We are interested in projects that have a high expected return to society, exhibit a high degree of methodological rigor, and for which funding from the private sector, government, or other foundations is not yet widely available.
-
-The Foundation does not generally make grants to for-profit institutions.
-
-From their [webpage](https://sloan.org/fellowships):
-
-> The Sloan Research Fellowships seek to stimulate fundamental research by early-career scientists and scholars of outstanding promise.
-
-and:
-
-> These two-year fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field. The 2018 Sloan Research Fellows will receive fellowships in the amount of $65,000
-
-There is also a [grant program](https://sloan.org/grants/apply), but [individuals are excluded](https://sloan.org/grants/apply#tab-what-we-do-not-fund)
-
-> does not make grants to individuals except through its Books program
-
-#### Application
-
-Interested grantseekers should send a two-page letter of inquiry to <technology@sloan.org>. After that follows the real grant proposal process
-
-Letter of Inquiry should include (1 or max 2 pages)
-
-A brief statement (1-2 sentences) about the nature and purpose of the proposed project;
-A description of the proposed work to be supported;
-An estimate of the total cost of the project and the amount of this total the proposer would likely seek from the Sloan Foundation;
-An estimate of the duration of the project;
-The grantseeker's title and contact information;
-The names, affiliations, and titles of other key members of the project, if any.
-
-#### Deadline
-
-N/A
-
----
-
 ### [`Sovereign Tech Fund`](https://sovereigntechfund.de/en/)
 
 #### About
@@ -1222,6 +1143,87 @@ N/A
 ---
 
 ## Currently Not Applicable
+
+
+
+---
+
+### [`Sloan Foundation`](https://sloan.org/programs/digital-technology/better-software-for-science)
+
+#### About
+
+We fund research and education in science, technology, engineering, mathematics and economics
+
+##### 1. Better Software for Science
+
+###### Open source in research
+
+Open source is much more than a licensing strategy, it is a set of community practices that enable the distributed production and maintenance of software that are not widely adopted in the research enterprise. The Better Software for Science program seeks opportunities to better understand and align best practices in open source with academic research, with a particular eye toward the health and maintenance of digital infrastructural dependencies upon which computational research relies.
+
+###### Software Publication and Archiving
+
+Software is not well-integrated into the scholarly communication system; scientific software is often not cited or well-archived, and can require substantial work to reuse. The Better Software for Science program seeks opportunities to elevate software as a first-order research product as well as efforts that aim to improve the linkages between software and other research outputs such as articles, preprints or data.
+
+###### Career paths and incentives
+
+The work of building and maintaining research software is often undervalued and marginalized in the research enterprise. The Better Software for Science program seeks opportunities to foreground and institutionalize the individuals and communities who are essential to the utility and durability of software in science, with particular attention to the roles of research software engineer, data scientist, and software curator.
+
+##### 2. Exploratory grant making in technology
+
+###### Open Hardware
+
+Open and cheap hardware has the potential to revolutionize the creation and deployment of sensors and other scientific instruments, expanding access and lowering barriers to innovation in data-driven research methods. Grants in this focus area seek to explore the potential for Foundation support to have an impact on the development of best practices, data standards, and emerging new practitioner communities in open hardware.
+
+###### Trust in Algorithmic Knowledge
+
+The complexity and opacity of AI-driven research methods has raised new questions about the degree to which their results can or should be trusted. Issues examined in this focus area include identifying and mitigating algorithmic bias, the role of training and benchmarking datasets in AI development, how Machine Learning techniques enhance or degrade rigor and reproducibility, and the ways that algorithmic recommendation systems influence trust in knowledge.  Grants focus on exploring these issues with an eye toward understanding the potential for Foundation impact.
+
+###### Virtual Collaboration
+
+Health, safety, and travel restrictions imposed in response to the global coronavirus pandemic made co-located scientific activities impossible. From conferences to classrooms to lab work, research communities responded by using new approaches and technology platforms to continue the practice of science. Grants in this focus area explore these innovations, their effects on research outcomes, and their post-pandemic durability, and encourage continued experimentation by research communities in how scientific practice might be effectively mediated by digital platforms and immersive technologies.
+
+##### 3. Data & computational research
+
+Grants in this program sought to partner with research communities to develop tools, standards, practices, and institutions that enable the efficient management and sharing of data and code at every point in the scientific pipeline—from acquisition through analysis to archiving.
+
+- <https://sloan.org/>
+- <https://sloan.org/grants/apply>
+- <https://www.softwareheritage.org/2020/05/20/welcoming-sloan-support-to-expand-the-software-heritage-archive/>
+
+#### Eligibility Criteria
+
+In selecting projects for funding, the Foundation seeks proposals for original initiatives led by outstanding individuals or teams.  We are interested in projects that have a high expected return to society, exhibit a high degree of methodological rigor, and for which funding from the private sector, government, or other foundations is not yet widely available.
+
+The Foundation does not generally make grants to for-profit institutions.
+
+From their [webpage](https://sloan.org/fellowships):
+
+> The Sloan Research Fellowships seek to stimulate fundamental research by early-career scientists and scholars of outstanding promise.
+
+and:
+
+> These two-year fellowships are awarded yearly to 126 researchers in recognition of distinguished performance and a unique potential to make substantial contributions to their field. The 2018 Sloan Research Fellows will receive fellowships in the amount of $65,000
+
+There is also a [grant program](https://sloan.org/grants/apply), but [individuals are excluded](https://sloan.org/grants/apply#tab-what-we-do-not-fund)
+
+> does not make grants to individuals except through its Books program
+
+#### Application
+
+Interested grantseekers should send a two-page letter of inquiry to <technology@sloan.org>. After that follows the real grant proposal process
+
+Letter of Inquiry should include (1 or max 2 pages)
+
+A brief statement (1-2 sentences) about the nature and purpose of the proposed project;
+A description of the proposed work to be supported;
+An estimate of the total cost of the project and the amount of this total the proposer would likely seek from the Sloan Foundation;
+An estimate of the duration of the project;
+The grantseeker's title and contact information;
+The names, affiliations, and titles of other key members of the project, if any.
+
+#### Deadline
+
+Applications are no longer being accepted, at least since 2025.
 
 ### [`Outreachy`](https://www.outreachy.org/)
 
