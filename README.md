@@ -1142,6 +1142,29 @@ N/A
 
 ---
 
+
+### [`Google Summer of Code`](https://summerofcode.withgoogle.com/)
+
+#### About
+
+Google Summer of Code is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12+ week programming project with the guidance of mentors from their open source organization.
+<https://summerofcode.withgoogle.com/>
+<https://developers.google.com/open-source/gsoc/help/student-stipends>
+
+#### Eligibility Criteria
+
+- Student or OS beginner
+- Organization working on OS
+
+#### Application
+
+N/A
+
+#### Deadline
+
+
+---
+
 ## Currently Not Applicable
 
 
@@ -1377,29 +1400,6 @@ N/A
 #### Deadline
 
 Full proposal accepted anytime
-
----
-
-### [`Google Summer of Code`](https://summerofcode.withgoogle.com/)
-
-#### About
-
-Google Summer of Code is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12+ week programming project with the guidance of mentors from their open source organization.
-<https://summerofcode.withgoogle.com/>
-<https://developers.google.com/open-source/gsoc/help/student-stipends>
-
-#### Eligibility Criteria
-
-- Student or OS beginner
-- Organization working on OS
-
-#### Application
-
-N/A
-
-#### Deadline
-
-Timeline for 2025 is not announced yet.
 
 ---
 
