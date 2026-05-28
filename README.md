@@ -473,32 +473,6 @@ N/A
 
 ---
 
-### [`Internet Freedom Support Fund @ Open collective`](https://opencollective.com/internet-freedom-support-fund)
-
-#### About
-
-Global internet freedom is more important than ever before. The internet is the primary way we communicate, collaborate, share knowledge and organize. We must therefore ensure it's freedom, openness, accessibility and privacy in order to revert the cycle of misinformation, polarization and the assault on our democracies occurring worldwide.
-
-At the forefront of this work is the Open Technology Fund (OTF), whose mission has been to support open technologies and communities that increase free expression, circumvent censorship, and obstruct repressive surveillance as a way to promote human rights and open societies.
-
-Through several funds and over the years, OTF funded  projects focused on counteracting repressive censorship and surveillance, enabling citizens worldwide to exercise their fundamental human rights online. Through the research, development, implementation, and sustainability of technologies that facilitate the free flow of information, increase at-risk users’ digital security, and enable free expression, the OTF community has been working to shape the Internet as a platform that fosters unimpeded connection and collaboration - facilitating positive social progress and reinforcing core democratic values.
-
-Since the loss of government funding, many of these projects have seen their funding halted overnight and as a community we must come together and ensure their ability to continue doing this work. This lack of funding exposes a weakness in the global internet freedom ecosystem which needs to be resolved.
-
-The Internet Freedom Support Fund will provide relief to projects essential to guarantee and increase internet freedom who have been receiving funding from OTF and have recently seen their funding cancelled due to OTF’s loss of government funds.
-
-#### Eligibility Criteria
-
-N/A
-
-#### Application
-
-N/A
-
-#### Deadline
-
-N/A
-
 ### [`Kusama`](https://kusama.polkassembly.io)
 
 #### About
@@ -1168,6 +1142,33 @@ N/A
 ## Currently Not Applicable
 
 
+---
+
+### [`Internet Freedom Support Fund @ Open collective`](https://opencollective.com/internet-freedom-support-fund)
+
+#### About
+
+Global internet freedom is more important than ever before. The internet is the primary way we communicate, collaborate, share knowledge and organize. We must therefore ensure it's freedom, openness, accessibility and privacy in order to revert the cycle of misinformation, polarization and the assault on our democracies occurring worldwide.
+
+At the forefront of this work is the Open Technology Fund (OTF), whose mission has been to support open technologies and communities that increase free expression, circumvent censorship, and obstruct repressive surveillance as a way to promote human rights and open societies.
+
+Through several funds and over the years, OTF funded  projects focused on counteracting repressive censorship and surveillance, enabling citizens worldwide to exercise their fundamental human rights online. Through the research, development, implementation, and sustainability of technologies that facilitate the free flow of information, increase at-risk users’ digital security, and enable free expression, the OTF community has been working to shape the Internet as a platform that fosters unimpeded connection and collaboration - facilitating positive social progress and reinforcing core democratic values.
+
+Since the loss of government funding, many of these projects have seen their funding halted overnight and as a community we must come together and ensure their ability to continue doing this work. This lack of funding exposes a weakness in the global internet freedom ecosystem which needs to be resolved.
+
+The Internet Freedom Support Fund will provide relief to projects essential to guarantee and increase internet freedom who have been receiving funding from OTF and have recently seen their funding cancelled due to OTF’s loss of government funds.
+
+#### Eligibility Criteria
+
+N/A
+
+#### Application
+
+N/A
+
+#### Deadline
+
+N/A
 
 ---
 
